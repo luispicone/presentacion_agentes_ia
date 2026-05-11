@@ -89,18 +89,30 @@ Mensaje oral:
 
 Un agente reduce la dependencia del talento individual para formular prompts, porque encapsula conocimiento, criterios y forma de trabajo orientados a una gestión consistente.
 
-### Slide 5 — Dónde agrega valor en una organización
+### Slide 5 — No hay función organizacional fuera del alcance
+
+Idea eje:
+
+Bajo gobierno, fuentes confiables y validación humana cuando corresponda, prácticamente no hay función de gestión o trabajo de conocimiento donde un agente de IA no pueda ejecutar, asistir, acelerar o mejorar tareas. La pregunta relevante no es si puede aportar valor, sino qué tarea conviene delegar, con qué nivel de autonomía y con qué controles.
 
 Procesos/tareas con alto potencial:
 
-- Dirección y comités: preparación de briefings, minutas, síntesis y seguimiento de decisiones.
-- Gestión documental: lectura, clasificación, actualización y búsqueda de evidencia.
-- Calidad y excelencia: autoevaluaciones, detección de brechas, preparación de auditorías.
-- Comercial y clientes: análisis de reclamos, propuestas, información de mercado y respuestas consistentes.
-- Finanzas y control: análisis preliminar de reportes, desvíos, presupuestos y escenarios.
-- Legales y compliance: revisión documental, obligaciones, vencimientos y trazabilidad.
-- Recursos humanos: onboarding, capacitación, gestión de conocimiento y consultas internas.
-- Operaciones: soporte a procedimientos, mantenimiento, seguridad, planificación y reportes.
+- Dirección y gobierno corporativo: preparación de briefings ejecutivos, minutas de directorio, seguimiento de decisiones, lectura de información crítica, armado de agendas, síntesis de riesgos y preparación de escenarios para discusión.
+- Estrategia y planeamiento: análisis de contexto, seguimiento de objetivos, actualización de planes, comparación de iniciativas, consolidación de información de mercado, identificación de desvíos y preparación de reportes para revisión estratégica.
+- Calidad, excelencia y sistemas de gestión: autoevaluaciones, detección de brechas, preparación de auditorías, búsqueda de evidencia, actualización documental, seguimiento de hallazgos, generación de planes de acción y trazabilidad de compromisos.
+- Operaciones, mantenimiento y seguridad: soporte a procedimientos, planificación de tareas, análisis de incidentes, preparación de reportes, asistencia en permisos/checklists, gestión de lecciones aprendidas y consulta operativa 24 horas.
+- Comercial, marketing y clientes: análisis de reclamos, segmentación de clientes, preparación de propuestas, respuestas consistentes, monitoreo de oportunidades, análisis competitivo, seguimiento de cuentas y soporte a campañas.
+- Finanzas, administración y control: análisis preliminar de reportes, seguimiento presupuestario, identificación de desvíos, preparación de escenarios, conciliaciones asistidas, control de vencimientos, tableros ejecutivos y soporte a cierres mensuales.
+- Legales, compliance y riesgos: revisión documental, obligaciones regulatorias, vencimientos, matrices de riesgo, análisis de contratos, preparación de respuestas, seguimiento de compromisos y trazabilidad de cumplimiento.
+- Recursos humanos y cultura: onboarding, capacitación, consultas internas, descripción de puestos, gestión del conocimiento, análisis de clima, comunicaciones internas, soporte a desempeño y planes de desarrollo.
+- Tecnología, sistemas y desarrollo de software: análisis de requerimientos, documentación funcional y técnica, generación y revisión de código, testing, detección de bugs, soporte a incidentes, automatización de tareas, análisis de logs, seguridad aplicativa y asistencia a equipos de desarrollo.
+- Compras, abastecimiento y proveedores: comparación de ofertas, análisis de proveedores, seguimiento de órdenes, control documental, evaluación de desempeño, detección de riesgos de suministro y preparación de negociaciones.
+- Comunicación, asuntos públicos y sostenibilidad: preparación de mensajes, análisis de stakeholders, seguimiento de compromisos ESG, reportes de sostenibilidad, respuestas institucionales y monitoreo reputacional.
+- Gestión documental y conocimiento: lectura, clasificación, búsqueda, actualización, síntesis y reutilización del conocimiento organizacional disperso en documentos, correos, actas, procedimientos y reportes.
+
+Mensaje central:
+
+> Un agente no debe pensarse como una herramienta para un área aislada. Debe pensarse como una capacidad transversal para gestionar tareas, procesos y conocimiento con más velocidad, consistencia y trazabilidad.
 
 ### Slide 6 — Valor económico y operativo
 
