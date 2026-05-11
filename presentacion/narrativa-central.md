@@ -10,9 +10,10 @@ La presentación debe avanzar desde una situación actual reconocible hacia una 
 4. El resultado es productividad aislada, pero también dispersión, riesgo, inconsistencia y pérdida de aprendizaje organizacional.
 5. El salto es transformar el uso de IA en una capacidad gestionada mediante agentes orientados a tareas, procesos y Excelencia Organizacional.
 6. Un agente de IA no depende solamente de la habilidad individual para escribir prompts: tiene propósito, instrucciones, contexto, fuentes, herramientas, memoria, límites y validación.
-7. Cuando se diseña para tareas o procesos concretos, puede generar valor, acelerar tiempos y reducir costos de manera exponencial en tareas repetitivas/escalables.
-8. Su disponibilidad 24 horas permite absorber trabajo repetitivo, preparar análisis, ordenar información y sostener continuidad operativa sin depender del horario humano.
-9. La condición es que no se implemente como moda, sino con gobierno, métricas, seguridad y responsabilidad clara.
+7. Bajo gobierno, fuentes confiables y validación humana cuando corresponda, prácticamente no hay función organizacional de gestión o trabajo de conocimiento fuera del alcance de un agente de IA.
+8. Cuando se diseña para tareas o procesos concretos, puede generar valor, acelerar tiempos y reducir costos de manera exponencial en tareas repetitivas/escalables.
+9. Su disponibilidad 24 horas permite absorber trabajo repetitivo, preparar análisis, ordenar información y sostener continuidad operativa sin depender del horario humano.
+10. La condición es que no se implemente como moda, sino con gobierno, métricas, seguridad y responsabilidad clara.
 
 ## Contraste principal
 
@@ -30,6 +31,7 @@ La presentación debe avanzar desde una situación actual reconocible hacia una 
 
 - Organizacional.
 - Diseñado para tareas, procesos o roles específicos.
+- Aplicable de forma transversal: dirección, estrategia, calidad, operaciones, comercial, finanzas, legales, recursos humanos, tecnología/desarrollo de software, compras, comunicación, sostenibilidad y gestión documental.
 - Estandarizable y mejorable.
 - Con fuentes, instrucciones y reglas explícitas.
 - Con trazabilidad y validación.
@@ -38,7 +40,7 @@ La presentación debe avanzar desde una situación actual reconocible hacia una 
 
 ## Mensaje rector
 
-El objetivo no es prohibir el uso espontáneo de IA, sino superarlo. La pregunta directiva es cómo pasar de empleados usando prompts en forma aislada a agentes de IA diseñados, gobernados y entrenados para crear valor real en procesos de la organización.
+El objetivo no es prohibir el uso espontáneo de IA, sino superarlo. La pregunta directiva es cómo pasar de empleados usando prompts en forma aislada a agentes de IA diseñados, gobernados y entrenados para crear valor real en procesos de toda la organización, incluyendo tecnología y desarrollo de software.
 
 ## Frase de síntesis
 

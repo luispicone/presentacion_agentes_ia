@@ -8,6 +8,8 @@ El enfoque debe partir de una tensión concreta que esta audiencia probablemente
 
 La oportunidad directiva es pasar de ese uso disperso mediante prompts a agentes de IA entrenados para gestionar tareas y procesos específicos orientados a la Excelencia Organizacional. Ahí aparece el valor empresarial: velocidad, consistencia, trazabilidad, disponibilidad 24 horas y reducción exponencial de costos operativos y de coordinación en tareas repetitivas/escalables.
 
+El foco ya no debe limitarse a una función puntual: con el diseño adecuado, los agentes pueden asistir o ejecutar trabajo de conocimiento en dirección, estrategia, calidad, operaciones, clientes, finanzas, legales, recursos humanos, tecnología, desarrollo de software, compras, comunicación, sostenibilidad y gestión documental.
+
 ## Qué es EXCELENCIA
 
 Según la información institucional relevada, EXCELENCIA se presenta como una red o ecosistema de interacción de la Excelencia Competitiva e Innovación, avalada por tres organizaciones:
@@ -32,6 +34,7 @@ Para esta audiencia, conviene conectar agentes de IA con los temas propios del m
 
 - Liderazgo: la alta dirección define para qué se usará la IA, con qué límites y bajo qué responsabilidades.
 - Sistema de gestión: los agentes se integran a procesos, documentación, indicadores, riesgos y mejora continua.
+- Transversalidad: prácticamente toda función organizacional con tareas de conocimiento puede ser asistida, acelerada o gestionada parcialmente por agentes, desde dirección hasta tecnología y desarrollo de software.
 - Resultados: el impacto se mide en tiempos, costos, calidad, disponibilidad, consistencia, aprendizaje y capacidad decisoria.
 - Innovación: el salto no es usar IA por novedad, sino convertirla en una práctica organizacional repetible.
 - Personas: los agentes aumentan la capacidad de los equipos, reducen tareas repetitivas y liberan tiempo para criterio, vínculo y decisión.

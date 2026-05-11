@@ -20,11 +20,13 @@ Cuando una organización diseña agentes, deja de depender solamente de la habil
 
 ## 6:00-11:00 — Procesos y tareas donde agrega valor
 
-Los agentes agregan valor donde hay mucho trabajo de conocimiento repetitivo, mucha documentación, necesidad de consistencia o tiempos largos de preparación.
+Bajo gobierno, fuentes confiables y validación humana cuando corresponda, prácticamente no hay función organizacional de gestión o trabajo de conocimiento donde un agente de IA no pueda ejecutar, asistir, acelerar o mejorar tareas. La pregunta no es si puede aportar valor, sino qué tarea conviene delegar, con qué nivel de autonomía y con qué controles.
 
-Pueden ayudar a preparar comités de dirección, resumir decisiones, analizar indicadores, revisar documentación, detectar brechas, asistir auditorías, ordenar conocimiento, responder consultas internas, preparar propuestas, analizar reclamos o generar reportes.
+En dirección puede preparar briefings, minutas, seguimiento de decisiones y escenarios. En estrategia puede analizar contexto, objetivos, iniciativas y desvíos. En calidad y excelencia puede asistir autoevaluaciones, auditorías, búsqueda de evidencia, brechas y planes de acción. En operaciones puede apoyar procedimientos, reportes, incidentes, mantenimiento y seguridad. En comercial y clientes puede analizar reclamos, propuestas, mercado, campañas y cuentas.
 
-La clave es que no trabajan como herramientas genéricas, sino como asistentes entrenados para tareas concretas. Un agente para calidad no trabaja igual que uno para legales, finanzas, recursos humanos, operaciones o comercial.
+En finanzas puede asistir reportes, presupuesto, desvíos, cierres y tableros. En legales y compliance puede revisar documentos, vencimientos, contratos, obligaciones y riesgos. En recursos humanos puede apoyar onboarding, capacitación, consultas internas, cultura y gestión del conocimiento. En tecnología y desarrollo de software puede analizar requerimientos, documentar, generar o revisar código, testear, detectar bugs, analizar logs, automatizar tareas y asistir incidentes. También puede aportar en compras, proveedores, comunicación, sostenibilidad y gestión documental.
+
+La clave es que no trabajan como herramientas genéricas, sino como agentes entrenados para tareas concretas. Un agente para calidad no trabaja igual que uno para legales, finanzas, recursos humanos, operaciones, comercial o desarrollo de software.
 
 Ahí aparece el valor: acelerar tiempos, reducir costos de manera exponencial en tareas repetitivas/escalables, sostener disponibilidad 24 horas, bajar retrabajo y mejorar la consistencia de los entregables.
 
