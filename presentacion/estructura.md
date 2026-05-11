@@ -1,4 +1,4 @@
-# Estructura de presentación — Agentes de IA para dirección empresaria
+# Estructura de presentación — Agentes de IA que gestionan orientados a la Excelencia Organizacional
 
 ## Datos base
 
@@ -7,13 +7,13 @@
 - Audiencia: CEOs y directores de empresas argentinas socias/vinculadas a EXCELENCIA.
 - Duración total: 20 minutos.
 - Enfoque: estratégico, ejecutivo y práctico.
-- Objetivo: que la audiencia entienda cómo pasar del uso individual y disperso de IA mediante prompts hacia agentes entrenados para tareas y gestión específica, con valor medible, control y reducción de riesgos.
+- Objetivo: que la audiencia entienda cómo pasar del uso individual y disperso de IA mediante prompts hacia agentes entrenados para tareas y gestión específica, orientados a la Excelencia Organizacional, con valor medible, control y reducción de riesgos.
 
 ## Tesis central
 
 La mayoría de las organizaciones ya tiene IA adentro, aunque no siempre lo haya decidido formalmente: sus empleados la usan con prompts para escribir, resumir, analizar o resolver tareas puntuales. Ese uso puede ser útil, pero suele operar sin control, sin eje, sin estándar, sin gobierno y sin validación.
 
-Los agentes de IA representan el siguiente nivel de madurez: sistemas diseñados para tareas, procesos o roles específicos, con instrucciones, contexto, herramientas, memoria, fuentes confiables, reglas y supervisión. Su valor está en convertir productividad individual dispersa en capacidad organizacional: más velocidad, mayor consistencia, disponibilidad 24 horas y reducción exponencial de costos operativos en tareas repetitivas/escalables.
+Los agentes de IA representan el siguiente nivel de madurez: sistemas diseñados para gestionar tareas, procesos o roles específicos, con instrucciones, contexto, herramientas, memoria, fuentes confiables, reglas y supervisión. Su valor está en convertir productividad individual dispersa en capacidad de Excelencia Organizacional: más velocidad, mayor consistencia, disponibilidad 24 horas y reducción exponencial de costos operativos en tareas repetitivas/escalables.
 
 ## Promesa para la audiencia
 
@@ -38,11 +38,11 @@ Al terminar, cada CEO/director debería poder responder tres preguntas:
 
 ### Slide 1 — Título
 
-**Agentes de IA: de prompts sueltos a capacidad organizacional**
+**Agentes de IA que gestionan: de prompts sueltos a Excelencia Organizacional**
 
-Subtítulo: Fundamentos, creación y uso para dirección empresaria.
+Subtítulo: Fundamentos, creación y uso para gestionar tareas y procesos orientados a la Excelencia Organizacional.
 
-Mensaje oral: esta charla no trata de prohibir el uso espontáneo de IA; trata de mostrar cómo convertirlo en valor gobernado para la organización.
+Mensaje oral: esta charla no trata de prohibir el uso espontáneo de IA; trata de mostrar cómo convertirlo en gestión gobernada, medible y orientada a la Excelencia Organizacional.
 
 ### Slide 2 — La IA ya está dentro de la empresa
 
@@ -71,7 +71,7 @@ Comparación simple:
 
 Frase central:
 
-> El prompt mejora una tarea. El agente puede mejorar un proceso.
+> El prompt mejora una tarea. El agente puede gestionar y mejorar un proceso.
 
 ### Slide 4 — Qué diferencia a un agente de IA
 
@@ -87,7 +87,7 @@ Un agente de IA tiene:
 
 Mensaje oral:
 
-Un agente reduce la dependencia del talento individual para formular prompts, porque encapsula conocimiento, criterios y forma de trabajo.
+Un agente reduce la dependencia del talento individual para formular prompts, porque encapsula conocimiento, criterios y forma de trabajo orientados a una gestión consistente.
 
 ### Slide 5 — Dónde agrega valor en una organización
 
@@ -121,7 +121,7 @@ Mensaje central:
 
 Narrativa sugerida:
 
-Un agente entrenado para gestión de calidad o excelencia puede leer documentación interna, comparar prácticas contra un modelo, buscar evidencia, detectar brechas, preparar preguntas para responsables, proponer acciones y dejar trazabilidad. No reemplaza al directivo ni al experto: reduce el costo y el tiempo de preparación para que la decisión humana sea mejor y más rápida.
+Un agente entrenado para gestión de calidad o excelencia puede leer documentación interna, comparar prácticas contra un modelo, buscar evidencia, detectar brechas, preparar preguntas para responsables, proponer acciones y dejar trazabilidad. No reemplaza al directivo ni al experto: gestiona trabajo preparatorio, reduce el costo y el tiempo de análisis, y permite que la decisión humana sea mejor y más rápida.
 
 Puntos a mostrar:
 
@@ -158,7 +158,7 @@ Controles mínimos:
 
 Mensaje central:
 
-> Sin gobierno, la IA queda dispersa en prompts individuales. Con gobierno, los agentes pueden transformarse en una capacidad empresarial.
+> Sin gobierno, la IA queda dispersa en prompts individuales. Con gobierno, los agentes pueden transformarse en una capacidad de Excelencia Organizacional.
 
 ### Slide 10 — Cierre
 
@@ -174,4 +174,4 @@ Frase de cierre sugerida:
 
 ## Mensaje rector para Luis
 
-Evitar una charla técnica. La audiencia necesita reconocer un problema actual de gestión: uso informal de IA sin control. Desde ahí, la presentación debe mostrar una evolución natural hacia agentes de IA diseñados para procesos, con gobierno, validación, métricas y retorno económico.
+Evitar una charla técnica. La audiencia necesita reconocer un problema actual de gestión: uso informal de IA sin control. Desde ahí, la presentación debe mostrar una evolución natural hacia agentes de IA que gestionan tareas y procesos, con gobierno, validación, métricas, retorno económico y orientación a la Excelencia Organizacional.

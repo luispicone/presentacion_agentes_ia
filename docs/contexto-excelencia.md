@@ -6,7 +6,7 @@ La presentación está dirigida a CEOs y directores de empresas argentinas vincu
 
 El enfoque debe partir de una tensión concreta que esta audiencia probablemente ya está viviendo: los empleados de las organizaciones ya usan IA, pero muchas veces lo hacen de manera individual, sin control, sin eje, sin estándar, sin gobierno y sin validación. Ese uso puede dar productividad puntual, pero no necesariamente genera capacidad organizacional ni aprendizaje colectivo.
 
-La oportunidad directiva es pasar de ese uso disperso mediante prompts a agentes de IA entrenados para tareas, procesos y gestión específica. Ahí aparece el valor empresarial: velocidad, consistencia, trazabilidad, disponibilidad 24 horas y reducción exponencial de costos operativos y de coordinación en tareas repetitivas/escalables.
+La oportunidad directiva es pasar de ese uso disperso mediante prompts a agentes de IA entrenados para gestionar tareas y procesos específicos orientados a la Excelencia Organizacional. Ahí aparece el valor empresarial: velocidad, consistencia, trazabilidad, disponibilidad 24 horas y reducción exponencial de costos operativos y de coordinación en tareas repetitivas/escalables.
 
 ## Qué es EXCELENCIA
 
@@ -44,7 +44,7 @@ El tono debe ser ejecutivo, estratégico y práctico:
 - Poco foco en hype técnico.
 - Mucho foco en gestión, gobernanza, competitividad, productividad y decisiones.
 - Ejemplos concretos y comprensibles para dirección.
-- Mensaje principal: la IA usada solo por prompts queda en productividad individual; los agentes bien gobernados pueden convertirse en infraestructura de gestión.
+- Mensaje principal: la IA usada solo por prompts queda en productividad individual; los agentes bien gobernados pueden convertirse en infraestructura de gestión orientada a la Excelencia Organizacional.
 
 ## Fuentes consultadas
 

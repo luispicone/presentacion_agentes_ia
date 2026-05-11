@@ -6,15 +6,15 @@ La inteligencia artificial ya está dentro de las empresas, aunque muchas veces 
 
 Eso no está necesariamente mal. De hecho, muestra que hay una necesidad real de productividad. Pero también abre una pregunta de gestión: ¿qué pasa cuando ese uso crece sin control, sin eje, sin estándar, sin gobierno y sin validación?
 
-Para una organización orientada a la excelencia, el desafío no es frenar la IA. El desafío es convertir ese uso disperso en una capacidad gestionada.
+Para una organización orientada a la excelencia, el desafío no es frenar la IA. El desafío es convertir ese uso disperso en una capacidad gestionada y alineada con la Excelencia Organizacional.
 
 ## 2:00-6:00 — De prompts a agentes
 
 El uso más común de IA hoy es el prompt: una persona le pide algo a una herramienta y obtiene una respuesta. Eso mejora tareas individuales, pero depende mucho de quién pregunta, cómo pregunta, qué información comparte y cómo valida el resultado.
 
-Un agente de IA es distinto. No es solamente una conversación. Es un sistema diseñado para trabajar sobre una tarea o proceso específico. Tiene propósito, instrucciones, contexto, herramientas, memoria, reglas y validación.
+Un agente de IA es distinto. No es solamente una conversación. Es un sistema diseñado para gestionar una tarea o proceso específico. Tiene propósito, instrucciones, contexto, herramientas, memoria, reglas y validación.
 
-La diferencia central es esta: el prompt mejora una tarea; el agente puede mejorar un proceso.
+La diferencia central es esta: el prompt mejora una tarea; el agente puede gestionar y mejorar un proceso.
 
 Cuando una organización diseña agentes, deja de depender solamente de la habilidad individual para escribir buenos prompts y empieza a encapsular criterios, fuentes, formas de trabajo y controles.
 
@@ -46,7 +46,7 @@ Pero esos riesgos son mayores cuando la IA se usa de manera informal y atomizada
 
 La respuesta ejecutiva es gobierno: dueño del agente, casos de uso aprobados, fuentes validadas, permisos por criticidad, estándares de respuesta, registro de acciones y validación humana en decisiones sensibles.
 
-En términos simples: sin gobierno, la IA queda dispersa. Con gobierno, los agentes pueden convertirse en capacidad organizacional.
+En términos simples: sin gobierno, la IA queda dispersa. Con gobierno, los agentes pueden convertirse en capacidad de Excelencia Organizacional.
 
 ## 18:00-20:00 — Cierre
 

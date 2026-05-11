@@ -2,13 +2,13 @@
 
 ## Hilo conductor
 
-La presentación debe avanzar desde una situación actual reconocible hacia una propuesta de madurez organizacional:
+La presentación debe avanzar desde una situación actual reconocible hacia una propuesta de madurez y Excelencia Organizacional:
 
 1. Los empleados ya están usando IA.
 2. En muchos casos la usan mediante prompts individuales.
 3. Ese uso suele ser informal: sin control, sin eje, sin estándar, sin gobierno y sin validación.
 4. El resultado es productividad aislada, pero también dispersión, riesgo, inconsistencia y pérdida de aprendizaje organizacional.
-5. El salto es transformar el uso de IA en una capacidad gestionada mediante agentes.
+5. El salto es transformar el uso de IA en una capacidad gestionada mediante agentes orientados a tareas, procesos y Excelencia Organizacional.
 6. Un agente de IA no depende solamente de la habilidad individual para escribir prompts: tiene propósito, instrucciones, contexto, fuentes, herramientas, memoria, límites y validación.
 7. Cuando se diseña para tareas o procesos concretos, puede generar valor, acelerar tiempos y reducir costos de manera exponencial en tareas repetitivas/escalables.
 8. Su disponibilidad 24 horas permite absorber trabajo repetitivo, preparar análisis, ordenar información y sostener continuidad operativa sin depender del horario humano.
@@ -42,4 +42,4 @@ El objetivo no es prohibir el uso espontáneo de IA, sino superarlo. La pregunta
 
 ## Frase de síntesis
 
-> De prompts sueltos a agentes gobernados: ese es el salto entre usar IA y convertirla en una capacidad organizacional.
+> De prompts sueltos a agentes que gestionan: ese es el salto entre usar IA y convertirla en una capacidad de Excelencia Organizacional.

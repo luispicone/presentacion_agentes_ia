@@ -17,7 +17,7 @@
 - Lenguaje de dirección, no de programación.
 - Evitar promesas absolutas.
 - Usar conceptos de excelencia: liderazgo, sistema de gestión, innovación, procesos, personas, resultados.
-- Mantener el hilo conductor: del uso informal de IA mediante prompts hacia agentes entrenados y gobernados.
+- Mantener el hilo conductor: del uso informal de IA mediante prompts hacia agentes entrenados, gobernados y orientados a la Excelencia Organizacional.
 
 ## Preguntas esperables de la audiencia
 
