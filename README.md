@@ -1,1 +1,1 @@
-## Presentación sobre fundamentos, creación y uso de Aegntes de IA 
+## Presentación sobre fundamentos, creación y uso de Agentes de IA 
