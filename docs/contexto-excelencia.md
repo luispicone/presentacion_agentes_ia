@@ -4,7 +4,9 @@
 
 La presentación está dirigida a CEOs y directores de empresas argentinas vinculadas al ecosistema EXCELENCIA, asociado a la Fundación Premio Nacional a la Calidad (FPNC), FUNDECE e IPACE.
 
-El enfoque debe partir de una idea central: los agentes de IA no son una moda tecnológica aislada, sino una nueva capa de gestión, productividad, aprendizaje organizacional y mejora continua. Para esta audiencia, el punto relevante no es "qué herramienta usar", sino cómo transformar capacidades directivas, procesos, indicadores, conocimiento y toma de decisiones.
+El enfoque debe partir de una tensión concreta que esta audiencia probablemente ya está viviendo: los empleados de las organizaciones ya usan IA, pero muchas veces lo hacen de manera individual, sin control, sin eje, sin estándar, sin gobierno y sin validación. Ese uso puede dar productividad puntual, pero no necesariamente genera capacidad organizacional ni aprendizaje colectivo.
+
+La oportunidad directiva es pasar de ese uso disperso mediante prompts a agentes de IA entrenados para tareas, procesos y gestión específica. Ahí aparece el valor empresarial: velocidad, consistencia, trazabilidad, disponibilidad 24 horas y reducción exponencial de costos operativos y de coordinación en tareas repetitivas/escalables.
 
 ## Qué es EXCELENCIA
 
@@ -28,21 +30,21 @@ El modelo se usa también como recurso abierto para autoevaluación y mejora de 
 
 Para esta audiencia, conviene conectar agentes de IA con los temas propios del modelo de excelencia:
 
-- Liderazgo: cómo la alta dirección define propósito, gobernanza y criterios de uso.
-- Sistema de gestión: cómo los agentes se integran a procesos, documentación, indicadores, riesgos y mejora continua.
-- Resultados: cómo medir impacto en productividad, calidad, tiempos, aprendizaje, satisfacción y capacidad decisoria.
-- Innovación: cómo pasar de experimentos aislados a capacidades organizacionales repetibles.
-- Personas: cómo aumentar criterio, autonomía y colaboración sin reemplazar responsabilidad humana.
-- Responsabilidad y control: cómo operar con trazabilidad, seguridad, privacidad y supervisión.
+- Liderazgo: la alta dirección define para qué se usará la IA, con qué límites y bajo qué responsabilidades.
+- Sistema de gestión: los agentes se integran a procesos, documentación, indicadores, riesgos y mejora continua.
+- Resultados: el impacto se mide en tiempos, costos, calidad, disponibilidad, consistencia, aprendizaje y capacidad decisoria.
+- Innovación: el salto no es usar IA por novedad, sino convertirla en una práctica organizacional repetible.
+- Personas: los agentes aumentan la capacidad de los equipos, reducen tareas repetitivas y liberan tiempo para criterio, vínculo y decisión.
+- Responsabilidad y control: la autonomía se combina con trazabilidad, seguridad, privacidad, permisos y validación humana.
 
 ## Implicancia para el tono de la charla
 
 El tono debe ser ejecutivo, estratégico y práctico:
 
 - Poco foco en hype técnico.
-- Mucho foco en gestión, gobernanza, competitividad y decisiones.
+- Mucho foco en gestión, gobernanza, competitividad, productividad y decisiones.
 - Ejemplos concretos y comprensibles para dirección.
-- Mensaje principal: los agentes de IA son una herramienta de excelencia operacional y directiva cuando se diseñan con propósito, controles y métricas.
+- Mensaje principal: la IA usada solo por prompts queda en productividad individual; los agentes bien gobernados pueden convertirse en infraestructura de gestión.
 
 ## Fuentes consultadas
 
