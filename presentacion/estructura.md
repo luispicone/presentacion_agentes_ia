@@ -2,37 +2,40 @@
 
 ## Datos base
 
-- Tema: fundamentos, creación y uso de agentes de IA.
+- Tema: fundamentos, creación, uso y resultados de agentes de IA.
 - Orador: Luis Picone.
 - Audiencia: CEOs y directores de empresas argentinas socias/vinculadas a EXCELENCIA.
-- Duración total: 20 minutos.
-- Enfoque: estratégico, ejecutivo y práctico.
-- Objetivo: que la audiencia entienda cómo pasar del uso individual y disperso de IA mediante prompts hacia agentes entrenados para tareas y gestión específica, orientados a la Excelencia Organizacional, con valor medible, control y reducción de riesgos.
+- Duración total: 30 minutos.
+- Enfoque: estratégico, ejecutivo, práctico y orientado a resultados.
+- Objetivo: que la audiencia entienda cómo pasar del uso individual y disperso de IA mediante prompts hacia agentes entrenados para tareas y gestión específica, orientados a la Excelencia Organizacional, con valor medible, control, reducción de riesgos y evidencia aplicada en casos concretos.
 
 ## Tesis central
 
 La mayoría de las organizaciones ya tiene IA adentro, aunque no siempre lo haya decidido formalmente: sus empleados la usan con prompts para escribir, resumir, analizar o resolver tareas puntuales. Ese uso puede ser útil, pero suele operar sin control, sin eje, sin estándar, sin gobierno y sin validación.
 
-Los agentes de IA representan el siguiente nivel de madurez: sistemas diseñados para gestionar tareas, procesos o roles específicos, con instrucciones, contexto, herramientas, memoria, fuentes confiables, reglas y supervisión. Su valor está en convertir productividad individual dispersa en capacidad de Excelencia Organizacional: más velocidad, mayor consistencia, disponibilidad 24 horas y reducción exponencial de costos operativos en tareas repetitivas/escalables.
+Los agentes de IA representan el siguiente nivel de madurez: sistemas diseñados para gestionar tareas, procesos o roles específicos, con instrucciones, contexto, herramientas, memoria, fuentes confiables, reglas y supervisión. Su valor está en convertir productividad individual dispersa en capacidad de Excelencia Organizacional: más velocidad, mayor consistencia, disponibilidad 24 horas, trazabilidad y reducción exponencial de costos operativos en tareas repetitivas/escalables.
+
+El cambio de enfoque para la versión de 30 minutos es que la charla no debe quedarse en la explicación conceptual. Después de presentar las ventajas de los agentes, debe dedicar un bloque específico a mostrar casos de éxito donde el servicio de EXCELENCIA aplicado a empresas permitió obtener resultados del tipo descrito: mayor profundidad analítica, mayor velocidad, productividad multiplicada, mejor uso del talento humano y capacidad de gestión aumentada.
 
 ## Promesa para la audiencia
 
-Al terminar, cada CEO/director debería poder responder tres preguntas:
+Al terminar, cada CEO/director debería poder responder cuatro preguntas:
 
 1. Qué diferencia a un agente de IA de el uso de la IA a través de prompts.
 2. En qué procesos/tareas de una organización puede agregar valor un agente de IA.
-3. Qué condiciones mínimas se necesitan para implementarlo sin improvisación ni riesgo innecesario.
+3. Qué resultados concretos puede generar cuando se implementa como servicio de gestión.
+4. Qué condiciones mínimas se necesitan para implementarlo sin improvisación ni riesgo innecesario.
 
 ## Distribución de tiempo
 
 | Bloque | Tiempo | Propósito |
 |---|---:|---|
-| 1. Apertura: la IA ya entró a la organización | 2 min | Instalar el problema del uso disperso e informal |
-| 2. De prompts a agentes | 4 min | Explicar la diferencia entre uso individual y sistema diseñado |
-| 3. Procesos y tareas donde agrega valor | 5 min | Mostrar usos concretos organizacionales |
-| 4. Cómo se diseña un agente útil | 4 min | Presentar componentes y decisiones de diseño |
-| 5. Gobierno, validación y riesgo | 3 min | Marcar controles mínimos para escalar sin improvisación |
-| 6. Cierre: de experimento a capacidad | 2 min | Dejar mensaje accionable para dirección |
+| 1. Apertura: la IA ya entró a la organización | 3 min | Instalar el problema del uso disperso e informal |
+| 2. De prompts a agentes | 5 min | Explicar la diferencia entre uso individual y sistema diseñado |
+| 3. Procesos y tareas donde agrega valor | 5 min | Mostrar alcance transversal y ventajas económicas/operativas |
+| 4. Casos de éxito de EXCELENCIA aplicando agentes de IA | 10 min | Demostrar resultados concretos con dos casos claros |
+| 5. Cómo se diseña y gobierna un agente útil | 5 min | Presentar componentes, gobierno, validación y controles mínimos |
+| 6. Cierre: de experimento a capacidad organizacional | 2 min | Dejar mensaje accionable para dirección |
 
 ## Estructura sugerida de slides
 
@@ -40,7 +43,7 @@ Al terminar, cada CEO/director debería poder responder tres preguntas:
 
 **Agentes de IA que gestionan: de prompts sueltos a Excelencia Organizacional**
 
-Subtítulo: Fundamentos, creación y uso para gestionar tareas y procesos orientados a la Excelencia Organizacional.
+Subtítulo: Fundamentos, creación, uso y resultados aplicados en organizaciones.
 
 Mensaje oral: esta charla no trata de prohibir el uso espontáneo de IA; trata de mostrar cómo convertirlo en gestión gobernada, medible y orientada a la Excelencia Organizacional.
 
@@ -97,18 +100,18 @@ Bajo gobierno, fuentes confiables y validación humana cuando corresponda, prác
 
 Procesos/tareas con alto potencial:
 
-- Dirección y gobierno corporativo: preparación de briefings ejecutivos, minutas de directorio, seguimiento de decisiones, lectura de información crítica, armado de agendas, síntesis de riesgos y preparación de escenarios para discusión.
-- Estrategia y planeamiento: análisis de contexto, seguimiento de objetivos, actualización de planes, comparación de iniciativas, consolidación de información de mercado, identificación de desvíos y preparación de reportes para revisión estratégica.
-- Calidad, excelencia y sistemas de gestión: autoevaluaciones, detección de brechas, preparación de auditorías, búsqueda de evidencia, actualización documental, seguimiento de hallazgos, generación de planes de acción y trazabilidad de compromisos.
-- Operaciones, mantenimiento y seguridad: soporte a procedimientos, planificación de tareas, análisis de incidentes, preparación de reportes, asistencia en permisos/checklists, gestión de lecciones aprendidas y consulta operativa 24 horas.
-- Comercial, marketing y clientes: análisis de reclamos, segmentación de clientes, preparación de propuestas, respuestas consistentes, monitoreo de oportunidades, análisis competitivo, seguimiento de cuentas y soporte a campañas.
-- Finanzas, administración y control: análisis preliminar de reportes, seguimiento presupuestario, identificación de desvíos, preparación de escenarios, conciliaciones asistidas, control de vencimientos, tableros ejecutivos y soporte a cierres mensuales.
-- Legales, compliance y riesgos: revisión documental, obligaciones regulatorias, vencimientos, matrices de riesgo, análisis de contratos, preparación de respuestas, seguimiento de compromisos y trazabilidad de cumplimiento.
-- Recursos humanos y cultura: onboarding, capacitación, consultas internas, descripción de puestos, gestión del conocimiento, análisis de clima, comunicaciones internas, soporte a desempeño y planes de desarrollo.
-- Tecnología, sistemas y desarrollo de software: análisis de requerimientos, documentación funcional y técnica, generación y revisión de código, testing, detección de bugs, soporte a incidentes, automatización de tareas, análisis de logs, seguridad aplicativa y asistencia a equipos de desarrollo.
-- Compras, abastecimiento y proveedores: comparación de ofertas, análisis de proveedores, seguimiento de órdenes, control documental, evaluación de desempeño, detección de riesgos de suministro y preparación de negociaciones.
-- Comunicación, asuntos públicos y sostenibilidad: preparación de mensajes, análisis de stakeholders, seguimiento de compromisos ESG, reportes de sostenibilidad, respuestas institucionales y monitoreo reputacional.
-- Gestión documental y conocimiento: lectura, clasificación, búsqueda, actualización, síntesis y reutilización del conocimiento organizacional disperso en documentos, correos, actas, procedimientos y reportes.
+- Dirección y gobierno corporativo: briefings ejecutivos, minutas, seguimiento de decisiones, lectura crítica, agendas, síntesis de riesgos y escenarios.
+- Estrategia y planeamiento: análisis de contexto, seguimiento de objetivos, actualización de planes, comparación de iniciativas, mercado, desvíos y reportes estratégicos.
+- Calidad, excelencia y sistemas de gestión: autoevaluaciones, brechas, auditorías, búsqueda de evidencia, actualización documental, hallazgos, planes de acción y trazabilidad.
+- Operaciones, mantenimiento y seguridad: procedimientos, planificación, incidentes, reportes, permisos/checklists, lecciones aprendidas y consulta operativa 24 horas.
+- Comercial, marketing y clientes: reclamos, segmentación, propuestas, respuestas consistentes, oportunidades, análisis competitivo, cuentas y campañas.
+- Finanzas, administración y control: reportes, presupuesto, desvíos, escenarios, conciliaciones asistidas, vencimientos, tableros y cierres.
+- Legales, compliance y riesgos: revisión documental, obligaciones regulatorias, contratos, vencimientos, matrices de riesgo, respuestas y compromisos.
+- Recursos humanos y cultura: onboarding, capacitación, consultas internas, puestos, conocimiento, clima, comunicaciones y desempeño.
+- Tecnología, sistemas y desarrollo de software: requerimientos, documentación, generación/revisión de código, testing, bugs, logs, automatización, seguridad aplicativa e incidentes.
+- Compras, abastecimiento y proveedores: ofertas, proveedores, órdenes, documentación, desempeño, riesgos de suministro y negociaciones.
+- Comunicación, asuntos públicos y sostenibilidad: mensajes, stakeholders, compromisos ESG, reportes, respuestas institucionales y reputación.
+- Gestión documental y conocimiento: lectura, clasificación, búsqueda, actualización, síntesis y reutilización de conocimiento disperso.
 
 Mensaje central:
 
@@ -124,25 +127,64 @@ Palancas de valor:
 - Consistencia: criterios homogéneos y reutilizables.
 - Escalabilidad: un agente puede asistir a múltiples personas o áreas.
 - Trazabilidad: evidencia, fuentes, decisiones y entregables mejor registrados.
+- Elevación del rol humano: menos tiempo operativo repetitivo y más tiempo para criterio, diseño, decisión y relación.
 
 Mensaje central:
 
 > El ahorro no viene solo de hacer más rápido una tarea; viene de reducir fricción, retrabajo, dependencia individual y tiempos muertos en procesos completos.
 
-### Slide 7 — Ejemplo concreto: agente entrenado para gestión específica
+### Slide 7 — Caso de éxito 1: agente de excelencia para matrices ISO y PNC
 
-Narrativa sugerida:
+Caso a presentar:
 
-Un agente entrenado para gestión de calidad o excelencia puede leer documentación interna, comparar prácticas contra un modelo, buscar evidencia, detectar brechas, preparar preguntas para responsables, proponer acciones y dejar trazabilidad. No reemplaza al directivo ni al experto: gestiona trabajo preparatorio, reduce el costo y el tiempo de análisis, y permite que la decisión humana sea mejor y más rápida.
+EXCELENCIA acompaña a una empresa en la evaluación de su sistema de gestión y madurez organizacional. El trabajo exige leer documentación extensa, interpretar requisitos de calidad, cruzar evidencia contra criterios, justificar cobertura, detectar brechas y construir matrices de análisis.
 
-Puntos a mostrar:
+Aplicación del agente:
 
-- Entrada: objetivo + proceso + documentos + criterios.
-- Proceso: análisis + comparación + evidencia + propuesta.
-- Salida: informe, matriz, minuta, checklist o plan de acción.
-- Control: validación humana antes de decisiones sensibles.
+- Lectura y conversión de documentación extensa a una base analizable.
+- Cruce sistemático contra requisitos ISO y criterios del Modelo PNC.
+- Búsqueda de evidencia documental.
+- Identificación de cobertura, brechas y acciones necesarias.
+- Construcción y validación asistida de matrices de gaps de calidad y matriz PNC.
+- Trazabilidad de fuentes, decisiones y justificaciones.
 
-### Slide 8 — Cómo se crea un agente útil
+Resultado a destacar:
+
+- Profundidad de análisis difícil de sostener manualmente en el mismo plazo.
+- Velocidad de avance muy superior a la de un equipo humano trabajando solo con lectura manual.
+- Mayor consistencia de criterios entre filas, requisitos y evidencias.
+- Liberación del experto humano para validar, decidir y priorizar, en lugar de consumir su tiempo en búsqueda y transcripción.
+
+Mensaje oral:
+
+El valor no está en que el agente “opine” sobre calidad. El valor está en que puede leer, comparar, ordenar, evidenciar y documentar con una velocidad y profundidad que vuelven viable un trabajo que manualmente sería mucho más lento, costoso y difícil de sostener.
+
+### Slide 8 — Caso de éxito 2: empresa de software que multiplica productividad
+
+Caso a presentar:
+
+Una empresa de software tiene demanda creciente, pero su crecimiento queda limitado por la disponibilidad de recursos humanos especializados. Contratar más desarrolladores no siempre es inmediato, escalar equipos genera costos y coordinación, y los perfiles senior se vuelven cuello de botella.
+
+Aplicación del agente:
+
+- Cada developer pasa a operar como responsable de diseño y coordinación técnica.
+- Cada developer gestiona tres agentes de IA especializados.
+- Los agentes asisten en análisis de requerimientos, documentación técnica, generación de código, revisión, testing, detección de bugs, análisis de logs y automatización de tareas repetitivas.
+- El humano conserva criterio, arquitectura, validación, decisiones técnicas y responsabilidad final.
+
+Resultado a destacar:
+
+- Developers elevados hacia un rol más cercano a arquitectos de software.
+- Productividad multiplicada por la coordinación de varios agentes por persona.
+- Menos tiempo invertido en tareas repetitivas o de baja diferenciación.
+- Mayor capacidad de respuesta sin depender exclusivamente de aumentar dotación.
+- Mejor aprovechamiento del talento humano disponible.
+
+Mensaje oral:
+
+El agente no reemplaza al desarrollador valioso; lo cambia de nivel. Lo saca de tareas repetitivas y lo lleva a diseñar, supervisar, validar y coordinar capacidad aumentada.
+
+### Slide 9 — Cómo se crea y gobierna un agente útil
 
 Secuencia de diseño:
 
@@ -154,8 +196,6 @@ Secuencia de diseño:
 6. Definir límites: permisos, privacidad, seguridad y escalamiento.
 7. Definir validación: cuándo debe pedir revisión humana.
 8. Definir métricas: tiempo ahorrado, costo evitado, calidad, uso, riesgo y satisfacción.
-
-### Slide 9 — Gobierno: la diferencia entre usar IA y gestionar IA
 
 Controles mínimos:
 
@@ -178,7 +218,7 @@ Tres mensajes finales:
 
 1. La IA ya está siendo usada dentro de las organizaciones; ignorarlo no la vuelve más segura.
 2. El salto de valor es pasar de prompts individuales a agentes entrenados para tareas y procesos específicos.
-3. La ventaja competitiva será de quienes gobiernen esta capacidad para acelerar tiempos, reducir costos de manera exponencial en tareas repetitivas/escalables y mejorar decisiones.
+3. Los casos aplicados muestran que la ventaja aparece cuando el agente se integra a gestión real: calidad, excelencia, PNC, software, productividad, trazabilidad y decisiones mejores.
 
 Frase de cierre sugerida:
 
@@ -187,3 +227,5 @@ Frase de cierre sugerida:
 ## Mensaje rector para Luis
 
 Evitar una charla técnica. La audiencia necesita reconocer un problema actual de gestión: uso informal de IA sin control. Desde ahí, la presentación debe mostrar una evolución natural hacia agentes de IA que gestionan tareas y procesos, con gobierno, validación, métricas, retorno económico y orientación a la Excelencia Organizacional.
+
+La versión de 30 minutos debe dedicar 10 minutos a evidencia aplicada. Esos casos tienen que funcionar como demostración ejecutiva del servicio de EXCELENCIA: no vender IA genérica, sino mostrar cómo agentes bien diseñados pueden producir resultados superiores en velocidad, profundidad, productividad y capacidad organizacional aumentada.
