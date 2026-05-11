@@ -8,6 +8,7 @@
 - Duración total: 30 minutos.
 - Enfoque: estratégico, ejecutivo, práctico y orientado a resultados.
 - Objetivo: que la audiencia entienda cómo pasar del uso individual y disperso de IA mediante prompts hacia agentes entrenados para tareas y gestión específica, orientados a la Excelencia Organizacional, con valor medible, control, reducción de riesgos y evidencia aplicada en casos concretos.
+- Mensaje comercial transversal: presentar la creación de Agentes de IA como nuevo producto/servicio del portfolio de EXCELENCIA, de manera clara pero no invasiva.
 
 ## Tesis central
 
@@ -17,6 +18,8 @@ Los agentes de IA representan el siguiente nivel de madurez: sistemas diseñados
 
 El cambio de enfoque para la versión de 30 minutos es que la charla no debe quedarse en la explicación conceptual. Después de presentar las ventajas de los agentes, debe dedicar un bloque específico a mostrar casos de éxito donde el servicio de EXCELENCIA aplicado a empresas permitió obtener resultados del tipo descrito: mayor profundidad analítica, mayor velocidad, productividad multiplicada, mejor uso del talento humano y capacidad de gestión aumentada.
 
+La presentación tiene además un mensaje de venta distribuido a lo largo de todo el relato: EXCELENCIA incorpora la creación de Agentes de IA como una nueva línea de servicio. La venta no debe aparecer como interrupción comercial, sino como consecuencia lógica del problema: si las empresas ya usan IA de manera dispersa, necesitan un método para transformarla en agentes gobernados; EXCELENCIA puede ofrecer ese método.
+
 ## Promesa para la audiencia
 
 Al terminar, cada CEO/director debería poder responder cuatro preguntas:
@@ -25,6 +28,7 @@ Al terminar, cada CEO/director debería poder responder cuatro preguntas:
 2. En qué procesos/tareas de una organización puede agregar valor un agente de IA.
 3. Qué resultados concretos puede generar cuando se implementa como servicio de gestión.
 4. Qué condiciones mínimas se necesitan para implementarlo sin improvisación ni riesgo innecesario.
+5. Por qué la creación de Agentes de IA requiere acompañamiento especializado y puede ser abordada con EXCELENCIA.
 
 ## Distribución de tiempo
 
@@ -34,8 +38,8 @@ Al terminar, cada CEO/director debería poder responder cuatro preguntas:
 | 2. De prompts a agentes | 5 min | Explicar la diferencia entre uso individual y sistema diseñado |
 | 3. Procesos y tareas donde agrega valor | 5 min | Mostrar alcance transversal y ventajas económicas/operativas |
 | 4. Casos de éxito de EXCELENCIA aplicando agentes de IA | 10 min | Demostrar resultados concretos con dos casos claros |
-| 5. Cómo se diseña y gobierna un agente útil | 5 min | Presentar componentes, gobierno, validación y controles mínimos |
-| 6. Cierre: de experimento a capacidad organizacional | 2 min | Dejar mensaje accionable para dirección |
+| 5. Cómo se diseña y gobierna un agente útil | 5 min | Presentar componentes del servicio, gobierno, validación y controles mínimos |
+| 6. Cierre: de experimento a producto de EXCELENCIA | 2 min | Dejar mensaje accionable para dirección |
 
 ## Estructura sugerida de slides
 
@@ -46,6 +50,8 @@ Al terminar, cada CEO/director debería poder responder cuatro preguntas:
 Subtítulo: Fundamentos, creación, uso y resultados aplicados en organizaciones.
 
 Mensaje oral: esta charla no trata de prohibir el uso espontáneo de IA; trata de mostrar cómo convertirlo en gestión gobernada, medible y orientada a la Excelencia Organizacional.
+
+Mensaje comercial sutil: EXCELENCIA abre una nueva conversación con las empresas: cómo diseñar agentes de IA que gestionen, con método y gobierno.
 
 ### Slide 2 — La IA ya está dentro de la empresa
 
@@ -63,6 +69,10 @@ Riesgo ejecutivo:
 - Resultados difíciles de auditar.
 - Dependencia de la habilidad individual para escribir buenos prompts.
 
+Mensaje comercial sutil:
+
+- Si este uso ya existe dentro de la empresa, el desafío directivo es ordenarlo antes de que escale sin control.
+
 ### Slide 3 — Prompt no es proceso
 
 Comparación simple:
@@ -75,6 +85,10 @@ Comparación simple:
 Frase central:
 
 > El prompt mejora una tarea. El agente puede gestionar y mejorar un proceso.
+
+Mensaje comercial sutil:
+
+> Pasar de prompt a proceso no ocurre solo por comprar una herramienta; requiere diseño, método y acompañamiento.
 
 ### Slide 4 — Qué diferencia a un agente de IA
 
@@ -91,6 +105,10 @@ Un agente de IA tiene:
 Mensaje oral:
 
 Un agente reduce la dependencia del talento individual para formular prompts, porque encapsula conocimiento, criterios y forma de trabajo orientados a una gestión consistente.
+
+Mensaje comercial sutil:
+
+Estos componentes anticipan la propuesta de EXCELENCIA: ayudar a las organizaciones a definir propósito, fuentes, reglas, validación y métricas para sus agentes.
 
 ### Slide 5 — No hay función organizacional fuera del alcance
 
@@ -117,6 +135,10 @@ Mensaje central:
 
 > Un agente no debe pensarse como una herramienta para un área aislada. Debe pensarse como una capacidad transversal para gestionar tareas, procesos y conocimiento con más velocidad, consistencia y trazabilidad.
 
+Mensaje comercial sutil:
+
+La oportunidad para EXCELENCIA es acompañar a las empresas a identificar dónde empezar, qué agentes priorizar y cómo escalar sin improvisación.
+
 ### Slide 6 — Valor económico y operativo
 
 Palancas de valor:
@@ -132,6 +154,10 @@ Palancas de valor:
 Mensaje central:
 
 > El ahorro no viene solo de hacer más rápido una tarea; viene de reducir fricción, retrabajo, dependencia individual y tiempos muertos en procesos completos.
+
+Mensaje comercial sutil:
+
+La creación de agentes debe ser presentada como inversión en capacidad organizacional, no como gasto tecnológico.
 
 ### Slide 7 — Caso de éxito 1: agente de excelencia para matrices ISO y PNC
 
@@ -159,6 +185,10 @@ Mensaje oral:
 
 El valor no está en que el agente “opine” sobre calidad. El valor está en que puede leer, comparar, ordenar, evidenciar y documentar con una velocidad y profundidad que vuelven viable un trabajo que manualmente sería mucho más lento, costoso y difícil de sostener.
 
+Mensaje comercial sutil:
+
+Este caso muestra el tipo de servicio que EXCELENCIA puede ofrecer: agentes entrenados para aplicar modelos de excelencia, calidad, brechas, evidencia y mejora continua.
+
 ### Slide 8 — Caso de éxito 2: empresa de software que multiplica productividad
 
 Caso a presentar:
@@ -184,7 +214,15 @@ Mensaje oral:
 
 El agente no reemplaza al desarrollador valioso; lo cambia de nivel. Lo saca de tareas repetitivas y lo lleva a diseñar, supervisar, validar y coordinar capacidad aumentada.
 
+Mensaje comercial sutil:
+
+Este caso amplía el alcance del producto: EXCELENCIA puede ayudar a empresas no solo en calidad, sino también en productividad, innovación, escalabilidad y gestión del talento técnico.
+
 ### Slide 9 — Cómo se crea y gobierna un agente útil
+
+Idea eje:
+
+Crear agentes de IA útiles es una nueva línea de servicio de EXCELENCIA: diagnóstico, diseño, entrenamiento operativo, fuentes, herramientas, gobierno, validación, métricas y acompañamiento de implementación.
 
 Secuencia de diseño:
 
@@ -212,6 +250,10 @@ Mensaje central:
 
 > Sin gobierno, la IA queda dispersa en prompts individuales. Con gobierno, los agentes pueden transformarse en una capacidad de Excelencia Organizacional.
 
+Mensaje comercial sutil:
+
+El producto no es “un bot”. El producto es la capacidad de convertir una necesidad de gestión en un agente diseñado, gobernado, medible y validable.
+
 ### Slide 10 — Cierre
 
 Tres mensajes finales:
@@ -219,13 +261,20 @@ Tres mensajes finales:
 1. La IA ya está siendo usada dentro de las organizaciones; ignorarlo no la vuelve más segura.
 2. El salto de valor es pasar de prompts individuales a agentes entrenados para tareas y procesos específicos.
 3. Los casos aplicados muestran que la ventaja aparece cuando el agente se integra a gestión real: calidad, excelencia, PNC, software, productividad, trazabilidad y decisiones mejores.
+4. EXCELENCIA puede acompañar ese salto con una nueva línea de servicio: creación de Agentes de IA gobernados para procesos reales.
 
 Frase de cierre sugerida:
 
 > La pregunta directiva no es si los empleados van a usar IA. Ya la usan. La pregunta es cómo convertir ese uso disperso en agentes gobernados que creen valor real para la organización.
+
+Frase comercial de cierre sugerida:
+
+> Ese es el nuevo espacio de trabajo que EXCELENCIA propone abrir con las empresas: diseñar agentes de IA que gestionen, con método, gobierno y resultados.
 
 ## Mensaje rector para Luis
 
 Evitar una charla técnica. La audiencia necesita reconocer un problema actual de gestión: uso informal de IA sin control. Desde ahí, la presentación debe mostrar una evolución natural hacia agentes de IA que gestionan tareas y procesos, con gobierno, validación, métricas, retorno económico y orientación a la Excelencia Organizacional.
 
 La versión de 30 minutos debe dedicar 10 minutos a evidencia aplicada. Esos casos tienen que funcionar como demostración ejecutiva del servicio de EXCELENCIA: no vender IA genérica, sino mostrar cómo agentes bien diseñados pueden producir resultados superiores en velocidad, profundidad, productividad y capacidad organizacional aumentada.
+
+La presentación debe vender sin parecer una venta agresiva. El mensaje debe llegar por acumulación: problema real, solución conceptual, alcance transversal, valor económico, casos de éxito, método de implementación y cierre con EXCELENCIA como socio natural para crear agentes gobernados.

@@ -6,6 +6,8 @@
 - La tesis y el enfoque general se mantienen.
 - Se incorpora un bloque obligatorio de 10 minutos con al menos 2 casos de éxito donde EXCELENCIA, prestando el servicio a empresas, logra resultados alineados con la presentación.
 - Los casos deben aparecer después de explicar las ventajas de los agentes de IA y antes del bloque final de diseño/gobierno.
+- La creación de Agentes de IA debe comunicarse como nuevo producto/servicio del portfolio de EXCELENCIA.
+- La venta debe ser transversal, clara y no invasiva: instalar necesidad, demostrar valor y dejar a EXCELENCIA como socio natural.
 
 ## Material a desarrollar
 
@@ -19,6 +21,8 @@
 8. Preparar una versión oral de 28 minutos para dejar margen a transición, preguntas o ajustes del evento.
 9. Validar con Luis si los casos se presentarán como casos reales identificables, casos anonimizados o casos demostrativos basados en experiencia aplicada.
 10. Definir qué datos cuantitativos se pueden afirmar con seguridad en cada caso: tiempos, cantidad de documentos, filas/requisitos, productividad, cantidad de agentes por developer, reducción de horas o mejora de velocidad.
+11. Incorporar una línea visual y oral que posicione la creación de Agentes de IA como nuevo producto de EXCELENCIA.
+12. Diseñar un cierre con llamado a la acción sutil: pasar de uso disperso de IA a agentes gobernados con acompañamiento de EXCELENCIA.
 
 ## Reglas de diseño
 
@@ -32,6 +36,9 @@
 - Sostener el eje transversal: no hay función organizacional de gestión o trabajo de conocimiento fuera del alcance potencial de un agente, siempre que existan fuentes, reglas, controles y validación.
 - Los casos deben demostrar resultados, no solo describir funcionalidades.
 - En los casos, dejar claro que el humano conserva criterio, validación y responsabilidad final.
+- La venta debe estar integrada al relato, no separada como bloque comercial.
+- Evitar tono de "venta de software"; posicionar el producto como servicio de excelencia, gestión, gobierno e implementación.
+- Generar necesidad sin alarmismo: mostrar que el uso disperso ya existe y que el riesgo está en no gestionarlo.
 
 ## Estructura visual recomendada de 10 slides
 
@@ -45,6 +52,19 @@
 8. Caso 2: empresa de software que multiplica productividad.
 9. Cómo se crea y gobierna un agente útil.
 10. Cierre: de experimento a capacidad organizacional.
+
+## Mensaje de venta no invasivo por slide
+
+1. Título: instalar que EXCELENCIA trae una conversación nueva sobre agentes que gestionan.
+2. IA dentro de la empresa: hacer visible la necesidad latente.
+3. Prompt no es proceso: mostrar que el problema requiere diseño, no solo uso individual.
+4. Diferencia de agente: introducir implícitamente los componentes del nuevo servicio.
+5. Alcance organizacional: ampliar la percepción de oportunidad en toda la empresa.
+6. Valor económico: conectar agentes con resultados de negocio.
+7. Caso 1: demostrar capacidad de EXCELENCIA en calidad, ISO y PNC.
+8. Caso 2: demostrar aplicabilidad fuera de calidad, en productividad tecnológica.
+9. Diseño y gobierno: mostrar que hace falta acompañamiento experto.
+10. Cierre: dejar claro que el próximo paso es conversar con EXCELENCIA para diseñar agentes gobernados.
 
 ## Preguntas esperables de la audiencia
 
@@ -61,6 +81,8 @@
 - ¿Los casos son reales, anonimizados o demostrativos?
 - ¿Cuánto tiempo lleva construir un agente útil para una función concreta?
 - ¿Cómo se valida que el agente no invente o no tome criterios incorrectos?
+- ¿Cómo puede EXCELENCIA acompañar a mi empresa en la creación de agentes?
+- ¿Por dónde conviene empezar si queremos probar este nuevo servicio?
 
 ## Pendientes de validación con Luis
 
@@ -68,3 +90,5 @@
 - Confirmar si el Caso 2 corresponde a una empresa real identificable, una empresa anonimizada o un caso modelo.
 - Definir métricas defendibles para ambos casos.
 - Decidir si la presentación final será en PowerPoint, Google Slides, Canva u otro formato.
+- Definir el nombre comercial del nuevo producto/servicio de EXCELENCIA.
+- Definir si el cierre incluye una invitación explícita a diagnóstico inicial, reunión exploratoria o piloto.
