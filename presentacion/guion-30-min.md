@@ -10,7 +10,7 @@ Para una organización orientada a la excelencia, el desafío no es frenar la IA
 
 La tesis de esta presentación es simple: el salto relevante no es usar más prompts, sino diseñar agentes de IA capaces de gestionar tareas y procesos con propósito, fuentes, reglas, trazabilidad y validación.
 
-Y esa es precisamente la nueva conversación que EXCELENCIA quiere abrir con las empresas: cómo transformar el uso disperso de IA en agentes gobernados, diseñados para procesos reales y medidos por resultados.
+Y esa es precisamente la nueva línea de servicio que EXCELENCIA incorpora a su portfolio: ayudar a las empresas a transformar el uso disperso de IA en agentes gobernados, diseñados para procesos reales y medidos por resultados.
 
 ## 3:00-8:00 — De prompts a agentes
 
@@ -24,7 +24,7 @@ Cuando una organización diseña agentes, deja de depender solamente de la habil
 
 Esto cambia el problema directivo. Ya no se trata de preguntar “qué herramienta de IA usamos”, sino “qué tarea o proceso queremos aumentar, con qué nivel de autonomía, bajo qué reglas y con qué validación”.
 
-Por eso la creación de agentes no debe verse como una compra tecnológica aislada. Debe verse como un trabajo de diseño organizacional: entender procesos, fuentes, criterios, riesgos, responsabilidades y resultados esperados. Ese es el espacio donde EXCELENCIA puede aportar método.
+Por eso la creación de agentes no debe verse como una compra tecnológica aislada. Debe verse como un trabajo de diseño organizacional: entender procesos, fuentes, criterios, riesgos, responsabilidades y resultados esperados. Ese es el espacio donde EXCELENCIA aporta método como nuevo servicio de su portfolio.
 
 ## 8:00-13:00 — Procesos, tareas y ventajas donde agrega valor
 
@@ -38,11 +38,11 @@ La clave es que no trabajan como herramientas genéricas, sino como agentes entr
 
 Ahí aparece el valor: acelerar tiempos, reducir costos de manera exponencial en tareas repetitivas/escalables, sostener disponibilidad 24 horas, bajar retrabajo, mejorar la consistencia de los entregables y elevar el rol humano hacia tareas de criterio, diseño, decisión y validación.
 
-La oportunidad para las empresas no es solamente “usar IA”. La oportunidad es identificar qué agentes conviene crear primero, cómo gobernarlos y cómo medir su impacto. Ese es el nuevo producto que EXCELENCIA puede poner al servicio de sus organizaciones.
+La oportunidad para las empresas no es solamente “usar IA”. La oportunidad es identificar qué agentes conviene crear primero, cómo gobernarlos y cómo medir su impacto. Ese es el nuevo servicio que EXCELENCIA pone al servicio de sus organizaciones.
 
 ## 13:00-18:00 — Caso de éxito 1: agente de excelencia para matrices ISO y PNC
 
-Pensemos en un servicio de EXCELENCIA aplicado a una empresa que necesita evaluar su sistema de gestión y su madurez organizacional. El trabajo requiere leer documentación extensa, interpretar criterios, cruzar evidencia, justificar cobertura, detectar brechas y construir matrices de análisis.
+Tomemos un caso realizado por EXCELENCIA: una empresa necesitaba evaluar su sistema de gestión y su madurez organizacional. El trabajo requiere leer documentación extensa, interpretar criterios, cruzar evidencia, justificar cobertura, detectar brechas y construir matrices de análisis.
 
 En un enfoque tradicional, buena parte del esfuerzo humano se consume en tareas de lectura, búsqueda, transcripción, comparación y documentación. Son tareas necesarias, pero muy demandantes en tiempo. Además, cuanto más grande es la base documental, más difícil se vuelve sostener consistencia entre criterios, evidencias y conclusiones.
 
@@ -52,13 +52,13 @@ Ese es el caso de una matriz de gaps de calidad y una matriz PNC asistidas por a
 
 El resultado es una profundidad y velocidad difícil de igualar manualmente en el mismo plazo: análisis más completo, criterios más consistentes, trazabilidad de fuentes, menor costo de revisión y mayor capacidad de avanzar sobre cientos de requisitos o criterios sin perder estructura.
 
-La idea central para dirección es esta: cuando el conocimiento de excelencia se encapsula en un agente, EXCELENCIA puede entregar más capacidad analítica, más rápido y con mayor trazabilidad, sin perder validación humana.
+La idea central para dirección es esta: cuando el conocimiento de excelencia se encapsula en un agente, EXCELENCIA entrega más capacidad analítica, más rápido y con mayor trazabilidad, sin perder validación humana.
 
 Este caso muestra que la creación de agentes no es una abstracción. Es un servicio concreto: tomar una necesidad de gestión, entrenar un agente con criterios y fuentes, aplicarlo a documentación real y entregar resultados revisables por expertos.
 
 ## 18:00-23:00 — Caso de éxito 2: empresa de software que multiplica productividad
 
-Ahora pensemos en una empresa de software con un problema muy concreto: tiene demanda creciente, pero su crecimiento está limitado por la disponibilidad de recursos humanos especializados. Necesita desarrollar más, responder más rápido, documentar mejor, testear mejor y resolver incidentes, pero no puede multiplicar su dotación al mismo ritmo.
+Veamos un segundo caso realizado por EXCELENCIA: una empresa de software con un problema muy concreto: tiene demanda creciente, pero su crecimiento está limitado por la disponibilidad de recursos humanos especializados. Necesita desarrollar más, responder más rápido, documentar mejor, testear mejor y resolver incidentes, pero no puede multiplicar su dotación al mismo ritmo.
 
 El cuello de botella no es solamente contratar más personas. También es que los perfiles senior terminan absorbidos por tareas repetitivas, revisiones, soporte, documentación, seguimiento de bugs o coordinación operativa. Eso limita el tiempo disponible para arquitectura, decisiones técnicas y diseño de soluciones.
 
@@ -70,7 +70,7 @@ El resultado es una multiplicación de productividad: no porque tres agentes ree
 
 Para una empresa limitada por recursos humanos, esto puede significar más capacidad de entrega sin depender exclusivamente de contratar más rápido, mejor aprovechamiento del talento existente y una nueva forma de escalar productividad sin perder control técnico.
 
-Este segundo caso es importante porque muestra que el producto no queda restringido al mundo de calidad. La creación de agentes también puede acompañar innovación, productividad, desarrollo tecnológico y escalabilidad operativa.
+Este segundo caso es importante porque muestra que el servicio no queda restringido al mundo de calidad. La creación de agentes también puede acompañar innovación, productividad, desarrollo tecnológico y escalabilidad operativa.
 
 ## 23:00-28:00 — Cómo se crea y gobierna un agente útil
 
@@ -88,7 +88,7 @@ Los riesgos existen: errores, sesgos, exposición de información, decisiones ma
 
 En términos simples: sin gobierno, la IA queda dispersa. Con gobierno, los agentes pueden convertirse en capacidad de Excelencia Organizacional.
 
-El producto, entonces, no es un bot ni una demo. El producto es la capacidad de acompañar a una organización desde la identificación de oportunidades hasta el diseño, implementación, gobierno y medición de agentes de IA.
+El servicio, entonces, no es un bot ni una demo. Es la capacidad de acompañar a una organización desde la identificación de oportunidades hasta el diseño, implementación, gobierno y medición de agentes de IA.
 
 ## 28:00-30:00 — Cierre
 
@@ -98,7 +98,7 @@ Los agentes de IA permiten acelerar tiempos, reducir costos de manera exponencia
 
 Los casos muestran dos ideas fuertes: en excelencia, un agente permite profundidad y velocidad analítica imposibles de sostener manualmente en el mismo plazo; en software, permite multiplicar productividad elevando a los developers hacia roles de arquitectura y coordinación técnica.
 
-La invitación final es directa, pero no tecnológica: si su organización ya está usando IA de manera dispersa, el próximo paso es convertir ese uso en agentes gobernados. EXCELENCIA incorpora esta capacidad a su portfolio para acompañar ese camino.
+La invitación final es directa, pero no tecnológica: si su organización ya está usando IA de manera dispersa, el próximo paso es convertir ese uso en agentes gobernados. EXCELENCIA incorpora esta capacidad a su portfolio como nuevo servicio para acompañar ese camino.
 
 Cierre:
 

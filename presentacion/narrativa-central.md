@@ -15,7 +15,7 @@ La presentación debe avanzar desde una situación actual reconocible hacia una 
 9. Su disponibilidad 24 horas permite absorber trabajo repetitivo, preparar análisis, ordenar información y sostener continuidad operativa sin depender del horario humano.
 10. La versión de 30 minutos debe demostrar ese valor con casos aplicados: no solo explicar agentes, sino mostrar resultados concretos alcanzables mediante servicios de EXCELENCIA apoyados en agentes.
 11. Los dos casos centrales son: excelencia/calidad/PNC y productividad aumentada en desarrollo de software.
-12. La creación de Agentes de IA debe quedar instalada como nuevo producto/servicio del portfolio de EXCELENCIA.
+12. La creación de Agentes de IA debe quedar instalada explícitamente como nuevo servicio formal del portfolio de EXCELENCIA.
 13. La condición es que no se implemente como moda, sino con gobierno, métricas, seguridad y responsabilidad clara.
 
 ## Contraste principal
@@ -45,13 +45,13 @@ La presentación debe avanzar desde una situación actual reconocible hacia una 
 
 La ampliación a 30 minutos exige incorporar 10 minutos de casos de éxito después de explicar las ventajas de los agentes.
 
-Estos casos cumplen una doble función: prueban la tesis técnica y comunican la nueva oferta de EXCELENCIA. La venta no debe aparecer como un bloque separado, sino como una conclusión natural: si estos resultados requieren método, diseño, fuentes, gobierno y validación, entonces la creación de Agentes de IA es un servicio profesional que EXCELENCIA puede ofrecer.
+Estos casos cumplen una doble función: prueban la tesis técnica y comunican la nueva oferta de EXCELENCIA. Los casos deben presentarse como realizados por EXCELENCIA, no como hipótesis. La venta no debe aparecer como un bloque separado, sino como una conclusión natural: si estos resultados requieren método, diseño, fuentes, gobierno y validación, entonces la creación de Agentes de IA es un servicio profesional que EXCELENCIA ofrece.
 
 ### Caso 1 — Excelencia, calidad y PNC
 
 Eje narrativo:
 
-- EXCELENCIA acompaña a una empresa en evaluación de sistema de gestión, calidad y madurez organizacional.
+- EXCELENCIA acompañó a una empresa en evaluación de sistema de gestión, calidad y madurez organizacional.
 - El agente asiste la construcción y validación de matrices de gaps de calidad y matriz PNC.
 - El trabajo incluye lectura documental, cruce contra requisitos, búsqueda de evidencia, justificación, brechas, acciones y trazabilidad.
 - El resultado es profundidad y velocidad de análisis imposible o muy difícil de sostener manualmente en el mismo plazo.
@@ -65,7 +65,7 @@ Mensaje:
 
 Eje narrativo:
 
-- Una empresa de software tiene demanda creciente, pero está limitada por la disponibilidad de recursos humanos.
+- EXCELENCIA acompañó a una empresa de software con demanda creciente, limitada por la disponibilidad de recursos humanos.
 - La implementación de agentes permite que cada developer gestione tres agentes especializados.
 - Los agentes apoyan requerimientos, documentación, código, testing, bugs, logs, automatización e incidentes.
 - El developer se eleva hacia un rol de arquitecto/coordinador técnico.
@@ -79,14 +79,14 @@ Mensaje:
 
 El objetivo no es prohibir el uso espontáneo de IA, sino superarlo. La pregunta directiva es cómo pasar de empleados usando prompts en forma aislada a agentes de IA diseñados, gobernados y entrenados para crear valor real en procesos de toda la organización.
 
-En la versión de 30 minutos, la presentación debe vender una idea más fuerte: EXCELENCIA incorpora la creación de Agentes de IA como nuevo producto/servicio de su portfolio y puede ayudar a las empresas a transformar IA dispersa en resultados organizacionales concretos mediante agentes aplicados a problemas reales de gestión, productividad, calidad, madurez y escalabilidad.
+En la versión de 30 minutos, la presentación debe vender una idea más fuerte: EXCELENCIA incorpora la creación de Agentes de IA como nuevo servicio formal de su portfolio y ofrece ayudar a las empresas a transformar IA dispersa en resultados organizacionales concretos mediante agentes aplicados a problemas reales de gestión, productividad, calidad, madurez y escalabilidad.
 
-La comunicación comercial debe ser firme pero elegante. No debe sonar a pitch tecnológico. Debe sonar a necesidad directiva: las organizaciones ya están usando IA; ahora necesitan gobernarla, estandarizarla y convertirla en valor. EXCELENCIA aparece como el camino profesional para hacerlo.
+La comunicación comercial debe ser explícita, firme y elegante. No debe sonar a pitch tecnológico. Debe sonar a necesidad directiva: las organizaciones ya están usando IA; ahora necesitan gobernarla, estandarizarla y convertirla en valor. EXCELENCIA aparece como el camino profesional para hacerlo.
 
 ## Frase de síntesis
 
 > De prompts sueltos a agentes que gestionan: ese es el salto entre usar IA y convertirla en una capacidad de Excelencia Organizacional.
 
-## Frase comercial implícita
+## Frase comercial explícita
 
-> Si su organización ya usa IA de manera dispersa, el próximo paso no es usar más herramientas: es diseñar agentes gobernados. Ese es el nuevo servicio que EXCELENCIA puede ayudar a implementar.
+> Si su organización ya usa IA de manera dispersa, el próximo paso no es usar más herramientas: es diseñar agentes gobernados. Ese es el nuevo servicio que EXCELENCIA ofrece implementar.

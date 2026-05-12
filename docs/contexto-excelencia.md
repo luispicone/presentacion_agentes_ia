@@ -10,13 +10,13 @@ La oportunidad directiva es pasar de ese uso disperso mediante prompts a agentes
 
 El foco ya no debe limitarse a una función puntual: con el diseño adecuado, los agentes pueden asistir o ejecutar trabajo de conocimiento en dirección, estrategia, calidad, operaciones, clientes, finanzas, legales, recursos humanos, tecnología, desarrollo de software, compras, comunicación, sostenibilidad y gestión documental.
 
-La versión de 30 minutos debe dar un paso adicional: no solo explicar qué son los agentes, sino demostrar cómo EXCELENCIA puede convertirlos en servicios aplicados con resultados concretos para empresas. Ese mensaje tiene una intención comercial deliberada: instalar la creación de Agentes de IA como un nuevo producto del portfolio de EXCELENCIA, sin convertir la charla en una venta invasiva.
+La versión de 30 minutos debe dar un paso adicional: no solo explicar qué son los agentes, sino demostrar cómo EXCELENCIA ya puede convertirlos en servicios aplicados con resultados concretos para empresas. Ese mensaje tiene una intención comercial deliberada y ahora explícita: instalar la creación de Agentes de IA como un nuevo servicio formal del portfolio de EXCELENCIA.
 
 La audiencia debe percibir tres cosas:
 
 1. Que el problema ya existe: la IA está siendo usada de manera dispersa.
 2. Que gestionar ese problema requiere método, gobierno y experiencia.
-3. Que EXCELENCIA puede ofrecer un servicio concreto para diseñar, implementar y gobernar agentes de IA orientados a resultados.
+3. Que EXCELENCIA ofrece un servicio concreto para diseñar, implementar y gobernar agentes de IA orientados a resultados.
 
 ## Qué es EXCELENCIA
 
@@ -48,16 +48,17 @@ Para esta audiencia, conviene conectar agentes de IA con los temas propios del m
 - Personas: los agentes aumentan la capacidad de los equipos, reducen tareas repetitivas y liberan tiempo para criterio, vínculo y decisión.
 - Responsabilidad y control: la autonomía se combina con trazabilidad, seguridad, privacidad, permisos y validación humana.
 
-## Producto nuevo en el portfolio de EXCELENCIA
+## Nuevo servicio en el portfolio de EXCELENCIA
 
-La creación de Agentes de IA debe quedar posicionada como una nueva línea de servicio de EXCELENCIA.
+La creación de Agentes de IA debe quedar posicionada como un nuevo servicio formal de EXCELENCIA. Ya no debe aparecer solo como posibilidad futura ni como mención sutil: debe entenderse como una oferta concreta dentro del portfolio.
 
 Lectura comercial:
 
 - No se vende una herramienta tecnológica genérica.
-- Se ofrece una capacidad de transformación organizacional.
+- Se ofrece una capacidad de transformación organizacional aplicada.
 - El servicio combina diagnóstico, diseño del agente, fuentes de verdad, entrenamiento operativo, gobierno, métricas, validación humana y acompañamiento de implementación.
 - El valor diferencial de EXCELENCIA está en conectar IA con gestión, calidad, procesos, innovación, personas, resultados y modelos de excelencia.
+- Los casos de éxito deben exponerse como trabajos realizados por EXCELENCIA, no como ejemplos hipotéticos.
 
 El mensaje debe aparecer distribuido a lo largo de la charla:
 
@@ -66,19 +67,19 @@ El mensaje debe aparecer distribuido a lo largo de la charla:
 - En los casos: demostrar resultados alcanzables mediante servicios aplicados.
 - En el cierre: dejar a EXCELENCIA como el socio natural para pasar de prompts sueltos a agentes gobernados.
 
-## Casos de éxito como puente comercial y conceptual
+## Casos de éxito como prueba del nuevo servicio
 
-La presentación debe incorporar dos casos aplicados para mostrar que los agentes no son una promesa abstracta, sino una capacidad que EXCELENCIA puede traducir en servicios de alto impacto.
+La presentación debe incorporar dos casos aplicados para mostrar que los agentes no son una promesa abstracta, sino una capacidad que EXCELENCIA tradujo en servicios de alto impacto.
 
 ### Caso 1 — Calidad, ISO y PNC
 
-Un agente entrenado para excelencia puede asistir la construcción de matrices de gaps de calidad y matrices PNC mediante lectura documental, cruce contra requisitos, búsqueda de evidencia, detección de brechas, justificación técnica y trazabilidad.
+EXCELENCIA realizó un caso de aplicación de agentes para asistir la construcción de matrices de gaps de calidad y matrices PNC mediante lectura documental, cruce contra requisitos, búsqueda de evidencia, detección de brechas, justificación técnica y trazabilidad.
 
 Este caso conecta directamente con el mundo de EXCELENCIA: sistemas de gestión, modelos de evaluación, mejora continua, evidencia, fortalezas, oportunidades de mejora y madurez organizacional.
 
 ### Caso 2 — Productividad aumentada en software
 
-Una empresa de software limitada por disponibilidad de recursos humanos puede aumentar su capacidad si cada developer gestiona varios agentes especializados. El developer se eleva hacia un rol de arquitectura y coordinación técnica, mientras los agentes asisten en documentación, código, testing, bugs, logs, automatización e incidentes.
+EXCELENCIA realizó un caso de aplicación en una empresa de software limitada por disponibilidad de recursos humanos. El modelo permitió aumentar capacidad haciendo que cada developer gestione varios agentes especializados. El developer se eleva hacia un rol de arquitectura y coordinación técnica, mientras los agentes asisten en documentación, código, testing, bugs, logs, automatización e incidentes.
 
 Este caso muestra que la excelencia no se limita a calidad documental: también aplica a productividad, innovación, escalabilidad, gestión del talento y competitividad.
 
@@ -90,7 +91,7 @@ El tono debe ser ejecutivo, estratégico y práctico:
 - Mucho foco en gestión, gobernanza, competitividad, productividad y decisiones.
 - Ejemplos concretos y comprensibles para dirección.
 - Casos con resultados, no solo funcionalidades.
-- Mensaje comercial claro pero sutil: creación de Agentes de IA como nuevo producto/servicio de EXCELENCIA.
+- Mensaje comercial claro y explícito: creación de Agentes de IA como nuevo servicio de EXCELENCIA.
 - Mensaje principal: la IA usada solo por prompts queda en productividad individual; los agentes bien gobernados pueden convertirse en infraestructura de gestión orientada a la Excelencia Organizacional.
 
 ## Fuentes consultadas
