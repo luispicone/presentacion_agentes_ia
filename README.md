@@ -1,36 +1,57 @@
-# Presentación sobre fundamentos, creación, uso y resultados de Agentes de IA
+# Presentación sobre IA, repositorios documentales, datos íntegros y Agentes de IA
 
-Repositorio de trabajo para una presentación ejecutiva de 30 minutos dirigida a CEOs y directores de empresas argentinas vinculadas a EXCELENCIA / Premio Nacional a la Calidad, con foco en agentes de IA que gestionan tareas y procesos orientados a la Excelencia Organizacional.
+Repositorio de trabajo para una presentación ejecutiva de 30 minutos dirigida a CEOs y directores de empresas argentinas vinculadas a EXCELENCIA / Premio Nacional a la Calidad.
 
-## Estructura
+## Enfoque vigente
 
-- `docs/contexto-excelencia.md`: contexto institucional relevado sobre EXCELENCIA, FPNC y PNC, reinterpretado desde el uso gobernado de IA en organizaciones.
+A partir del feedback de Jorge Ferreiro, Director Ejecutivo de EXCELENCIA, la presentación deja de estar acotada a la venta de agentes de IA.
+
+El nuevo eje es más amplio y más estratégico:
+
+1. La incorporación seria de IA en una organización requiere primero una base confiable: repositorios documentales robustos, fieles a la realidad operativa, y datos íntegros.
+2. Sin documentación confiable ni datos íntegros, cualquier iniciativa de IA queda limitada, riesgosa o difícil de escalar.
+3. EXCELENCIA puede ayudar a las empresas a ordenar esa base: documentación, procesos, criterios, gobierno de información, calidad de datos y trazabilidad.
+4. Sobre esa base, el desarrollo de Agentes de IA aparece como un proyecto superador: no solo usar IA, sino convertirla en capacidad organizacional gobernada, aplicada a procesos reales y orientada a resultados.
+
+## Estructura del repo
+
+- `docs/contexto-excelencia.md`: contexto institucional de EXCELENCIA, FPNC y PNC, reinterpretado desde la preparación organizacional necesaria para incorporar IA.
 - `presentacion/estructura.md`: estructura principal de la charla, distribución de tiempos y slides sugeridas.
 - `presentacion/guion-30-min.md`: guion oral preliminar para exposición de 30 minutos.
 - `presentacion/narrativa-central.md`: hilo conductor de la presentación.
 - `presentacion/proximos-pasos.md`: tareas siguientes para convertir la estructura en material visual.
 
-## Enfoque
+## Mensaje central
 
-La presentación debe mostrar el paso desde el uso individual, disperso y no gobernado de IA mediante prompts hacia agentes de IA entrenados para gestionar tareas y procesos específicos.
+La IA no empieza por el agente. Empieza por la calidad de la información sobre la que el agente va a trabajar.
 
-El eje operativo es que, bajo gobierno, fuentes confiables y validación humana cuando corresponda, prácticamente no hay función organizacional de gestión o trabajo de conocimiento fuera del alcance de un agente de IA: dirección, estrategia, calidad, operaciones, comercial, finanzas, legales, recursos humanos, tecnología/desarrollo de software, compras, comunicación, sostenibilidad y gestión documental.
+Una organización que quiere incorporar IA de manera seria necesita saber:
 
-El mensaje central: los agentes de IA pueden gestionar trabajo organizacional, generar valor, acelerar tiempos y reducir costos de manera exponencial en tareas repetitivas/escalables gracias a su disponibilidad 24 horas, siempre que estén diseñados con propósito, fuentes confiables, gobierno, validación, control y orientación a la Excelencia Organizacional.
+- si su documentación representa fielmente la realidad operativa;
+- si sus procesos están documentados, actualizados y disponibles;
+- si sus datos son íntegros, confiables y trazables;
+- si existen criterios comunes para decidir, medir y validar;
+- si hay gobierno sobre qué información puede usarse, cómo y para qué.
 
-## Mensaje comercial explícito
+Recién después de esa base, los Agentes de IA pueden transformarse en un proyecto superador: sistemas diseñados para gestionar tareas, procesos o roles específicos con fuentes confiables, reglas, herramientas, trazabilidad, validación humana y métricas.
 
-La creación de Agentes de IA pasa a presentarse como un nuevo servicio formal dentro del portfolio de EXCELENCIA. La presentación debe comunicarlo de manera explícita y profesional: primero instalando la necesidad, luego mostrando la brecha entre uso informal y gestión gobernada, después demostrando resultados con casos realizados por EXCELENCIA, y finalmente dejando claro que EXCELENCIA diseña, implementa y gobierna agentes aplicados a procesos reales.
+## Rol de EXCELENCIA
 
-El objetivo comercial no es hacer una venta agresiva durante la charla, sino que la audiencia salga con una conclusión concreta: si su organización ya usa IA de forma dispersa, necesita convertir ese uso en agentes gobernados, y EXCELENCIA ofrece ese acompañamiento como nuevo servicio de alto valor.
+La oportunidad para EXCELENCIA no es vender una herramienta tecnológica aislada.
 
-La frase que debe quedar instalada es: **EXCELENCIA incorpora a su portfolio el diseño, creación e implementación de Agentes de IA para mejorar la gestión, la productividad y los resultados organizacionales.**
+La oportunidad es acompañar a las empresas en una secuencia completa de madurez:
 
-## Cambio de alcance vigente
+1. Diagnóstico de documentación, procesos, datos y criterios de gestión.
+2. Construcción o fortalecimiento de repositorios documentales robustos y fieles a la realidad.
+3. Mejora de integridad, trazabilidad y gobierno de datos.
+4. Identificación de oportunidades de IA aplicables a procesos reales.
+5. Diseño, creación, implementación y gobierno de Agentes de IA.
 
-Luego de la reunión de Luis con la coordinación del evento, la presentación se extendió a 30 minutos. La tesis y el enfoque general se mantienen, pero se incorpora un bloque de 10 minutos con al menos dos casos de éxito presentados como realizados por EXCELENCIA, donde la prestación del servicio logró resultados concretos mediante agentes de IA.
+La frase que debe quedar instalada es:
 
-Casos incorporados:
+**Antes de escalar IA, la organización necesita información confiable. EXCELENCIA ayuda a construir esa base y, sobre ella, a desarrollar Agentes de IA gobernados para mejorar la gestión, la productividad y los resultados organizacionales.**
 
-1. Agente de excelencia para matrices ISO/calidad y PNC: lectura documental, cruce de requisitos, evidencia, brechas, trazabilidad y validación experta con profundidad y velocidad muy superiores al trabajo manual tradicional.
-2. Empresa de software limitada por disponibilidad de talento: developers elevados hacia roles cercanos a arquitectos de software, gestionando tres agentes cada uno para multiplicar productividad sin perder criterio humano ni control técnico.
+## Casos incorporados
+
+1. Base documental, calidad, ISO y PNC: lectura y organización documental, cruce de requisitos, evidencia, brechas, trazabilidad y validación experta.
+2. Empresa de software y productividad aumentada: developers elevados hacia roles de arquitectura/coordinación técnica, gestionando agentes especializados sobre una base de trabajo ordenada y gobernada.

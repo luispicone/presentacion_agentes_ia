@@ -1,280 +1,249 @@
-# Estructura de presentación — Agentes de IA que gestionan orientados a la Excelencia Organizacional
+# Estructura de presentación — IA organizacional: de información confiable a agentes gobernados
 
 ## Datos base
 
-- Tema: fundamentos, creación, uso y resultados de agentes de IA.
+- Tema: incorporación seria de IA en organizaciones, repositorios documentales robustos, datos íntegros y agentes de IA como proyecto superador.
 - Orador: Luis Picone.
 - Audiencia: CEOs y directores de empresas argentinas socias/vinculadas a EXCELENCIA.
 - Duración total: 30 minutos.
-- Enfoque: estratégico, ejecutivo, práctico y orientado a resultados.
-- Objetivo: que la audiencia entienda cómo pasar del uso individual y disperso de IA mediante prompts hacia agentes entrenados para tareas y gestión específica, orientados a la Excelencia Organizacional, con valor medible, control, reducción de riesgos y evidencia aplicada en casos concretos.
-- Mensaje comercial explícito: presentar la creación de Agentes de IA como nuevo servicio formal del portfolio de EXCELENCIA, con espacio propio dentro de la narrativa y con los casos de éxito expuestos como realizados por EXCELENCIA.
+- Enfoque: estratégico, ejecutivo, práctico y orientado a gestión.
+- Objetivo: que la audiencia entienda que la IA no genera valor sostenible si se apoya en documentación débil o datos poco confiables; y que EXCELENCIA puede acompañar a las empresas desde la construcción de esa base hasta el diseño de Agentes de IA gobernados para procesos reales.
+- Ajuste clave por feedback de Jorge Ferreiro: la presentación no debe quedar acotada a la venta de agentes de IA. Debe comenzar por la criticidad de repositorios documentales robustos, fieles a la realidad, y datos íntegros para cualquier incorporación de IA. Luego sí debe presentar los agentes como proyecto superador.
 
 ## Tesis central
 
-La mayoría de las organizaciones ya tiene IA adentro, aunque no siempre lo haya decidido formalmente: sus empleados la usan con prompts para escribir, resumir, analizar o resolver tareas puntuales. Ese uso puede ser útil, pero suele operar sin control, sin eje, sin estándar, sin gobierno y sin validación.
+La IA no empieza por el algoritmo ni por el agente. Empieza por la calidad de la información sobre la que va a trabajar.
 
-Los agentes de IA representan el siguiente nivel de madurez: sistemas diseñados para gestionar tareas, procesos o roles específicos, con instrucciones, contexto, herramientas, memoria, fuentes confiables, reglas y supervisión. Su valor está en convertir productividad individual dispersa en capacidad de Excelencia Organizacional: más velocidad, mayor consistencia, disponibilidad 24 horas, trazabilidad y reducción exponencial de costos operativos en tareas repetitivas/escalables.
+Una organización que quiere incorporar IA en serio necesita primero una base confiable: documentación vigente, repositorios robustos, procesos fielmente representados, datos íntegros, fuentes claras, criterios comunes, permisos, trazabilidad y gobierno.
 
-El cambio de enfoque para la versión de 30 minutos es que la charla no debe quedarse en la explicación conceptual. Después de presentar las ventajas de los agentes, debe dedicar un bloque específico a mostrar casos de éxito donde el servicio de EXCELENCIA aplicado a empresas permitió obtener resultados del tipo descrito: mayor profundidad analítica, mayor velocidad, productividad multiplicada, mejor uso del talento humano y capacidad de gestión aumentada.
+Si esa base no existe, la IA puede acelerar el desorden: responder sobre documentos desactualizados, mezclar criterios, amplificar errores, exponer información sensible o generar conclusiones difíciles de validar.
 
-La presentación tiene además un mensaje comercial explícito distribuido a lo largo de todo el relato: EXCELENCIA incorpora la creación de Agentes de IA como un nuevo servicio formal de su portfolio. Ya no debe quedar solo sugerido; debe ser comunicado con claridad ejecutiva, sin tono invasivo. La lógica es: si las empresas ya usan IA de manera dispersa, necesitan un método para transformarla en agentes gobernados; EXCELENCIA ofrece ese método como servicio.
+EXCELENCIA puede ayudar a las empresas en esa primera etapa crítica: ordenar documentación, procesos, datos, criterios y gobierno de información. Sobre esa base, el desarrollo de Agentes de IA aparece como un proyecto superador: pasar de usar herramientas de IA de manera aislada a diseñar sistemas capaces de asistir o gestionar tareas y procesos específicos con reglas, fuentes confiables, validación humana y métricas.
 
 ## Promesa para la audiencia
 
-Al terminar, cada CEO/director debería poder responder cuatro preguntas:
+Al terminar, cada CEO/director debería poder responder cinco preguntas:
 
-1. Qué diferencia a un agente de IA de el uso de la IA a través de prompts.
-2. En qué procesos/tareas de una organización puede agregar valor un agente de IA.
-3. Qué resultados concretos puede generar cuando se implementa como servicio de gestión.
-4. Qué condiciones mínimas se necesitan para implementarlo sin improvisación ni riesgo innecesario.
-5. Por qué la creación de Agentes de IA requiere acompañamiento especializado y puede ser abordada con EXCELENCIA.
+1. Por qué la calidad documental y la integridad de datos son condiciones críticas para incorporar IA.
+2. Qué riesgos aparecen cuando se intenta usar IA sobre información incompleta, desactualizada o no gobernada.
+3. Cómo puede EXCELENCIA ayudar a preparar la base documental, de procesos y datos.
+4. Qué diferencia a un uso disperso de IA de un agente diseñado para tareas o procesos específicos.
+5. Por qué los Agentes de IA son un proyecto superador cuando se apoyan en fuentes confiables, gobierno y validación.
 
 ## Distribución de tiempo
 
 | Bloque | Tiempo | Propósito |
 |---|---:|---|
-| 1. Apertura: la IA ya entró a la organización | 3 min | Instalar el problema del uso disperso e informal |
-| 2. De prompts a agentes | 5 min | Explicar la diferencia entre uso individual y sistema diseñado |
-| 3. Procesos y tareas donde agrega valor | 5 min | Mostrar alcance transversal y ventajas económicas/operativas |
-| 4. Casos de éxito de EXCELENCIA aplicando agentes de IA | 10 min | Demostrar resultados concretos con dos casos claros |
-| 5. Cómo se diseña y gobierna un agente útil | 5 min | Presentar componentes del servicio, gobierno, validación y controles mínimos |
-| 6. Cierre: de experimento a nuevo servicio de EXCELENCIA | 2 min | Dejar mensaje accionable para dirección |
+| 1. Apertura: la IA exige una base confiable | 4 min | Instalar que documentación y datos son el punto de partida |
+| 2. Riesgo: IA sobre información débil | 4 min | Mostrar por qué la IA amplifica desorden si no hay gobierno |
+| 3. Rol de EXCELENCIA: preparar la organización para IA | 5 min | Presentar repositorios, procesos, datos y criterios como servicio de gestión |
+| 4. De IA asistida a Agentes de IA | 5 min | Explicar agentes como salto de madurez, no como punto de partida |
+| 5. Casos aplicados de EXCELENCIA | 8 min | Demostrar valor con calidad/PNC y software/productividad |
+| 6. Cómo se implementa con gobierno y cierre | 4 min | Dejar secuencia de trabajo y mensaje ejecutivo final |
 
 ## Estructura sugerida de slides
 
 ### Slide 1 — Título
 
-**Agentes de IA que gestionan: de prompts sueltos a Excelencia Organizacional**
+**IA organizacional: de información confiable a agentes gobernados**
 
-Subtítulo: Fundamentos, creación, uso y resultados aplicados en organizaciones.
+Subtítulo: Cómo preparar documentación, datos y procesos para incorporar IA con valor real.
 
-Mensaje oral: esta charla no trata de prohibir el uso espontáneo de IA; trata de mostrar cómo convertirlo en gestión gobernada, medible y orientada a la Excelencia Organizacional.
+Mensaje oral: esta charla no empieza por vender agentes. Empieza por una condición básica: ninguna IA seria funciona bien sobre información desordenada, desactualizada o poco confiable.
 
-Mensaje comercial explícito: EXCELENCIA abre una nueva línea de servicio para las empresas: diseño, creación e implementación de agentes de IA que gestionen, con método y gobierno.
+Mensaje EXCELENCIA: EXCELENCIA puede acompañar a las empresas desde la preparación de su base documental y de datos hasta el desarrollo de agentes gobernados.
 
-### Slide 2 — La IA ya está dentro de la empresa
+### Slide 2 — Antes de IA: documentación fiel a la realidad
 
 Ideas clave:
 
-- Muchos empleados ya usan IA para redactar, resumir, analizar o resolver tareas.
-- Ese uso suele nacer desde la iniciativa individual, no desde una arquitectura de gestión.
-- El problema no es que usen IA; el problema es que se use sin control, sin eje, sin estándar, sin gobierno y sin validación.
+- La IA necesita fuentes confiables para responder, analizar y asistir decisiones.
+- La documentación debe representar la realidad operativa, no solo existir como archivo formal.
+- Los repositorios deben ser robustos, actualizados, accesibles y trazables.
+- Si el proceso real y el proceso documentado no coinciden, la IA puede trabajar sobre una ficción ordenada.
 
 Riesgo ejecutivo:
 
-- Productividad puntual sin aprendizaje organizacional.
-- Criterios inconsistentes.
-- Información sensible expuesta o mal utilizada.
-- Resultados difíciles de auditar.
-- Dependencia de la habilidad individual para escribir buenos prompts.
+- Decisiones apoyadas en información desactualizada.
+- Respuestas aparentemente sólidas basadas en fuentes débiles.
+- Dificultad para auditar criterios y evidencias.
+- Pérdida de confianza en la IA por problemas de base, no de tecnología.
 
-Mensaje comercial:
+Mensaje central:
 
-- Si este uso ya existe dentro de la empresa, el desafío directivo es ordenarlo antes de que escale sin control.
+> La primera pregunta no es qué IA usar. La primera pregunta es si la organización tiene información confiable para que la IA pueda trabajar.
 
-### Slide 3 — Prompt no es proceso
+### Slide 3 — Datos íntegros: la otra mitad de la base
 
-Comparación simple:
+Ideas clave:
 
-- Prompt: una instrucción puntual escrita por una persona para resolver una necesidad inmediata.
-- Buen uso de prompts: mejora la productividad individual.
-- Problema: no asegura repetibilidad, trazabilidad, fuentes correctas ni gobierno.
-- Agente: sistema diseñado para ejecutar una tarea o acompañar un proceso con reglas, contexto, herramientas y validación.
+- Los datos deben ser completos, consistentes, trazables y gobernados.
+- La IA puede ayudar a interpretar datos, pero no corrige automáticamente la falta de integridad.
+- Datos fragmentados o contradictorios generan análisis débiles, aunque la herramienta sea avanzada.
+- La integridad de datos requiere responsables, reglas, controles y ciclos de actualización.
+
+Mensaje central:
+
+> La IA puede acelerar análisis; no puede reemplazar la responsabilidad organizacional sobre la calidad de los datos.
+
+Mensaje EXCELENCIA:
+
+EXCELENCIA puede ayudar a diagnosticar brechas de información, ordenar criterios y fortalecer el gobierno de datos desde una lógica de sistema de gestión.
+
+### Slide 4 — El riesgo de incorporar IA sobre una base débil
+
+Riesgos principales:
+
+- Automatizar errores existentes.
+- Dar más velocidad a procesos mal definidos.
+- Usar documentos no vigentes como fuente de verdad.
+- Mezclar criterios entre áreas.
+- Exponer información sensible sin permisos claros.
+- Generar respuestas difíciles de validar.
+- Crear dependencia de usos individuales no trazables.
+
+Mensaje oral:
+
+El problema no es la IA. El problema es incorporarla sin una arquitectura mínima de información, procesos, responsabilidades y validación.
 
 Frase central:
 
-> El prompt mejora una tarea. El agente puede gestionar y mejorar un proceso.
+> Sin base confiable, la IA no transforma la organización: amplifica sus inconsistencias.
 
-Mensaje comercial:
+### Slide 5 — Dónde puede ayudar EXCELENCIA antes del agente
 
-> Pasar de prompt a proceso no ocurre solo por comprar una herramienta; requiere diseño, método y acompañamiento.
+Ámbitos de acompañamiento:
 
-### Slide 4 — Qué diferencia a un agente de IA
-
-Un agente de IA tiene:
-
-- Propósito definido: sabe para qué existe.
-- Instrucciones estables: trabaja con criterios y límites.
-- Contexto propio: accede a documentación, datos y antecedentes relevantes.
-- Herramientas: puede consultar, buscar, leer, generar, comparar o interactuar con sistemas.
-- Memoria: conserva continuidad de decisiones y aprendizajes autorizados.
-- Validación: opera bajo controles y escalamiento humano.
-- Métricas: puede evaluarse por calidad, tiempo, costo y riesgo.
-
-Mensaje oral:
-
-Un agente reduce la dependencia del talento individual para formular prompts, porque encapsula conocimiento, criterios y forma de trabajo orientados a una gestión consistente.
-
-Mensaje comercial:
-
-Estos componentes anticipan la propuesta de EXCELENCIA: ayudar a las organizaciones a definir propósito, fuentes, reglas, validación y métricas para sus agentes.
-
-### Slide 5 — No hay función organizacional fuera del alcance
-
-Idea eje:
-
-Bajo gobierno, fuentes confiables y validación humana cuando corresponda, prácticamente no hay función de gestión o trabajo de conocimiento donde un agente de IA no pueda ejecutar, asistir, acelerar o mejorar tareas. La pregunta relevante no es si puede aportar valor, sino qué tarea conviene delegar, con qué nivel de autonomía y con qué controles.
-
-Procesos/tareas con alto potencial:
-
-- Dirección y gobierno corporativo: briefings ejecutivos, minutas, seguimiento de decisiones, lectura crítica, agendas, síntesis de riesgos y escenarios.
-- Estrategia y planeamiento: análisis de contexto, seguimiento de objetivos, actualización de planes, comparación de iniciativas, mercado, desvíos y reportes estratégicos.
-- Calidad, excelencia y sistemas de gestión: autoevaluaciones, brechas, auditorías, búsqueda de evidencia, actualización documental, hallazgos, planes de acción y trazabilidad.
-- Operaciones, mantenimiento y seguridad: procedimientos, planificación, incidentes, reportes, permisos/checklists, lecciones aprendidas y consulta operativa 24 horas.
-- Comercial, marketing y clientes: reclamos, segmentación, propuestas, respuestas consistentes, oportunidades, análisis competitivo, cuentas y campañas.
-- Finanzas, administración y control: reportes, presupuesto, desvíos, escenarios, conciliaciones asistidas, vencimientos, tableros y cierres.
-- Legales, compliance y riesgos: revisión documental, obligaciones regulatorias, contratos, vencimientos, matrices de riesgo, respuestas y compromisos.
-- Recursos humanos y cultura: onboarding, capacitación, consultas internas, puestos, conocimiento, clima, comunicaciones y desempeño.
-- Tecnología, sistemas y desarrollo de software: requerimientos, documentación, generación/revisión de código, testing, bugs, logs, automatización, seguridad aplicativa e incidentes.
-- Compras, abastecimiento y proveedores: ofertas, proveedores, órdenes, documentación, desempeño, riesgos de suministro y negociaciones.
-- Comunicación, asuntos públicos y sostenibilidad: mensajes, stakeholders, compromisos ESG, reportes, respuestas institucionales y reputación.
-- Gestión documental y conocimiento: lectura, clasificación, búsqueda, actualización, síntesis y reutilización de conocimiento disperso.
+- Diagnóstico de madurez documental y de datos.
+- Revisión de fidelidad entre documentación y realidad operativa.
+- Ordenamiento de repositorios documentales.
+- Identificación de fuentes de verdad.
+- Mapeo de procesos y responsabilidades.
+- Criterios de actualización, trazabilidad y control documental.
+- Gobierno de información: permisos, usos, validación y riesgos.
+- Priorización de casos de uso de IA según valor y criticidad.
 
 Mensaje central:
 
-> Un agente no debe pensarse como una herramienta para un área aislada. Debe pensarse como una capacidad transversal para gestionar tareas, procesos y conocimiento con más velocidad, consistencia y trazabilidad.
+> Antes de diseñar agentes, hay que preparar el terreno: documentación, datos, procesos, criterios y gobierno.
 
 Mensaje comercial:
 
-La oportunidad para EXCELENCIA es acompañar a las empresas a identificar dónde empezar, qué agentes priorizar y cómo escalar sin improvisación.
+Este es un espacio natural para EXCELENCIA: ayudar a las empresas a convertir información dispersa en una base confiable para gestionar e innovar con IA.
 
-### Slide 6 — Valor económico y operativo
+### Slide 6 — De usar IA a diseñar Agentes de IA
 
-Palancas de valor:
+Comparación simple:
 
-- Aceleración de tiempos: menos horas en búsqueda, lectura, armado y síntesis.
-- Reducción de costos: automatización parcial de trabajo repetitivo de conocimiento.
-- Disponibilidad 24 horas: continuidad para tareas de preparación, análisis y soporte.
-- Consistencia: criterios homogéneos y reutilizables.
-- Escalabilidad: un agente puede asistir a múltiples personas o áreas.
-- Trazabilidad: evidencia, fuentes, decisiones y entregables mejor registrados.
-- Elevación del rol humano: menos tiempo operativo repetitivo y más tiempo para criterio, diseño, decisión y relación.
+- Uso puntual de IA: una persona pregunta y obtiene una respuesta.
+- IA asistida con buena base: la organización usa fuentes confiables y criterios comunes.
+- Agente de IA: sistema diseñado para una tarea o proceso, con propósito, fuentes, reglas, herramientas, memoria, límites, trazabilidad, validación y métricas.
+
+Frase central:
+
+> El agente no es el primer paso. Es el paso superador cuando la organización ya sabe qué información, proceso y criterio quiere gobernar.
+
+Mensaje EXCELENCIA:
+
+EXCELENCIA puede acompañar la secuencia completa: preparar la base, definir casos de uso y desarrollar agentes gobernados.
+
+### Slide 7 — Alcance potencial: procesos donde la IA agrega valor
+
+Ámbitos posibles:
+
+- Dirección y gobierno corporativo.
+- Estrategia y planeamiento.
+- Calidad, excelencia y sistemas de gestión.
+- Operaciones, mantenimiento y seguridad.
+- Comercial, marketing y clientes.
+- Finanzas, administración y control.
+- Legales, compliance y riesgos.
+- Recursos humanos y cultura.
+- Tecnología, sistemas y desarrollo de software.
+- Compras, abastecimiento y proveedores.
+- Comunicación, asuntos públicos y sostenibilidad.
+- Gestión documental y conocimiento.
+
+Matiz obligatorio:
+
+Bajo gobierno, fuentes confiables y validación humana cuando corresponda, prácticamente no hay función de gestión o trabajo de conocimiento donde la IA no pueda asistir, acelerar o mejorar tareas. La pregunta relevante no es si puede aportar valor, sino qué información necesita, qué tarea conviene delegar, con qué nivel de autonomía y con qué controles.
+
+### Slide 8 — Caso 1: documentación, calidad, ISO y PNC
+
+Caso realizado por EXCELENCIA:
+
+EXCELENCIA acompañó a una empresa en un trabajo de evaluación de sistema de gestión, calidad y madurez organizacional.
+
+Secuencia de valor:
+
+1. Ordenar y convertir documentación extensa en una base analizable.
+2. Verificar trazabilidad y utilidad de fuentes.
+3. Cruzar documentación contra requisitos ISO y criterios PNC.
+4. Buscar evidencia documental.
+5. Identificar cobertura, brechas y acciones necesarias.
+6. Construir matrices de gaps y matriz PNC con validación experta.
+
+Resultado a destacar:
+
+- La IA aporta velocidad, lectura sistemática y trazabilidad.
+- El valor depende de una base documental robusta y fiel a la realidad.
+- El experto humano conserva validación, priorización y decisión.
 
 Mensaje central:
 
-> El ahorro no viene solo de hacer más rápido una tarea; viene de reducir fricción, retrabajo, dependencia individual y tiempos muertos en procesos completos.
+> La IA no reemplaza el criterio experto; lo potencia cuando trabaja sobre documentación confiable.
 
-Mensaje comercial:
-
-La creación de agentes debe ser presentada como inversión en capacidad organizacional, no como gasto tecnológico.
-
-### Slide 7 — Caso de éxito 1: agente de excelencia para matrices ISO y PNC
+### Slide 9 — Caso 2: software y productividad aumentada
 
 Caso realizado por EXCELENCIA:
 
-EXCELENCIA acompañó a una empresa en la evaluación de su sistema de gestión y madurez organizacional. El trabajo exige leer documentación extensa, interpretar requisitos de calidad, cruzar evidencia contra criterios, justificar cobertura, detectar brechas y construir matrices de análisis.
+EXCELENCIA acompañó a una empresa de software con demanda creciente y disponibilidad limitada de talento técnico.
 
-Aplicación del agente:
+Secuencia de valor:
 
-- Lectura y conversión de documentación extensa a una base analizable.
-- Cruce sistemático contra requisitos ISO y criterios del Modelo PNC.
-- Búsqueda de evidencia documental.
-- Identificación de cobertura, brechas y acciones necesarias.
-- Construcción y validación asistida de matrices de gaps de calidad y matriz PNC.
-- Trazabilidad de fuentes, decisiones y justificaciones.
-
-Resultado a destacar:
-
-- Profundidad de análisis difícil de sostener manualmente en el mismo plazo.
-- Velocidad de avance muy superior a la de un equipo humano trabajando solo con lectura manual.
-- Mayor consistencia de criterios entre filas, requisitos y evidencias.
-- Liberación del experto humano para validar, decidir y priorizar, en lugar de consumir su tiempo en búsqueda y transcripción.
-
-Mensaje oral:
-
-El valor no está en que el agente “opine” sobre calidad. El valor está en que puede leer, comparar, ordenar, evidenciar y documentar con una velocidad y profundidad que vuelven viable un trabajo que manualmente sería mucho más lento, costoso y difícil de sostener.
-
-Mensaje comercial:
-
-Este caso muestra el tipo de servicio que EXCELENCIA ofrece: agentes entrenados para aplicar modelos de excelencia, calidad, brechas, evidencia y mejora continua.
-
-### Slide 8 — Caso de éxito 2: empresa de software que multiplica productividad
-
-Caso realizado por EXCELENCIA:
-
-EXCELENCIA acompañó a una empresa de software con demanda creciente, cuyo crecimiento estaba limitado por la disponibilidad de recursos humanos especializados. Contratar más desarrolladores no siempre es inmediato, escalar equipos genera costos y coordinación, y los perfiles senior se vuelven cuello de botella.
-
-Aplicación del agente:
-
-- Cada developer pasa a operar como responsable de diseño y coordinación técnica.
-- Cada developer gestiona tres agentes de IA especializados.
-- Los agentes asisten en análisis de requerimientos, documentación técnica, generación de código, revisión, testing, detección de bugs, análisis de logs y automatización de tareas repetitivas.
-- El humano conserva criterio, arquitectura, validación, decisiones técnicas y responsabilidad final.
+1. Ordenar requerimientos, documentación técnica y criterios de trabajo.
+2. Definir estándares de revisión, arquitectura, testing y trazabilidad.
+3. Diseñar agentes especializados para asistir tareas técnicas.
+4. Permitir que cada developer coordine agentes para análisis, documentación, código, testing, bugs, logs e incidentes.
+5. Elevar al humano hacia un rol de arquitectura, coordinación técnica y validación.
 
 Resultado a destacar:
 
-- Developers elevados hacia un rol más cercano a arquitectos de software.
-- Productividad multiplicada por la coordinación de varios agentes por persona.
-- Menos tiempo invertido en tareas repetitivas o de baja diferenciación.
-- Mayor capacidad de respuesta sin depender exclusivamente de aumentar dotación.
+- Mayor capacidad de entrega sin depender exclusivamente de aumentar dotación.
+- Menos tiempo en tareas repetitivas o preparatorias.
 - Mejor aprovechamiento del talento humano disponible.
-
-Mensaje oral:
-
-El agente no reemplaza al desarrollador valioso; lo cambia de nivel. Lo saca de tareas repetitivas y lo lleva a diseñar, supervisar, validar y coordinar capacidad aumentada.
-
-Mensaje comercial:
-
-Este caso amplía el alcance del servicio: EXCELENCIA puede ayudar a empresas no solo en calidad, sino también en productividad, innovación, escalabilidad y gestión del talento técnico.
-
-### Slide 9 — Cómo se crea y gobierna un agente útil
-
-Idea eje:
-
-Crear agentes de IA útiles es un nuevo servicio formal de EXCELENCIA: diagnóstico, diseño, entrenamiento operativo, fuentes, herramientas, gobierno, validación, métricas y acompañamiento de implementación.
-
-Secuencia de diseño:
-
-1. Definir propósito: qué tarea/proceso acompaña y qué queda fuera.
-2. Definir usuario: quién lo usa y con qué responsabilidad.
-3. Definir fuentes de verdad: documentos, sistemas y datos autorizados.
-4. Definir entrenamiento operativo: criterios, ejemplos, tono, estructura de salida y reglas de calidad.
-5. Definir herramientas: qué puede consultar, modificar, generar o ejecutar.
-6. Definir límites: permisos, privacidad, seguridad y escalamiento.
-7. Definir validación: cuándo debe pedir revisión humana.
-8. Definir métricas: tiempo ahorrado, costo evitado, calidad, uso, riesgo y satisfacción.
-
-Controles mínimos:
-
-- Dueño del agente y responsable de negocio.
-- Casos de uso aprobados por criticidad.
-- Fuentes de datos validadas.
-- Estándares de respuesta y calidad.
-- Permisos por nivel de riesgo.
-- Registro de acciones y trazabilidad.
-- Validación humana en decisiones críticas.
-- Política de privacidad, confidencialidad y uso aceptable.
+- Productividad aumentada con control técnico y responsabilidad humana.
 
 Mensaje central:
 
-> Sin gobierno, la IA queda dispersa en prompts individuales. Con gobierno, los agentes pueden transformarse en una capacidad de Excelencia Organizacional.
+> El agente no reemplaza al talento crítico; lo eleva y multiplica su capacidad cuando existe método, estándares y validación.
 
-Mensaje comercial:
-
-El servicio no es “un bot”. Es la capacidad de convertir una necesidad de gestión en un agente diseñado, gobernado, medible y validable.
-
-### Slide 10 — Cierre
+### Slide 10 — Cierre: la secuencia de madurez
 
 Tres mensajes finales:
 
-1. La IA ya está siendo usada dentro de las organizaciones; ignorarlo no la vuelve más segura.
-2. El salto de valor es pasar de prompts individuales a agentes entrenados para tareas y procesos específicos.
-3. Los casos aplicados muestran que la ventaja aparece cuando el agente se integra a gestión real: calidad, excelencia, PNC, software, productividad, trazabilidad y decisiones mejores.
-4. EXCELENCIA acompaña ese salto con un nuevo servicio formal: creación de Agentes de IA gobernados para procesos reales.
+1. La IA requiere información confiable: documentación vigente, datos íntegros, procesos claros y gobierno.
+2. EXCELENCIA puede ayudar a construir esa base: repositorios, procesos, criterios, trazabilidad y calidad de información.
+3. Sobre esa base, los Agentes de IA son el proyecto superador: permiten gestionar tareas y procesos con más velocidad, consistencia, disponibilidad y resultados.
 
 Frase de cierre sugerida:
 
-> La pregunta directiva no es si los empleados van a usar IA. Ya la usan. La pregunta es cómo convertir ese uso disperso en agentes gobernados que creen valor real para la organización.
+> La pregunta directiva no es solamente qué IA vamos a usar. Es si tenemos la información, los datos y el gobierno necesarios para que la IA cree valor real.
 
-Frase comercial de cierre sugerida:
+Frase comercial sugerida:
 
-> Ese es el nuevo espacio de trabajo que EXCELENCIA propone abrir con las empresas: diseñar agentes de IA que gestionen, con método, gobierno y resultados.
+> Ese es el espacio que EXCELENCIA propone trabajar con las empresas: preparar la base confiable para IA y, desde allí, diseñar agentes gobernados orientados a resultados.
 
 ## Mensaje rector para Luis
 
-Evitar una charla técnica. La audiencia necesita reconocer un problema actual de gestión: uso informal de IA sin control. Desde ahí, la presentación debe mostrar una evolución natural hacia agentes de IA que gestionan tareas y procesos, con gobierno, validación, métricas, retorno económico y orientación a la Excelencia Organizacional.
+El feedback de Jorge exige correr la presentación un nivel hacia arriba. El relato no debe abrir como venta de agentes. Debe abrir como conversación directiva sobre la calidad de la información organizacional.
 
-La versión de 30 minutos debe dedicar 10 minutos a evidencia aplicada. Esos casos tienen que funcionar como demostración ejecutiva del servicio de EXCELENCIA: no vender IA genérica, sino mostrar cómo agentes bien diseñados pueden producir resultados superiores en velocidad, profundidad, productividad y capacidad organizacional aumentada.
+El orden conceptual correcto ahora es:
 
-La presentación debe vender de manera explícita sin parecer una venta agresiva. El mensaje debe llegar por acumulación: problema real, solución conceptual, alcance transversal, valor económico, casos de éxito, método de implementación y cierre con EXCELENCIA como socio natural para crear agentes gobernados.
+1. IA necesita documentación y datos confiables.
+2. Muchas organizaciones todavía tienen brechas en repositorios, procesos, actualización documental, integridad de datos y gobierno de información.
+3. EXCELENCIA puede ayudar a resolver esa base.
+4. Una vez construida esa base, los Agentes de IA son un proyecto superador y defendible.
+5. Los casos muestran la secuencia aplicada: primero ordenar conocimiento y criterios; luego potenciar gestión con agentes.
+
+La venta queda mejor integrada: EXCELENCIA no aparece como proveedor de “bots”, sino como socio de gestión para preparar organizaciones para IA y desarrollar agentes gobernados donde haya valor real.

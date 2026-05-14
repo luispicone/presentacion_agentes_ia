@@ -1,22 +1,28 @@
-# Contexto de audiencia: EXCELENCIA, FPNC y PNC
+# Contexto de audiencia: EXCELENCIA, FPNC, PNC e IA organizacional
 
-## Lectura ejecutiva
+## Lectura ejecutiva vigente
 
 La presentación está dirigida a CEOs y directores de empresas argentinas vinculadas al ecosistema EXCELENCIA, asociado a la Fundación Premio Nacional a la Calidad (FPNC), FUNDECE e IPACE.
 
-El enfoque debe partir de una tensión concreta que esta audiencia probablemente ya está viviendo: los empleados de las organizaciones ya usan IA, pero muchas veces lo hacen de manera individual, sin control, sin eje, sin estándar, sin gobierno y sin validación. Ese uso puede dar productividad puntual, pero no necesariamente genera capacidad organizacional ni aprendizaje colectivo.
+A partir del feedback de Jorge Ferreiro, Director Ejecutivo de EXCELENCIA, el enfoque debe ampliarse. La charla no debe comenzar como una presentación de venta de Agentes de IA. Debe comenzar por la condición crítica para cualquier incorporación seria de IA:
 
-La oportunidad directiva es pasar de ese uso disperso mediante prompts a agentes de IA entrenados para gestionar tareas y procesos específicos orientados a la Excelencia Organizacional. Ahí aparece el valor empresarial: velocidad, consistencia, trazabilidad, disponibilidad 24 horas, reducción exponencial de costos operativos y de coordinación en tareas repetitivas/escalables, y elevación del rol humano hacia actividades de mayor criterio.
+- repositorios documentales robustos;
+- documentación fiel a la realidad operativa;
+- datos íntegros, confiables y trazables;
+- criterios de gestión explícitos;
+- gobierno sobre fuentes, permisos, uso y validación.
 
-El foco ya no debe limitarse a una función puntual: con el diseño adecuado, los agentes pueden asistir o ejecutar trabajo de conocimiento en dirección, estrategia, calidad, operaciones, clientes, finanzas, legales, recursos humanos, tecnología, desarrollo de software, compras, comunicación, sostenibilidad y gestión documental.
+La audiencia debe reconocer primero que la IA no puede generar valor sostenible si trabaja sobre información desordenada, desactualizada, incompleta o poco confiable. En ese punto aparece el rol natural de EXCELENCIA: ayudar a las organizaciones a ordenar la base sobre la cual luego podrá incorporarse IA con sentido.
 
-La versión de 30 minutos debe dar un paso adicional: no solo explicar qué son los agentes, sino demostrar cómo EXCELENCIA ya puede convertirlos en servicios aplicados con resultados concretos para empresas. Ese mensaje tiene una intención comercial deliberada y ahora explícita: instalar la creación de Agentes de IA como un nuevo servicio formal del portfolio de EXCELENCIA.
+## Nuevo hilo estratégico
 
-La audiencia debe percibir tres cosas:
+La narrativa debe avanzar en tres capas:
 
-1. Que el problema ya existe: la IA está siendo usada de manera dispersa.
-2. Que gestionar ese problema requiere método, gobierno y experiencia.
-3. Que EXCELENCIA ofrece un servicio concreto para diseñar, implementar y gobernar agentes de IA orientados a resultados.
+1. **Base de confianza:** antes de hablar de agentes, hablar de documentación y datos. Sin repositorios robustos y datos íntegros, la IA amplifica desorden, inconsistencias y riesgos.
+2. **IA incorporada con gobierno:** una vez ordenada la base, la IA puede asistir lectura, análisis, síntesis, control, seguimiento y mejora de procesos.
+3. **Agentes de IA como proyecto superador:** el desarrollo de agentes aparece como el paso de madurez superior: sistemas entrenados para tareas y procesos específicos, con fuentes confiables, reglas, trazabilidad, validación y métricas.
+
+Esto permite que la propuesta de EXCELENCIA sea más amplia y más sólida: no vender solamente agentes, sino ofrecer acompañamiento para preparar la organización para IA y luego desarrollar agentes gobernados.
 
 ## Qué es EXCELENCIA
 
@@ -36,50 +42,50 @@ El PNC evalúa organizaciones mediante Modelos de Gestión de Excelencia. La par
 
 El modelo se usa también como recurso abierto para autoevaluación y mejora de competitividad, eficiencia y calidad de gestión.
 
-## Puente conceptual con agentes de IA
+## Puente conceptual con IA
 
-Para esta audiencia, conviene conectar agentes de IA con los temas propios del modelo de excelencia:
+Para esta audiencia, la IA debe conectarse con los temas propios del modelo de excelencia:
 
-- Liderazgo: la alta dirección define para qué se usará la IA, con qué límites y bajo qué responsabilidades.
-- Sistema de gestión: los agentes se integran a procesos, documentación, indicadores, riesgos y mejora continua.
-- Transversalidad: prácticamente toda función organizacional con tareas de conocimiento puede ser asistida, acelerada o gestionada parcialmente por agentes, desde dirección hasta tecnología y desarrollo de software.
-- Resultados: el impacto se mide en tiempos, costos, calidad, disponibilidad, consistencia, aprendizaje y capacidad decisoria.
-- Innovación: el salto no es usar IA por novedad, sino convertirla en una práctica organizacional repetible.
-- Personas: los agentes aumentan la capacidad de los equipos, reducen tareas repetitivas y liberan tiempo para criterio, vínculo y decisión.
-- Responsabilidad y control: la autonomía se combina con trazabilidad, seguridad, privacidad, permisos y validación humana.
+- **Liderazgo:** la alta dirección define propósito, límites, prioridades y responsabilidades para incorporar IA.
+- **Sistema de gestión:** la IA necesita procesos claros, documentación vigente, indicadores, riesgos, datos confiables y mejora continua.
+- **Gestión documental:** los repositorios deben ser robustos, accesibles, actualizados y fieles a la realidad.
+- **Integridad de datos:** los datos deben ser completos, consistentes, trazables y aptos para alimentar decisiones.
+- **Innovación:** el salto no es usar IA por novedad, sino incorporarla como práctica organizacional repetible.
+- **Personas:** la IA aumenta la capacidad de los equipos cuando libera tiempo operativo y eleva el rol humano hacia criterio, vínculo y decisión.
+- **Resultados:** el impacto debe medirse en tiempos, costos, calidad, disponibilidad, trazabilidad, aprendizaje y capacidad decisoria.
+- **Responsabilidad y control:** la autonomía se combina con permisos, seguridad, privacidad, registro de acciones y validación humana.
 
-## Nuevo servicio en el portfolio de EXCELENCIA
+## Rol ampliado de EXCELENCIA
 
-La creación de Agentes de IA debe quedar posicionada como un nuevo servicio formal de EXCELENCIA. Ya no debe aparecer solo como posibilidad futura ni como mención sutil: debe entenderse como una oferta concreta dentro del portfolio.
+La creación de Agentes de IA sigue siendo un servicio relevante, pero debe presentarse dentro de una propuesta más completa:
+
+1. Diagnóstico de madurez documental y de datos.
+2. Ordenamiento de repositorios documentales y procesos.
+3. Aseguramiento de fidelidad entre documentación y realidad operativa.
+4. Definición de criterios, fuentes de verdad y gobierno de información.
+5. Identificación de casos de uso de IA con valor real.
+6. Diseño, creación, implementación y gobierno de Agentes de IA.
 
 Lectura comercial:
 
 - No se vende una herramienta tecnológica genérica.
+- No se comienza prometiendo agentes sin revisar la calidad de la base.
 - Se ofrece una capacidad de transformación organizacional aplicada.
-- El servicio combina diagnóstico, diseño del agente, fuentes de verdad, entrenamiento operativo, gobierno, métricas, validación humana y acompañamiento de implementación.
-- El valor diferencial de EXCELENCIA está en conectar IA con gestión, calidad, procesos, innovación, personas, resultados y modelos de excelencia.
-- Los casos de éxito deben exponerse como trabajos realizados por EXCELENCIA, no como ejemplos hipotéticos.
+- El diferencial de EXCELENCIA está en conectar IA con gestión, calidad, procesos, documentación, datos, innovación, personas, resultados y modelos de excelencia.
 
-El mensaje debe aparecer distribuido a lo largo de la charla:
+## Casos de éxito como prueba de la secuencia
 
-- Al inicio: instalar la necesidad y el riesgo del uso disperso.
-- En la explicación: mostrar que un agente requiere diseño y gobierno, no solo tecnología.
-- En los casos: demostrar resultados alcanzables mediante servicios aplicados.
-- En el cierre: dejar a EXCELENCIA como el socio natural para pasar de prompts sueltos a agentes gobernados.
+La presentación debe incorporar dos casos aplicados para mostrar que los agentes no son una promesa abstracta, pero esos casos deben quedar apoyados sobre la idea de base documental/datos confiables.
 
-## Casos de éxito como prueba del nuevo servicio
+### Caso 1 — Base documental, calidad, ISO y PNC
 
-La presentación debe incorporar dos casos aplicados para mostrar que los agentes no son una promesa abstracta, sino una capacidad que EXCELENCIA tradujo en servicios de alto impacto.
-
-### Caso 1 — Calidad, ISO y PNC
-
-EXCELENCIA realizó un caso de aplicación de agentes para asistir la construcción de matrices de gaps de calidad y matrices PNC mediante lectura documental, cruce contra requisitos, búsqueda de evidencia, detección de brechas, justificación técnica y trazabilidad.
+EXCELENCIA realizó un caso de aplicación donde el valor no empezó por el agente, sino por construir una base documental analizable: lectura, conversión, ordenamiento y trazabilidad de documentación. Sobre esa base, el agente pudo asistir la construcción de matrices de gaps de calidad y matrices PNC mediante cruce contra requisitos, búsqueda de evidencia, detección de brechas, justificación técnica y validación experta.
 
 Este caso conecta directamente con el mundo de EXCELENCIA: sistemas de gestión, modelos de evaluación, mejora continua, evidencia, fortalezas, oportunidades de mejora y madurez organizacional.
 
 ### Caso 2 — Productividad aumentada en software
 
-EXCELENCIA realizó un caso de aplicación en una empresa de software limitada por disponibilidad de recursos humanos. El modelo permitió aumentar capacidad haciendo que cada developer gestione varios agentes especializados. El developer se eleva hacia un rol de arquitectura y coordinación técnica, mientras los agentes asisten en documentación, código, testing, bugs, logs, automatización e incidentes.
+EXCELENCIA realizó un caso de aplicación en una empresa de software limitada por disponibilidad de recursos humanos. El modelo permitió aumentar capacidad haciendo que cada developer gestione varios agentes especializados. Para que eso funcione, también se requiere una base ordenada: requerimientos claros, documentación técnica disponible, criterios de arquitectura, estándares de revisión, trazabilidad de cambios y validación humana.
 
 Este caso muestra que la excelencia no se limita a calidad documental: también aplica a productividad, innovación, escalabilidad, gestión del talento y competitividad.
 
@@ -87,12 +93,13 @@ Este caso muestra que la excelencia no se limita a calidad documental: también 
 
 El tono debe ser ejecutivo, estratégico y práctico:
 
+- Primero gestión de información; después IA.
+- Primero repositorios, documentación y datos; después agentes.
 - Poco foco en hype técnico.
 - Mucho foco en gestión, gobernanza, competitividad, productividad y decisiones.
 - Ejemplos concretos y comprensibles para dirección.
 - Casos con resultados, no solo funcionalidades.
-- Mensaje comercial claro y explícito: creación de Agentes de IA como nuevo servicio de EXCELENCIA.
-- Mensaje principal: la IA usada solo por prompts queda en productividad individual; los agentes bien gobernados pueden convertirse en infraestructura de gestión orientada a la Excelencia Organizacional.
+- Mensaje comercial claro: EXCELENCIA puede acompañar desde la preparación de la base documental y de datos hasta el desarrollo de agentes gobernados.
 
 ## Fuentes consultadas
 
