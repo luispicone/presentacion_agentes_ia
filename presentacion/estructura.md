@@ -202,27 +202,32 @@ Mensaje central:
 
 > En ISO, el agente ordena requisito, evidencia, brecha y acción; la validez depende de evidencia trazable y revisión experta.
 
-### Slide 11 — Subejemplo PNC: madurez de gestión y oportunidades de mejora
+### Slide 11 — Subejemplo PNC: planeamiento estratégico VMOS
 
-Aplicación:
+Fuente específica:
 
-- Criterios y factores del Modelo para una Gestión de Excelencia.
-- Evidencias de liderazgo, sistema de gestión y resultados.
-- Fortalezas observables.
-- Oportunidades de mejora.
-- Brechas de madurez.
-- Insumos para autoevaluación o diagnóstico.
+- Archivo: `/home/luispicone/gdrive/vmos/entregables/matriz-gaps-pnc-vmos.xlsx`.
+- Rango usado: filas físicas Excel 14 a 22 inclusive.
+- Filas lógicas de matriz: ids 13 a 21.
+- Tema común: Criterio 1. Liderazgo / Factor 1.3 Planeamiento estratégico y operativo.
+
+Contenido de la muestra:
+
+- 9 aspectos del factor 1.3 del Modelo para una Gestión de Excelencia.
+- Aspectos cubiertos: horizonte de corto y largo plazo, objetivos estratégicos, innovación, despliegue de objetivos, riesgos en planes operativos, recursos, KPIs, comunicación de estrategia y revisión de planes.
+- Evidencias citadas: procesos de Estrategia, Sustentabilidad, Administración y Finanzas, Personas, Riesgos, Comunicaciones e Innovación y Mejora Continua.
+- Lectura ejecutiva: la matriz permite ordenar evidencia de gestión por criterio, factor, aspecto y fuente documental.
 
 Resultado a destacar:
 
 - Mejor ordenamiento de evidencia de gestión.
-- Lectura sistemática del modelo.
-- Mayor claridad sobre fortalezas y oportunidades de mejora.
-- Base para priorizar planes de mejora.
+- Lectura sistemática del modelo PNC.
+- Mayor claridad sobre cómo VMOS evidencia planeamiento estratégico y operativo.
+- Base trazable para revisión experta y priorización de mejoras.
 
 Mensaje central:
 
-> En PNC, la IA ayuda a ordenar evidencia y acelerar diagnóstico; la excelencia sigue requiriendo criterio directivo y experto.
+> En PNC, el agente acelera el ordenamiento de evidencias; el juicio de madurez queda en manos del experto.
 
 ### Slide 12 — Cierre: la secuencia de madurez
 

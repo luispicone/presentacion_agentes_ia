@@ -278,11 +278,30 @@ quote(slide, 0.95, 5.95, 11.45, 0.62, 'Mensaje para la charla: el agente acelera
 add_footer(slide, 10)
 
 # 11
-slide = blank(); set_bg(slide); add_title(slide, 'Subejemplo PNC · Madurez y oportunidades de mejora', 'Caso aplicado')
-card(slide, 0.85, 2.05, 3.6, 2.4, 'Entrada', 'Criterios del Modelo para una Gestión de Excelencia y evidencias de gestión.', YELLOW, 16, 13)
-card(slide, 4.85, 2.05, 3.6, 2.4, 'Trabajo del agente', 'Ordena evidencias, identifica fortalezas, oportunidades de mejora y brechas de madurez.', ORANGE, 16, 13)
-card(slide, 8.85, 2.05, 3.6, 2.4, 'Salida útil', 'Diagnóstico trazable para revisión experta, priorización y planes de mejora.', TEAL, 16, 13)
-quote(slide, 1.1, 5.25, 11.05, 0.85, 'En PNC, la IA acelera el diagnóstico; la excelencia sigue requiriendo criterio directivo y experto.', FUCHSIA)
+slide = blank(); set_bg(slide); add_title(slide, 'Subejemplo PNC · Planeamiento estratégico VMOS', 'Caso aplicado')
+add_textbox(slide, 0.86, 1.78, 10.7, 0.28, 'Muestra real tomada de matriz-gaps-pnc-vmos.xlsx · filas Excel 14 a 22 · ids 13 a 21 · Criterio 1. Liderazgo / Factor 1.3', 11.0, GREY, False)
+card(slide, 0.85, 2.18, 2.75, 1.28, 'Alcance', '9 aspectos del factor 1.3: planeamiento estratégico y operativo.', TEAL, 15, 11.6)
+card(slide, 3.85, 2.18, 2.75, 1.28, 'Evidencias', 'Estrategia, Sustentabilidad, Finanzas, Personas, Riesgos, Comunicaciones e Innovación.', ORANGE, 15, 11.2)
+card(slide, 6.85, 2.18, 2.75, 1.28, 'Lectura PNC', 'El agente ordena evidencias por aspecto, criterio, factor y fuente.', FUCHSIA, 15, 11.6)
+card(slide, 9.85, 2.18, 2.75, 1.28, 'Salida útil', 'Diagnóstico trazable para revisión experta y priorización de mejoras.', YELLOW, 15, 11.6)
+
+rows = [
+    ('Horizonte y objetivos', 'largo/corto plazo, objetivos estratégicos, planes operativos'),
+    ('Despliegue', 'innovación, recursos, KPIs y alineamiento presupuestario'),
+    ('Gobierno', 'riesgos integrados a planes, comunicación interna/externa'),
+    ('Revisión', 'seguimiento de planes, desvíos, reforecast y mejora continua'),
+]
+y0 = 3.82
+for i, (tema, detalle) in enumerate(rows):
+    y = y0 + i * 0.48
+    color = COLORS[i % 4]
+    shp = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(0.95), Inches(y), Inches(2.0), Inches(0.34))
+    shp.fill.solid(); shp.fill.fore_color.rgb = color
+    shp.line.fill.background()
+    add_textbox(slide, 1.03, y+0.08, 1.84, 0.13, tema, 8.7, WHITE, True, align=PP_ALIGN.CENTER)
+    add_textbox(slide, 3.15, y+0.05, 8.65, 0.22, detalle, 10.6, ANTH, False)
+
+quote(slide, 0.95, 5.95, 11.45, 0.62, 'Mensaje para la charla: en PNC el agente acelera el ordenamiento de evidencias; el juicio de madurez queda en manos del experto.', FUCHSIA)
 add_footer(slide, 11)
 
 # 12
