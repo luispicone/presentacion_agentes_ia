@@ -315,5 +315,28 @@ quote(slide, 1.0, 4.55, 11.2, 1.0, 'La pregunta directiva no es solamente qué I
 add_textbox(slide, 1.15, 6.05, 10.9, 0.35, 'EXCELENCIA prepara la base confiable para IA y diseña agentes gobernados orientados a resultados.', 16, ANTH, True, align=PP_ALIGN.CENTER)
 add_footer(slide, 12)
 
+# 13
+slide = blank(); set_bg(slide); add_title(slide, 'Beneficios esperables en ISO y PNC', 'Valor tangible e intangible')
+card(slide, 0.85, 2.05, 2.75, 2.15, 'Tiempo experto', 'Menos tiempo en búsqueda documental, lectura repetitiva, comparación y armado de matrices.', TEAL, 15, 12.2)
+card(slide, 3.85, 2.05, 2.75, 2.15, 'Consistencia', 'Mismo criterio entre filas, menor variabilidad y estructura homogénea de análisis.', ORANGE, 15, 12.2)
+card(slide, 6.85, 2.05, 2.75, 2.15, 'Trazabilidad', 'Requisito o criterio → evidencia → fuente → juicio experto → acción.', FUCHSIA, 15, 12.2)
+card(slide, 9.85, 2.05, 2.75, 2.15, 'Foco directivo', 'Más tiempo para validar, priorizar brechas, decidir y orientar planes de mejora.', YELLOW, 15, 12.2)
+quote(slide, 0.95, 5.1, 11.45, 0.92, 'El beneficio no es reemplazar al experto: es devolverle tiempo y foco para decidir mejor.', TEAL)
+add_textbox(slide, 1.05, 6.25, 11.2, 0.28, 'Aplicado a ISO y PNC: acelerar el ordenamiento de evidencia sin resignar criterio, trazabilidad ni validación humana.', 12.8, GREY, False, align=PP_ALIGN.CENTER)
+add_footer(slide, 13)
+
+# 14
+slide = blank(); set_bg(slide)
+diagonal_band(slide, 9.45, -0.15, 0.65, 7.95, YELLOW, 10)
+diagonal_band(slide, 10.05, -0.15, 0.65, 7.95, ORANGE, 10)
+diagonal_band(slide, 10.65, -0.15, 0.65, 7.95, FUCHSIA, 10)
+diagonal_band(slide, 11.25, -0.15, 0.65, 7.95, TEAL, 10)
+add_logo(slide)
+add_textbox(slide, 0.82, 0.85, 4.5, 0.3, 'PREGUNTA FINAL', 11, TEAL, True)
+add_textbox(slide, 0.82, 1.55, 8.0, 2.0, 'Si mañana incorporáramos IA en nuestros procesos críticos, ¿trabajaría sobre la mejor versión de nuestra organización o sobre nuestro desorden documental?', 30, ANTH, True, line_spacing=0.95)
+quote(slide, 0.88, 4.65, 7.6, 0.82, 'Empezar por un diagnóstico: información confiable, datos íntegros, procesos claros y gobierno suficiente para que la IA cree valor real.', FUCHSIA)
+add_textbox(slide, 0.95, 6.18, 7.5, 0.36, 'EXCELENCIA · Preparar la base confiable para IA y diseñar agentes gobernados orientados a resultados.', 13.5, GREY, False)
+add_footer(slide, 14)
+
 prs.save(OUT)
 print(OUT)

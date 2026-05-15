@@ -33,7 +33,7 @@ Se elimina el ejemplo de desarrollo de software porque no se ajusta a la audienc
 
 ## Reglas de diseño
 
-- 10 a 12 slides.
+- 12 a 14 slides.
 - Poco texto por slide.
 - Una idea central por slide.
 - Lenguaje de dirección, no de programación.
@@ -57,11 +57,12 @@ Se elimina el ejemplo de desarrollo de software porque no se ajusta a la audienc
 5. Dónde puede ayudar EXCELENCIA antes del agente.
 6. De usar IA a diseñar Agentes de IA.
 7. Alcance potencial: procesos donde la IA agrega valor.
-8. Alcance potencial: procesos donde la IA agrega valor.
-9. Caso único EXCELENCIA: documentación, calidad, ISO y PNC.
-10. Subejemplo ISO: matriz de gaps, evidencia y acciones.
-11. Subejemplo PNC: madurez de gestión y oportunidades de mejora.
-12. Cierre: la secuencia de madurez.
+8. Caso único EXCELENCIA: documentación, calidad, ISO y PNC.
+9. Subejemplo ISO: matriz de gaps, evidencia y acciones.
+10. Subejemplo PNC: madurez de gestión y oportunidades de mejora.
+11. Cierre: la secuencia de madurez.
+12. Beneficios esperables en ISO y PNC.
+13. Cierre reflexivo / llamado a la acción.
 
 ## Mensaje comercial explícito y no invasivo por slide
 
@@ -72,11 +73,12 @@ Se elimina el ejemplo de desarrollo de software porque no se ajusta a la audienc
 5. EXCELENCIA antes del agente: posicionar el servicio de preparación organizacional.
 6. Agentes: presentar el desarrollo de agentes como etapa superadora.
 7. Alcance: ampliar oportunidad en toda la empresa, siempre con fuentes y controles.
-8. Alcance: ampliar oportunidad en toda la empresa, siempre con fuentes y controles.
-9. Caso único: demostrar capacidad de EXCELENCIA en base documental, sistemas de gestión, calidad y PNC.
-10. ISO: mostrar aplicación concreta en requisitos, evidencia, brechas y acciones.
-11. PNC: mostrar aplicación concreta en madurez de gestión, fortalezas y oportunidades de mejora.
-12. Cierre: dejar claro que el próximo paso es conversar con EXCELENCIA para preparar la base y avanzar hacia agentes gobernados.
+8. Caso único: demostrar capacidad de EXCELENCIA en base documental, sistemas de gestión, calidad y PNC.
+9. ISO: mostrar aplicación concreta en requisitos, evidencia, brechas y acciones.
+10. PNC: mostrar aplicación concreta en madurez de gestión, fortalezas y oportunidades de mejora.
+11. Secuencia de madurez: información confiable → IA con gobierno → agentes gobernados.
+12. Beneficios: tiempo experto, consistencia, trazabilidad y foco directivo.
+13. Cierre: pregunta reflexiva y llamado a iniciar diagnóstico de base confiable.
 
 ## Preguntas esperables de la audiencia
 

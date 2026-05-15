@@ -246,7 +246,30 @@ Frase de cierre sugerida:
 
 > La pregunta directiva no es solamente qué IA vamos a usar. Es si tenemos la información, los datos y el gobierno necesarios para que la IA cree valor real.
 
-Frase comercial sugerida:
+### Slide 13 — Beneficios esperables en ISO y PNC
+
+Beneficios vinculados al eje actual de la presentación:
+
+- **Reducción de tiempo experto en tareas de bajo valor:** búsqueda documental, lectura repetitiva, comparación contra requisitos, armado de matrices y trazabilidad de fuentes.
+- **Mejora de consistencia:** mismo criterio entre filas, menor variabilidad entre analistas y estructura homogénea de evidencia, brecha, justificación y acción.
+- **Mejora de trazabilidad:** requisito → evidencia → fuente → juicio experto; criterio PNC → evidencia → fortaleza/oportunidad → recomendación.
+- **Mayor foco del experto:** menos tiempo buscando y ordenando; más tiempo validando, priorizando y decidiendo.
+
+Mensaje central:
+
+> El beneficio no es reemplazar al experto: es devolverle tiempo y foco para decidir mejor.
+
+### Slide 14 — Cierre reflexivo / llamado a la acción
+
+Pregunta final sugerida:
+
+> Si mañana incorporáramos IA en nuestros procesos críticos, ¿trabajaría sobre la mejor versión de nuestra organización o sobre nuestro desorden documental?
+
+Call to action sugerido:
+
+> Empezar por un diagnóstico: información confiable, datos íntegros, procesos claros y gobierno suficiente para que la IA cree valor real.
+
+Mensaje comercial sugerido:
 
 > Ese es el espacio que EXCELENCIA propone trabajar con las empresas: preparar la base confiable para IA y, desde allí, diseñar agentes gobernados orientados a resultados.
 
