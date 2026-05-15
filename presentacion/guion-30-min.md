@@ -80,9 +80,13 @@ El experto humano no desaparece. Al contrario: queda mejor ubicado. En lugar de 
 
 Este caso es el que conviene profundizar para esta audiencia, porque conecta directamente con EXCELENCIA: calidad, sistemas de gestión, modelos de excelencia, evidencia, mejora continua y resultados.
 
-## 22:00-25:00 — Subejemplo ISO: matriz de gaps y evidencia
+## 22:00-24:30 — Subejemplo ISO: matriz de gaps y evidencia
 
 En el subejemplo ISO, el agente trabaja sobre un problema muy concreto: cómo cruzar requisitos normativos con documentación real de la organización.
+
+La muestra de la presentación toma datos reales de `matriz-gaps-iso-vmos.xlsx`: filas Excel 14 a 23, ids 13 a 22, cláusula 6 de planificación. Son 10 requisitos vinculados con riesgos y oportunidades, aspectos ambientales, peligros y riesgos de SST, requisitos legales, objetivos y gestión del cambio.
+
+El resultado mostrado es simple y ejecutivo: 3 requisitos cubiertos y 7 parciales. Eso permite ver que el agente no sirve para “decorar” una respuesta, sino para separar evidencia suficiente de brechas documentales concretas.
 
 El trabajo exige identificar el requisito, entender su alcance, buscar documentos vinculados, ubicar evidencia concreta, evaluar si la cobertura es suficiente, parcial o inexistente, justificar el criterio, detectar brechas y definir acciones para cerrarlas.
 
@@ -94,23 +98,41 @@ La salida útil no es una respuesta suelta. Es una matriz trazable: requisito, d
 
 Este subejemplo muestra algo importante para cualquier director: cuando la base documental está ordenada, la IA puede convertir un trabajo muy intensivo en lectura y comparación en un proceso más rápido, consistente y auditable.
 
-## 25:00-28:00 — Subejemplo PNC: madurez de gestión y oportunidades de mejora
+## 24:30-26:30 — Subejemplo PNC: cobertura documental y criterio experto
 
 El subejemplo PNC es distinto, porque el Premio Nacional a la Calidad no evalúa solo cumplimiento documental. Evalúa madurez de gestión.
 
+La muestra de la presentación toma datos reales de `matriz-gaps-pnc-vmos.xlsx`: filas Excel 14 a 22, ids 13 a 21, Criterio 1 Liderazgo / Factor 1.3 Planeamiento estratégico y operativo.
+
+El resultado mostrado es una lectura de cobertura documental: 9 aspectos cubiertos, 0 parciales y 0 no cubiertos. Es importante aclararlo bien: no es una calificación formal de madurez PNC, porque la matriz fuente no tiene una columna de estado de cobertura como la matriz ISO. Es una forma ejecutiva de mostrar que, para esos aspectos, existe evidencia documental cargada y trazable.
+
 El Modelo para una Gestión de Excelencia mira liderazgo, sistema de gestión, procesos, personas, recursos, responsabilidad social y resultados. Por eso la IA no debe usarse simplemente para buscar palabras en documentos. Debe ayudar a ordenar evidencia de gestión y relacionarla con criterios del modelo.
 
-Un agente gobernado puede asistir la lectura del modelo, separar criterios y factores, vincular evidencias disponibles, detectar fortalezas observables, identificar oportunidades de mejora y preparar insumos para una autoevaluación o diagnóstico.
+Un agente gobernado puede asistir la lectura del modelo, separar criterios y factores, vincular evidencias disponibles, ordenar cobertura documental por aspecto y preparar insumos para una autoevaluación o diagnóstico.
 
 También puede ayudar a mantener consistencia: que una conclusión sobre liderazgo, procesos o resultados esté conectada con evidencia real y no con impresiones generales.
 
 Pero, de nuevo, la excelencia no la define el agente. La define el criterio experto y directivo: interpretar madurez, despliegue, integración, resultados y prioridades.
 
-La salida útil es un diagnóstico ordenado: criterio del modelo, evidencia disponible, fortaleza, oportunidad de mejora, brecha de madurez, recomendación y posible prioridad.
+La salida útil es un diagnóstico ordenado: criterio del modelo, aspecto, evidencia disponible, fuente, lectura de cobertura, oportunidad de mejora, recomendación y posible prioridad.
 
 Este subejemplo es especialmente potente para EXCELENCIA porque muestra que la IA puede acelerar un proceso de evaluación sin vaciarlo de criterio. Al contrario: libera tiempo para que el experto se concentre en lo más valioso.
 
-## 28:00-30:00 — Implementación con gobierno y cierre
+## 26:30-28:30 — Beneficios esperables en ISO y PNC
+
+A partir de estos dos ejemplos, conviene hablar de beneficios de manera seria, sin prometer porcentajes propios que todavía no fueron medidos.
+
+El primer beneficio es tiempo experto. En trabajos ISO y PNC hay muchas horas dedicadas a búsqueda documental, lectura repetitiva, comparación contra requisitos, armado de matrices y ordenamiento de fuentes. El agente puede absorber parte de ese trabajo de bajo valor relativo.
+
+El segundo beneficio es consistencia. Si cada analista ordena evidencia, brechas y acciones de manera distinta, la comparación se vuelve difícil. Un agente gobernado ayuda a sostener la misma estructura entre filas: requisito o criterio, evidencia, fuente, justificación, brecha y acción.
+
+El tercer beneficio es trazabilidad. En lugar de conclusiones sueltas, queda una cadena revisable: requisito o criterio, evidencia, fuente, juicio experto y acción.
+
+El cuarto beneficio es foco directivo. Menos tiempo buscando y ordenando significa más tiempo para validar, priorizar, decidir y orientar planes de mejora.
+
+La frase central es esta: el beneficio no es reemplazar al experto. Es devolverle tiempo y foco para decidir mejor.
+
+## 28:30-30:00 — Implementación con gobierno y cierre reflexivo
 
 La secuencia que proponemos es clara.
 
@@ -132,6 +154,8 @@ Y recién desde ahí: ¿qué agentes tiene sentido desarrollar?
 
 Cierre:
 
-La pregunta directiva no es solamente qué IA vamos a usar. Es si tenemos la información, los datos y el gobierno necesarios para que la IA cree valor real.
+Si mañana incorporáramos IA en nuestros procesos críticos, ¿trabajaría sobre la mejor versión de nuestra organización o sobre nuestro desorden documental?
+
+El próximo paso no es elegir una herramienta. Es empezar por un diagnóstico: información confiable, datos íntegros, procesos claros y gobierno suficiente para que la IA cree valor real.
 
 Ese es el espacio que EXCELENCIA propone trabajar con las empresas: preparar la base confiable para IA y, desde allí, diseñar agentes gobernados orientados a sistemas de gestión, excelencia, productividad y resultados.

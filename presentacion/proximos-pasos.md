@@ -11,29 +11,28 @@ El ajuste posterior de enfoque define que la presentación debe trabajar con un 
 Ese caso se divide en dos subejemplos:
 
 1. **ISO:** matriz de gaps, evidencia, cobertura, brechas y acciones.
-2. **PNC:** madurez de gestión, fortalezas, oportunidades de mejora e insumos para evaluación.
+2. **PNC:** cobertura documental por aspecto, fuentes trazables e insumos para juicio experto de madurez.
 
 Se elimina el ejemplo de desarrollo de software porque no se ajusta a la audiencia ni al posicionamiento institucional buscado.
 
-## Material a desarrollar
+## Estado actual del material
 
-1. Ajustar la presentación visual para que el único caso de éxito sea ISO + PNC.
-2. Desarrollar visualmente el subejemplo ISO mostrando matriz de gaps, evidencia, cobertura, brechas y acciones.
-3. Desarrollar visualmente el subejemplo PNC mostrando criterios del modelo, evidencias, fortalezas, oportunidades de mejora y diagnóstico.
-4. Mantener el diseño para que la charla no empiece vendiendo agentes, sino instalando la necesidad de base documental y datos confiables.
-5. Preparar una slide clara sobre “Antes de IA: documentación fiel a la realidad”.
-6. Preparar una slide clara sobre “Datos íntegros: la otra mitad de la base”.
-7. Preparar una slide sobre riesgos de incorporar IA sobre documentación o datos débiles.
-8. Preparar una slide de rol de EXCELENCIA antes del agente: diagnóstico, repositorios, procesos, fuentes de verdad, trazabilidad y gobierno.
-9. Reubicar la explicación de agentes como evolución posterior, no como punto de partida.
-10. Preparar una versión oral de 28 minutos para dejar margen a transición, preguntas o ajustes del evento.
-11. Definir métricas defendibles para el caso ISO + PNC.
-12. Definir si el caso realizado por EXCELENCIA se presenta con empresa identificada o anonimizada.
-13. Diseñar un cierre con llamado a la acción claro: preparar la base confiable para IA y luego avanzar hacia agentes gobernados.
+La presentación visual ya fue ajustada al caso único ISO + PNC y quedó en 14 slides.
+
+Contenidos incorporados:
+
+1. Apertura desde base documental, datos íntegros y gobierno de información.
+2. Rol de EXCELENCIA antes del agente: diagnóstico, repositorios, procesos, fuentes de verdad, trazabilidad y gobierno.
+3. Agentes como evolución posterior, no como punto de partida.
+4. Caso único EXCELENCIA: documentación, calidad, ISO y PNC.
+5. Subejemplo ISO con datos reales de `matriz-gaps-iso-vmos.xlsx`: filas Excel 14 a 23, ids 13 a 22, cláusula 6, 3 cubiertos y 7 parciales.
+6. Subejemplo PNC con datos reales de `matriz-gaps-pnc-vmos.xlsx`: filas Excel 14 a 22, ids 13 a 21, Liderazgo / Factor 1.3, cobertura documental de 9 cubiertos, 0 parciales y 0 no cubiertos.
+7. Slide de beneficios esperables: tiempo experto, consistencia, trazabilidad y foco directivo.
+8. Slide final reflexiva/call to action: iniciar por diagnóstico de información confiable, datos íntegros, procesos claros y gobierno.
 
 ## Reglas de diseño
 
-- 12 a 14 slides.
+- 14 slides.
 - Poco texto por slide.
 - Una idea central por slide.
 - Lenguaje de dirección, no de programación.
@@ -58,11 +57,12 @@ Se elimina el ejemplo de desarrollo de software porque no se ajusta a la audienc
 6. De usar IA a diseñar Agentes de IA.
 7. Alcance potencial: procesos donde la IA agrega valor.
 8. Caso único EXCELENCIA: documentación, calidad, ISO y PNC.
-9. Subejemplo ISO: matriz de gaps, evidencia y acciones.
-10. Subejemplo PNC: madurez de gestión y oportunidades de mejora.
-11. Cierre: la secuencia de madurez.
-12. Beneficios esperables en ISO y PNC.
-13. Cierre reflexivo / llamado a la acción.
+9. Dos subejemplos del mismo caso: ISO y PNC.
+10. Subejemplo ISO: matriz de gaps, evidencia y acciones.
+11. Subejemplo PNC: cobertura documental por aspecto e insumos de evaluación.
+12. Cierre: la secuencia de madurez.
+13. Beneficios esperables en ISO y PNC.
+14. Cierre reflexivo / llamado a la acción.
 
 ## Mensaje comercial explícito y no invasivo por slide
 
@@ -74,11 +74,12 @@ Se elimina el ejemplo de desarrollo de software porque no se ajusta a la audienc
 6. Agentes: presentar el desarrollo de agentes como etapa superadora.
 7. Alcance: ampliar oportunidad en toda la empresa, siempre con fuentes y controles.
 8. Caso único: demostrar capacidad de EXCELENCIA en base documental, sistemas de gestión, calidad y PNC.
-9. ISO: mostrar aplicación concreta en requisitos, evidencia, brechas y acciones.
-10. PNC: mostrar aplicación concreta en madurez de gestión, fortalezas y oportunidades de mejora.
-11. Secuencia de madurez: información confiable → IA con gobierno → agentes gobernados.
-12. Beneficios: tiempo experto, consistencia, trazabilidad y foco directivo.
-13. Cierre: pregunta reflexiva y llamado a iniciar diagnóstico de base confiable.
+9. Dos subejemplos: preparar la lectura comparada ISO/PNC del mismo caso.
+10. ISO: mostrar aplicación concreta en requisitos, evidencia, brechas y acciones.
+11. PNC: mostrar aplicación concreta en cobertura documental por aspecto, fuentes trazables e insumos para juicio experto.
+12. Secuencia de madurez: información confiable → IA con gobierno → agentes gobernados.
+13. Beneficios: tiempo experto, consistencia, trazabilidad y foco directivo.
+14. Cierre: pregunta reflexiva y llamado a iniciar diagnóstico de base confiable.
 
 ## Preguntas esperables de la audiencia
 
@@ -106,6 +107,6 @@ Se elimina el ejemplo de desarrollo de software porque no se ajusta a la audienc
 - Confirmar si el nuevo enfoque de caso único ISO + PNC responde mejor a la audiencia.
 - Definir si el título final usa “IA organizacional”, “IA confiable” o “Agentes gobernados”.
 - Definir si el caso se presenta con empresa identificada o anonimizada.
-- Definir métricas defendibles para el caso ISO + PNC.
+- Definir si se agregarán métricas cuantitativas propias o solo beneficios cualitativos defendibles para el caso ISO + PNC.
 - Definir el nombre comercial del servicio ampliado: no solo agentes, sino preparación organizacional para IA + agentes gobernados.
 - Definir si el cierre incluye invitación explícita a diagnóstico inicial, revisión de madurez documental/datos o piloto de agente.

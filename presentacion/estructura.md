@@ -40,7 +40,7 @@ Al terminar, cada CEO/director debería poder responder cinco preguntas:
 | 3. Rol de EXCELENCIA: preparar la organización para IA | 5 min | Presentar repositorios, procesos, datos y criterios como servicio de gestión |
 | 4. De IA asistida a Agentes de IA | 5 min | Explicar agentes como salto de madurez, no como punto de partida |
 | 5. Caso aplicado único: ISO + PNC | 8 min | Demostrar valor con dos subejemplos alineados a la audiencia |
-| 6. Cómo se implementa con gobierno y cierre | 4 min | Dejar secuencia de trabajo y mensaje ejecutivo final |
+| 6. Beneficios, gobierno y cierre | 4 min | Explicitar valor esperable y dejar una pregunta directiva final |
 
 ## Estructura sugerida de slides
 
@@ -170,7 +170,7 @@ Mensaje central:
 El caso se abre en dos aplicaciones complementarias:
 
 1. **ISO:** matriz de gaps, evidencia, cobertura, brechas y acciones de cierre.
-2. **PNC:** madurez de gestión, fortalezas, oportunidades de mejora e insumos de evaluación.
+2. **PNC:** cobertura documental por aspecto, fuentes trazables e insumos para juicio experto de madurez.
 
 Mensaje central:
 
@@ -252,7 +252,7 @@ Beneficios vinculados al eje actual de la presentación:
 
 - **Reducción de tiempo experto en tareas de bajo valor:** búsqueda documental, lectura repetitiva, comparación contra requisitos, armado de matrices y trazabilidad de fuentes.
 - **Mejora de consistencia:** mismo criterio entre filas, menor variabilidad entre analistas y estructura homogénea de evidencia, brecha, justificación y acción.
-- **Mejora de trazabilidad:** requisito → evidencia → fuente → juicio experto; criterio PNC → evidencia → fortaleza/oportunidad → recomendación.
+- **Mejora de trazabilidad:** requisito o criterio → evidencia → fuente → juicio experto → acción.
 - **Mayor foco del experto:** menos tiempo buscando y ordenando; más tiempo validando, priorizando y decidiendo.
 
 Mensaje central:

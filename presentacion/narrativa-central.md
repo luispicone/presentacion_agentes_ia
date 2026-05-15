@@ -21,7 +21,8 @@ El ajuste posterior de enfoque define que la presentación debe trabajar con un 
 7. El desarrollo de Agentes de IA aparece entonces como proyecto superador: no usar IA de manera aislada, sino diseñar sistemas para tareas y procesos específicos.
 8. Un agente de IA debe tener propósito, fuentes, reglas, herramientas, límites, validación humana, trazabilidad y métricas.
 9. El caso ISO + PNC muestra la secuencia completa: base documental/conocimiento ordenado + agente diseñado + validación experta + resultados.
-10. EXCELENCIA queda posicionada no como vendedor de tecnología, sino como socio para preparar organizaciones para IA y desarrollar agentes gobernados orientados a gestión, excelencia y resultados.
+10. Los beneficios deben explicarse como efectos esperables del enfoque: menos tiempo experto en tareas de bajo valor, mayor consistencia, mayor trazabilidad y más foco para decidir.
+11. EXCELENCIA queda posicionada no como vendedor de tecnología, sino como socio para preparar organizaciones para IA y desarrollar agentes gobernados orientados a gestión, excelencia y resultados.
 
 ## Contraste principal
 
@@ -101,6 +102,9 @@ Mensaje:
 Eje narrativo:
 
 - El trabajo ISO exige interpretar requisitos normativos y cruzarlos contra documentos, procesos, registros y evidencias.
+- La muestra usada en la presentación toma datos reales de `matriz-gaps-iso-vmos.xlsx`: filas Excel 14 a 23, ids 13 a 22, cláusula 6.
+- El recorte muestra 10 requisitos de planificación: riesgos y oportunidades, aspectos ambientales, peligros/riesgos/oportunidades SST, requisitos legales, objetivos y gestión del cambio.
+- El resultado mostrado es 3 cubiertos y 7 parciales.
 - Un agente gobernado puede acelerar la búsqueda y organización de evidencia, pero no decide solo la conformidad.
 - El experto conserva la validación técnica, el criterio conservador y la priorización de brechas.
 - La salida útil no es una respuesta aislada, sino una matriz trazable: requisito, evidencia, ubicación, justificación, brecha, acción y prioridad.
@@ -114,13 +118,29 @@ Mensaje:
 Eje narrativo:
 
 - El PNC evalúa madurez de gestión, no solo cumplimiento documental.
-- Un agente gobernado puede ayudar a leer el modelo, organizar evidencias por criterio, detectar fortalezas y oportunidades de mejora, y preparar insumos para evaluación.
+- La muestra usada en la presentación toma datos reales de `matriz-gaps-pnc-vmos.xlsx`: filas Excel 14 a 22, ids 13 a 21, Criterio 1 Liderazgo / Factor 1.3 Planeamiento estratégico y operativo.
+- El resultado mostrado es cobertura documental de 9 aspectos: 9 cubiertos, 0 parciales y 0 no cubiertos.
+- Esta lectura no debe presentarse como calificación formal de madurez PNC, porque la matriz fuente no contiene columna `estado_cobertura`.
+- Un agente gobernado puede ayudar a leer el modelo, organizar evidencias por criterio, detectar cobertura documental y preparar insumos para evaluación.
 - El experto conserva el juicio sobre madurez, integración, despliegue, resultados y prioridades de mejora.
-- La salida útil es un diagnóstico ordenado: criterio del modelo, evidencia disponible, fortaleza, oportunidad de mejora, brecha y recomendación.
+- La salida útil es un diagnóstico ordenado: criterio del modelo, evidencia disponible, fuente, lectura de cobertura, oportunidad de mejora y recomendación.
 
 Mensaje:
 
 > En PNC, la IA ayuda a ordenar evidencia y acelerar diagnóstico; la excelencia sigue requiriendo criterio directivo y experto.
+
+### Beneficios esperables en ISO y PNC
+
+La incorporación de los ejemplos permite explicitar beneficios sin prometer resultados propios que todavía no fueron medidos:
+
+- **Tiempo experto:** menos tiempo dedicado a búsqueda documental, lectura repetitiva, comparación contra requisitos y armado de matrices.
+- **Consistencia:** mismo criterio entre filas, menor variabilidad entre analistas y estructura homogénea de evidencia, brecha, justificación y acción.
+- **Trazabilidad:** requisito o criterio → evidencia → fuente → juicio experto → acción.
+- **Foco directivo:** más tiempo para validar, priorizar brechas, decidir y orientar planes de mejora.
+
+Mensaje:
+
+> El beneficio no es reemplazar al experto: es devolverle tiempo y foco para decidir mejor.
 
 ## Mensaje rector
 
@@ -139,6 +159,14 @@ EXCELENCIA aparece como el socio natural porque su identidad está vinculada con
 ## Frase de síntesis
 
 > Antes de pedirle más a la IA, la organización tiene que preguntarse si su información está preparada para que la IA cree valor.
+
+## Pregunta final vigente
+
+> Si mañana incorporáramos IA en nuestros procesos críticos, ¿trabajaría sobre la mejor versión de nuestra organización o sobre nuestro desorden documental?
+
+## Call to action
+
+> Empezar por un diagnóstico: información confiable, datos íntegros, procesos claros y gobierno suficiente para que la IA cree valor real.
 
 ## Frase comercial explícita
 

@@ -23,7 +23,7 @@ El enfoque de casos queda concentrado en un solo caso de éxito directamente ali
 Ese caso debe abrirse en dos subejemplos:
 
 1. **ISO:** evaluación de cobertura documental frente a requisitos de sistemas de gestión, con búsqueda de evidencia, justificación técnica, brechas y acciones.
-2. **PNC:** evaluación de madurez de gestión frente al Modelo para una Gestión de Excelencia, con identificación de evidencias, fortalezas, oportunidades de mejora e insumos para evaluación.
+2. **PNC:** lectura de cobertura documental frente al Modelo para una Gestión de Excelencia, con identificación de evidencias, fuentes trazables e insumos para juicio experto de madurez.
 
 Se elimina el caso de desarrollo de software. Aunque era válido como ejemplo de productividad aumentada, no es el mejor vehículo para esta audiencia ni para el posicionamiento institucional de EXCELENCIA, que debe quedar más cerca de calidad, gestión, excelencia, evidencia, mejora continua y resultados.
 
@@ -96,7 +96,9 @@ Este caso conecta directamente con el mundo de EXCELENCIA: sistemas de gestión,
 
 #### Subejemplo ISO
 
-El subejemplo ISO muestra cómo la IA puede asistir el cruce de documentación contra requisitos normativos:
+El subejemplo ISO muestra cómo la IA puede asistir el cruce de documentación contra requisitos normativos. En la presentación se usa una muestra real de `matriz-gaps-iso-vmos.xlsx`: filas Excel 14 a 23, ids 13 a 22, cláusula 6 de planificación. El recorte expone 10 requisitos ISO vinculados con riesgos y oportunidades, aspectos ambientales, peligros/riesgos/oportunidades SST, requisitos legales, objetivos y gestión del cambio.
+
+Resultado ejecutivo mostrado: 3 requisitos cubiertos y 7 parciales. El valor del agente aparece en:
 
 - identificar qué documentos aportan evidencia;
 - ubicar secciones, citas o registros relevantes;
@@ -107,14 +109,31 @@ El subejemplo ISO muestra cómo la IA puede asistir el cruce de documentación c
 
 #### Subejemplo PNC
 
-El subejemplo PNC muestra cómo la IA puede asistir una evaluación de madurez de gestión:
+El subejemplo PNC muestra cómo la IA puede asistir una lectura de cobertura documental vinculada al Modelo para una Gestión de Excelencia. En la presentación se usa una muestra real de `matriz-gaps-pnc-vmos.xlsx`: filas Excel 14 a 22, ids 13 a 21, Criterio 1 Liderazgo / Factor 1.3 Planeamiento estratégico y operativo.
+
+Resultado ejecutivo mostrado: 9 aspectos cubiertos, 0 parciales y 0 no cubiertos, entendido como cobertura documental del aspecto. Esta lectura no debe presentarse como calificación formal de madurez PNC, porque la matriz fuente no tiene columna `estado_cobertura`.
+
+El valor del agente aparece en:
 
 - leer el Modelo para una Gestión de Excelencia;
-- ordenar evidencias por criterios y factores;
-- identificar fortalezas y oportunidades de mejora;
+- ordenar evidencias por criterios, factores y aspectos;
+- identificar cobertura documental, fuentes y trazabilidad;
 - apoyar autoevaluaciones o diagnósticos;
 - preparar insumos para revisión experta;
 - sostener trazabilidad entre modelo, evidencia y conclusión.
+
+#### Beneficios esperables del enfoque
+
+Los ejemplos ISO y PNC permiten presentar beneficios tangibles e intangibles sin prometer porcentajes propios no medidos:
+
+- reducción de tiempo experto en búsqueda documental, lectura repetitiva, comparación y armado de matrices;
+- mejora de consistencia en criterios, estructura de análisis y tratamiento entre filas;
+- mejora de trazabilidad entre requisito o criterio, evidencia, fuente, juicio experto y acción;
+- mayor foco directivo y experto en validar, priorizar brechas, decidir y orientar planes de mejora.
+
+La frase guía para estos beneficios es:
+
+> El beneficio no es reemplazar al experto: es devolverle tiempo y foco para decidir mejor.
 
 ## Implicancia para el tono de la charla
 
