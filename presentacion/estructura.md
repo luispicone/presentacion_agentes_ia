@@ -176,28 +176,31 @@ Mensaje central:
 
 > Es un solo caso de éxito: una base documental confiable habilita dos usos de alto valor para EXCELENCIA, ISO y PNC.
 
-### Slide 10 — Subejemplo ISO: matriz de gaps y evidencia
+### Slide 10 — Subejemplo ISO: matriz de gaps VMOS
 
-Aplicación:
+Fuente específica:
 
-- Requisito normativo.
-- Documentos y registros vinculados.
-- Evidencia concreta y ubicación.
-- Estado de cobertura.
-- Justificación técnica.
-- Brecha detectada.
-- Acción para cerrar la brecha.
+- Archivo: `/home/luispicone/gdrive/vmos/entregables/matriz-gaps-iso-vmos.xlsx`.
+- Rango usado: filas físicas Excel 14 a 23 inclusive.
+- Filas lógicas de matriz: ids 13 a 22.
+- Tema común: cláusula 6 — planificación del sistema.
+
+Contenido de la muestra:
+
+- 10 requisitos ISO de planificación: riesgos y oportunidades, aspectos ambientales, peligros/riesgos/oportunidades SST, requisitos legales, planificación de acciones, objetivos y gestión del cambio.
+- Resultado de cobertura: 3 requisitos cubiertos y 7 parciales.
+- Evidencias citadas: `PRO-EXC-RIE`, `PRO-EXC-AMB`, `PRO-EXC-SOP`, `PRO-EXC-REQ`, `PRO-EXC-EME` y proceso de Excelencia Organizacional.
+- Brechas recurrentes: necesidad de matrices/registros integrados para aspectos ambientales, SST, objetivos SIG y gestión del cambio.
 
 Resultado a destacar:
 
-- Más velocidad de lectura y comparación.
-- Mayor consistencia entre requisitos equivalentes.
-- Trazabilidad entre requisito, evidencia y conclusión.
-- Validación experta conservada.
+- La IA acelera lectura, comparación y trazabilidad.
+- La matriz separa evidencia suficiente de brechas documentales.
+- El experto conserva el criterio de cobertura y la decisión final.
 
 Mensaje central:
 
-> En ISO, la IA aporta velocidad y consistencia; la validez depende de evidencia trazable y revisión experta.
+> En ISO, el agente ordena requisito, evidencia, brecha y acción; la validez depende de evidencia trazable y revisión experta.
 
 ### Slide 11 — Subejemplo PNC: madurez de gestión y oportunidades de mejora
 

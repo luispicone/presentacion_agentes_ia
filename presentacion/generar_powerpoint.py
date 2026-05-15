@@ -252,11 +252,29 @@ quote(slide, 1.05, 5.35, 11.1, 0.82, 'La IA no reemplaza el criterio experto; lo
 add_footer(slide, 9)
 
 # 10
-slide = blank(); set_bg(slide); add_title(slide, 'Subejemplo ISO · Matriz de gaps y evidencia', 'Caso aplicado')
-card(slide, 0.85, 2.05, 3.6, 2.4, 'Entrada', 'Requisito normativo, documentos, registros y procesos vinculados.', TEAL, 16, 13)
-card(slide, 4.85, 2.05, 3.6, 2.4, 'Trabajo del agente', 'Busca evidencia, ubica citas, propone cobertura, justifica brechas y ordena acciones.', ORANGE, 16, 13)
-card(slide, 8.85, 2.05, 3.6, 2.4, 'Salida útil', 'Matriz trazable: requisito, evidencia, ubicación, justificación, brecha, acción y prioridad.', FUCHSIA, 16, 13)
-quote(slide, 1.1, 5.25, 11.05, 0.85, 'En ISO, la IA aporta velocidad y consistencia; la validez depende de evidencia trazable y revisión experta.', TEAL)
+slide = blank(); set_bg(slide); add_title(slide, 'Subejemplo ISO · Matriz de gaps VMOS', 'Caso aplicado')
+add_textbox(slide, 0.86, 1.78, 10.6, 0.28, 'Muestra real tomada de matriz-gaps-iso-vmos.xlsx · filas Excel 14 a 23 · ids 13 a 22 · cláusula 6', 11.5, GREY, False)
+card(slide, 0.85, 2.18, 2.75, 1.28, 'Alcance', '10 requisitos ISO de planificación: riesgos, ambiente, SST, legales, objetivos y cambios.', TEAL, 15, 11.6)
+card(slide, 3.85, 2.18, 2.75, 1.28, 'Resultado', '3 cubiertos y 7 parciales. La matriz distingue evidencia suficiente de brechas documentales.', ORANGE, 15, 11.6)
+card(slide, 6.85, 2.18, 2.75, 1.28, 'Evidencias', 'PRO-EXC-RIE, PRO-EXC-AMB, PRO-EXC-SOP, PRO-EXC-REQ y proceso de Excelencia.', FUCHSIA, 15, 11.4)
+card(slide, 9.85, 2.18, 2.75, 1.28, 'Brechas', 'Faltan registros/matrices integradas para aspectos, SST, objetivos SIG y cambios.', YELLOW, 15, 11.4)
+
+rows = [
+    ('Cubierto', 'Riesgos y oportunidades; requisitos legales; planificación de acciones', TEAL),
+    ('Parcial', 'Aspectos ambientales; peligros/riesgos/oportunidades SST', ORANGE),
+    ('Parcial', 'Objetivos del sistema y planificación para lograrlos', FUCHSIA),
+    ('Parcial', 'Gestión del cambio: consecuencias, recursos, responsables e impactos SST', YELLOW),
+]
+y0 = 3.82
+for i, (estado, detalle, color) in enumerate(rows):
+    y = y0 + i * 0.48
+    shp = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(0.95), Inches(y), Inches(1.45), Inches(0.34))
+    shp.fill.solid(); shp.fill.fore_color.rgb = color
+    shp.line.fill.background()
+    add_textbox(slide, 1.02, y+0.08, 1.30, 0.13, estado, 8.8, WHITE, True, align=PP_ALIGN.CENTER)
+    add_textbox(slide, 2.65, y+0.05, 9.15, 0.22, detalle, 10.8, ANTH, False)
+
+quote(slide, 0.95, 5.95, 11.45, 0.62, 'Mensaje para la charla: el agente acelera lectura, cruce y trazabilidad; el experto conserva el criterio de cobertura y la decisión final.', TEAL)
 add_footer(slide, 10)
 
 # 11
