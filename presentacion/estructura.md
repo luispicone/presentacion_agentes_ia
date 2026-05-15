@@ -202,7 +202,7 @@ Mensaje central:
 
 > En ISO, el agente ordena requisito, evidencia, brecha y acción; la validez depende de evidencia trazable y revisión experta.
 
-### Slide 11 — Subejemplo PNC: planeamiento estratégico VMOS
+### Slide 11 — Subejemplo PNC: matriz de gaps VMOS
 
 Fuente específica:
 
@@ -211,23 +211,28 @@ Fuente específica:
 - Filas lógicas de matriz: ids 13 a 21.
 - Tema común: Criterio 1. Liderazgo / Factor 1.3 Planeamiento estratégico y operativo.
 
+Aclaración metodológica:
+
+- La matriz PNC fuente no tiene una columna formal `estado_cobertura` como la matriz ISO.
+- Para la slide, se presenta una lectura ejecutiva de **cobertura documental del aspecto** a partir del desarrollo cargado y sus fuentes.
+- Esta lectura no reemplaza una calificación formal de madurez PNC; sirve para mostrar cómo el agente ordena evidencia por aspecto.
+
 Contenido de la muestra:
 
 - 9 aspectos del factor 1.3 del Modelo para una Gestión de Excelencia.
+- Resultado de cobertura documental: 9 cubiertos, 0 parciales, 0 no cubiertos.
 - Aspectos cubiertos: horizonte de corto y largo plazo, objetivos estratégicos, innovación, despliegue de objetivos, riesgos en planes operativos, recursos, KPIs, comunicación de estrategia y revisión de planes.
 - Evidencias citadas: procesos de Estrategia, Sustentabilidad, Administración y Finanzas, Personas, Riesgos, Comunicaciones e Innovación y Mejora Continua.
-- Lectura ejecutiva: la matriz permite ordenar evidencia de gestión por criterio, factor, aspecto y fuente documental.
 
 Resultado a destacar:
 
-- Mejor ordenamiento de evidencia de gestión.
-- Lectura sistemática del modelo PNC.
-- Mayor claridad sobre cómo VMOS evidencia planeamiento estratégico y operativo.
-- Base trazable para revisión experta y priorización de mejoras.
+- La IA permite presentar el análisis PNC con lógica de matriz: aspecto, estado, evidencia y fuente.
+- La matriz separa ordenamiento documental de juicio experto de madurez.
+- El experto conserva la evaluación final sobre metodología, despliegue, integración y resultados.
 
 Mensaje central:
 
-> En PNC, el agente acelera el ordenamiento de evidencias; el juicio de madurez queda en manos del experto.
+> En PNC, el agente ordena la cobertura por aspecto; el experto conserva el juicio de madurez.
 
 ### Slide 12 — Cierre: la secuencia de madurez
 

@@ -278,30 +278,30 @@ quote(slide, 0.95, 5.95, 11.45, 0.62, 'Mensaje para la charla: el agente acelera
 add_footer(slide, 10)
 
 # 11
-slide = blank(); set_bg(slide); add_title(slide, 'Subejemplo PNC · Planeamiento estratégico VMOS', 'Caso aplicado')
-add_textbox(slide, 0.86, 1.78, 10.7, 0.28, 'Muestra real tomada de matriz-gaps-pnc-vmos.xlsx · filas Excel 14 a 22 · ids 13 a 21 · Criterio 1. Liderazgo / Factor 1.3', 11.0, GREY, False)
+slide = blank(); set_bg(slide); add_title(slide, 'Subejemplo PNC · Matriz de gaps VMOS', 'Caso aplicado')
+add_textbox(slide, 0.86, 1.78, 10.9, 0.28, 'Muestra real tomada de matriz-gaps-pnc-vmos.xlsx · filas Excel 14 a 22 · ids 13 a 21 · Liderazgo / Factor 1.3', 11.0, GREY, False)
 card(slide, 0.85, 2.18, 2.75, 1.28, 'Alcance', '9 aspectos del factor 1.3: planeamiento estratégico y operativo.', TEAL, 15, 11.6)
-card(slide, 3.85, 2.18, 2.75, 1.28, 'Evidencias', 'Estrategia, Sustentabilidad, Finanzas, Personas, Riesgos, Comunicaciones e Innovación.', ORANGE, 15, 11.2)
-card(slide, 6.85, 2.18, 2.75, 1.28, 'Lectura PNC', 'El agente ordena evidencias por aspecto, criterio, factor y fuente.', FUCHSIA, 15, 11.6)
-card(slide, 9.85, 2.18, 2.75, 1.28, 'Salida útil', 'Diagnóstico trazable para revisión experta y priorización de mejoras.', YELLOW, 15, 11.6)
+card(slide, 3.85, 2.18, 2.75, 1.28, 'Resultado', '9 cubiertos, 0 parciales, 0 no cubiertos según evidencia documental cargada.', ORANGE, 15, 11.2)
+card(slide, 6.85, 2.18, 2.75, 1.28, 'Evidencias', 'Estrategia, Sustentabilidad, Finanzas, Personas, Riesgos, Comunicaciones e Innovación.', FUCHSIA, 15, 11.0)
+card(slide, 9.85, 2.18, 2.75, 1.28, 'Salida útil', 'Cobertura por aspecto + fuente documental para revisión experta.', YELLOW, 15, 11.6)
 
 rows = [
-    ('Horizonte y objetivos', 'largo/corto plazo, objetivos estratégicos, planes operativos'),
-    ('Despliegue', 'innovación, recursos, KPIs y alineamiento presupuestario'),
-    ('Gobierno', 'riesgos integrados a planes, comunicación interna/externa'),
-    ('Revisión', 'seguimiento de planes, desvíos, reforecast y mejora continua'),
+    ('Cubierto', 'a-b: horizonte, información decisoria y objetivos estratégicos'),
+    ('Cubierto', 'c-d: innovación y despliegue de objetivos en planes operativos'),
+    ('Cubierto', 'e-g: riesgos, recursos e indicadores clave de desempeño'),
+    ('Cubierto', 'h-i: comunicación de estrategias y revisión de planes/objetivos'),
 ]
 y0 = 3.82
-for i, (tema, detalle) in enumerate(rows):
+for i, (estado, detalle) in enumerate(rows):
     y = y0 + i * 0.48
-    color = COLORS[i % 4]
-    shp = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(0.95), Inches(y), Inches(2.0), Inches(0.34))
+    color = TEAL
+    shp = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(0.95), Inches(y), Inches(1.45), Inches(0.34))
     shp.fill.solid(); shp.fill.fore_color.rgb = color
     shp.line.fill.background()
-    add_textbox(slide, 1.03, y+0.08, 1.84, 0.13, tema, 8.7, WHITE, True, align=PP_ALIGN.CENTER)
-    add_textbox(slide, 3.15, y+0.05, 8.65, 0.22, detalle, 10.6, ANTH, False)
+    add_textbox(slide, 1.02, y+0.08, 1.30, 0.13, estado, 8.8, WHITE, True, align=PP_ALIGN.CENTER)
+    add_textbox(slide, 2.65, y+0.05, 9.15, 0.22, detalle, 10.8, ANTH, False)
 
-quote(slide, 0.95, 5.95, 11.45, 0.62, 'Mensaje para la charla: en PNC el agente acelera el ordenamiento de evidencias; el juicio de madurez queda en manos del experto.', FUCHSIA)
+quote(slide, 0.95, 5.95, 11.45, 0.62, 'Mensaje para la charla: el agente ordena la cobertura PNC por aspecto; el experto conserva el juicio de madurez.', FUCHSIA)
 add_footer(slide, 11)
 
 # 12
