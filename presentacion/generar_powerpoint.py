@@ -223,7 +223,7 @@ add_footer(slide, 7)
 
 # 8
 slide = blank(); set_bg(slide); add_title(slide, 'Procesos donde la IA puede agregar valor', 'Alcance potencial')
-areas = ['Dirección y gobierno', 'Estrategia y planeamiento', 'Calidad y sistemas de gestión', 'Operaciones y seguridad', 'Comercial y clientes', 'Finanzas y control', 'Legales y compliance', 'Personas y cultura', 'Tecnología y software', 'Compras y proveedores', 'Comunicación y sostenibilidad', 'Gestión documental']
+areas = ['Dirección y gobierno', 'Estrategia y planeamiento', 'Calidad y sistemas de gestión', 'Operaciones y seguridad', 'Comercial y clientes', 'Finanzas y control', 'Legales y compliance', 'Personas y cultura', 'Tecnología y sistemas', 'Compras y proveedores', 'Comunicación y sostenibilidad', 'Gestión documental']
 for i, a in enumerate(areas):
     x = 0.85 + (i % 4) * 3.1
     y = 2.0 + (i // 4) * 0.82
@@ -236,8 +236,8 @@ quote(slide, 1.05, 5.2, 11.1, 0.92, 'La pregunta relevante no es si la IA puede 
 add_footer(slide, 8)
 
 # 9
-slide = blank(); set_bg(slide); add_title(slide, 'Caso 1 · Documentación, calidad, ISO y PNC', 'Caso aplicado')
-flow = [('1', 'Base documental\nanalizable'), ('2', 'Cruce contra\nISO y PNC'), ('3', 'Evidencias, brechas\ny acciones'), ('4', 'Validación\nexperta')]
+slide = blank(); set_bg(slide); add_title(slide, 'Caso único · Documentación, calidad, ISO y PNC', 'Caso aplicado')
+flow = [('1', 'Base documental\nanalizable'), ('2', 'Cruce contra\nISO y PNC'), ('3', 'Evidencias, brechas\ny oportunidades'), ('4', 'Validación\nexperta')]
 for i,(n,t) in enumerate(flow):
     x = 0.95 + i*3.05
     circ = slide.shapes.add_shape(MSO_SHAPE.OVAL, Inches(x), Inches(2.05), Inches(0.62), Inches(0.62))
@@ -246,19 +246,28 @@ for i,(n,t) in enumerate(flow):
     add_textbox(slide, x+0.14, 2.18, 0.35, 0.2, n, 14, WHITE, True, align=PP_ALIGN.CENTER)
     add_textbox(slide, x+0.78, 2.0, 1.9, 0.7, t, 14.5, ANTH, True)
     if i < 3: add_textbox(slide, x+2.54, 2.22, 0.28, 0.2, '→', 18, GREY, True)
-add_bullets(slide, 1.0, 3.35, 5.35, 1.7, ['Velocidad en lectura sistemática.', 'Trazabilidad entre requisito y evidencia.', 'Mayor consistencia para matrices complejas.'], 15.5)
-quote(slide, 6.9, 3.25, 5.3, 1.55, 'La IA no reemplaza el criterio experto; lo potencia cuando trabaja sobre documentación confiable.', FUCHSIA)
+card(slide, 1.0, 3.45, 5.15, 1.35, 'Subejemplo ISO', 'Requisitos, evidencia, cobertura, brechas y acciones de cierre.', TEAL, 15.5, 12.8)
+card(slide, 6.75, 3.45, 5.15, 1.35, 'Subejemplo PNC', 'Modelo de excelencia, fortalezas, oportunidades de mejora e insumos de evaluación.', FUCHSIA, 15.5, 12.8)
+quote(slide, 1.05, 5.35, 11.1, 0.82, 'La IA no reemplaza el criterio experto; lo potencia cuando trabaja sobre documentación confiable.', FUCHSIA)
 add_footer(slide, 9)
 
 # 10
-slide = blank(); set_bg(slide); add_title(slide, 'Caso 2 · Software y productividad aumentada', 'Caso aplicado')
-card(slide, 0.85, 2.05, 3.6, 2.4, 'Base necesaria', 'Requerimientos claros, documentación técnica, estándares de arquitectura, revisión, testing y trazabilidad.', TEAL, 16, 13)
-card(slide, 4.85, 2.05, 3.6, 2.4, 'Nuevo rol del developer', 'Coordina agentes para análisis, documentación, código, testing, bugs, logs e incidentes.', ORANGE, 16, 13)
-card(slide, 8.85, 2.05, 3.6, 2.4, 'Resultado buscado', 'Más capacidad de entrega, menos tarea repetitiva y mejor aprovechamiento del talento crítico.', FUCHSIA, 16, 13)
-quote(slide, 1.1, 5.25, 11.05, 0.85, 'El agente no reemplaza al talento crítico; lo eleva y multiplica su capacidad cuando existe método, estándares y validación.', TEAL)
+slide = blank(); set_bg(slide); add_title(slide, 'Subejemplo ISO · Matriz de gaps y evidencia', 'Caso aplicado')
+card(slide, 0.85, 2.05, 3.6, 2.4, 'Entrada', 'Requisito normativo, documentos, registros y procesos vinculados.', TEAL, 16, 13)
+card(slide, 4.85, 2.05, 3.6, 2.4, 'Trabajo del agente', 'Busca evidencia, ubica citas, propone cobertura, justifica brechas y ordena acciones.', ORANGE, 16, 13)
+card(slide, 8.85, 2.05, 3.6, 2.4, 'Salida útil', 'Matriz trazable: requisito, evidencia, ubicación, justificación, brecha, acción y prioridad.', FUCHSIA, 16, 13)
+quote(slide, 1.1, 5.25, 11.05, 0.85, 'En ISO, la IA aporta velocidad y consistencia; la validez depende de evidencia trazable y revisión experta.', TEAL)
 add_footer(slide, 10)
 
 # 11
+slide = blank(); set_bg(slide); add_title(slide, 'Subejemplo PNC · Madurez y oportunidades de mejora', 'Caso aplicado')
+card(slide, 0.85, 2.05, 3.6, 2.4, 'Entrada', 'Criterios del Modelo para una Gestión de Excelencia y evidencias de gestión.', YELLOW, 16, 13)
+card(slide, 4.85, 2.05, 3.6, 2.4, 'Trabajo del agente', 'Ordena evidencias, identifica fortalezas, oportunidades de mejora y brechas de madurez.', ORANGE, 16, 13)
+card(slide, 8.85, 2.05, 3.6, 2.4, 'Salida útil', 'Diagnóstico trazable para revisión experta, priorización y planes de mejora.', TEAL, 16, 13)
+quote(slide, 1.1, 5.25, 11.05, 0.85, 'En PNC, la IA acelera el diagnóstico; la excelencia sigue requiriendo criterio directivo y experto.', FUCHSIA)
+add_footer(slide, 11)
+
+# 12
 slide = blank(); set_bg(slide); add_title(slide, 'Cierre: la secuencia de madurez', 'Síntesis ejecutiva')
 sequence = [('Información confiable', 'documentación vigente + datos íntegros'), ('IA con gobierno', 'fuentes, permisos, validación y trazabilidad'), ('Agentes gobernados', 'tareas/procesos con métricas y resultados')]
 for i,(t,b) in enumerate(sequence):
@@ -267,7 +276,7 @@ for i,(t,b) in enumerate(sequence):
     if i < 2: add_textbox(slide, x+3.35, 2.68, 0.35, 0.22, '→', 22, GREY, True)
 quote(slide, 1.0, 4.55, 11.2, 1.0, 'La pregunta directiva no es solamente qué IA vamos a usar. Es si tenemos la información, los datos y el gobierno necesarios para que la IA cree valor real.', FUCHSIA)
 add_textbox(slide, 1.15, 6.05, 10.9, 0.35, 'EXCELENCIA prepara la base confiable para IA y diseña agentes gobernados orientados a resultados.', 16, ANTH, True, align=PP_ALIGN.CENTER)
-add_footer(slide, 11)
+add_footer(slide, 12)
 
 prs.save(OUT)
 print(OUT)

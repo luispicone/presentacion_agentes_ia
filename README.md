@@ -4,24 +4,18 @@ Repositorio de trabajo para una presentación ejecutiva de 30 minutos dirigida a
 
 ## Enfoque vigente
 
-A partir del feedback de Jorge Ferreiro, Director Ejecutivo de EXCELENCIA, la presentación deja de estar acotada a la venta de agentes de IA.
+A partir del feedback de Jorge Ferreiro y del ajuste posterior de enfoque, la presentación ya no debe apoyarse en dos casos heterogéneos. El relato debe concentrarse en un único caso de éxito directamente alineado con la audiencia de EXCELENCIA:
 
-El nuevo eje es más amplio y más estratégico:
+**Caso de éxito: base documental, sistemas de gestión, ISO y PNC.**
 
-1. La incorporación seria de IA en una organización requiere primero una base confiable: repositorios documentales robustos, fieles a la realidad operativa, y datos íntegros.
-2. Sin documentación confiable ni datos íntegros, cualquier iniciativa de IA queda limitada, riesgosa o difícil de escalar.
-3. EXCELENCIA puede ayudar a las empresas a ordenar esa base: documentación, procesos, criterios, gobierno de información, calidad de datos y trazabilidad.
-4. Sobre esa base, el desarrollo de Agentes de IA aparece como un proyecto superador: no solo usar IA, sino convertirla en capacidad organizacional gobernada, aplicada a procesos reales y orientada a resultados.
+Ese caso se divide en dos subejemplos:
 
-## Estructura del repo
+1. **Subejemplo ISO:** uso de IA y agentes gobernados para asistir el cruce documental contra requisitos ISO, búsqueda de evidencia, identificación de cobertura, brechas y acciones.
+2. **Subejemplo PNC:** uso de IA y agentes gobernados para asistir la lectura del Modelo para una Gestión de Excelencia, ordenar evidencias de gestión, identificar fortalezas y oportunidades de mejora, y preparar insumos para evaluación.
 
-- `docs/contexto-excelencia.md`: contexto institucional de EXCELENCIA, FPNC y PNC, reinterpretado desde la preparación organizacional necesaria para incorporar IA.
-- `presentacion/estructura.md`: estructura principal de la charla, distribución de tiempos y slides sugeridas.
-- `presentacion/guion-30-min.md`: guion oral preliminar para exposición de 30 minutos.
-- `presentacion/narrativa-central.md`: hilo conductor de la presentación.
-- `presentacion/proximos-pasos.md`: tareas siguientes para convertir la estructura en material visual.
+Se elimina el ejemplo de desarrollo de software porque no se ajusta suficientemente a la audiencia ni al posicionamiento institucional de EXCELENCIA.
 
-## Mensaje central
+## Tesis central
 
 La IA no empieza por el agente. Empieza por la calidad de la información sobre la que el agente va a trabajar.
 
@@ -44,14 +38,31 @@ La oportunidad es acompañar a las empresas en una secuencia completa de madurez
 1. Diagnóstico de documentación, procesos, datos y criterios de gestión.
 2. Construcción o fortalecimiento de repositorios documentales robustos y fieles a la realidad.
 3. Mejora de integridad, trazabilidad y gobierno de datos.
-4. Identificación de oportunidades de IA aplicables a procesos reales.
-5. Diseño, creación, implementación y gobierno de Agentes de IA.
+4. Identificación de oportunidades de IA aplicables a sistemas de gestión, excelencia, evaluación y mejora continua.
+5. Diseño, creación, implementación y gobierno de Agentes de IA para procesos reales.
 
 La frase que debe quedar instalada es:
 
-**Antes de escalar IA, la organización necesita información confiable. EXCELENCIA ayuda a construir esa base y, sobre ella, a desarrollar Agentes de IA gobernados para mejorar la gestión, la productividad y los resultados organizacionales.**
+**Antes de escalar IA, la organización necesita información confiable. EXCELENCIA ayuda a construir esa base y, sobre ella, a desarrollar Agentes de IA gobernados para mejorar la gestión, la evaluación, la productividad y los resultados organizacionales.**
 
-## Casos incorporados
+## Estructura del repo
 
-1. Base documental, calidad, ISO y PNC: lectura y organización documental, cruce de requisitos, evidencia, brechas, trazabilidad y validación experta.
-2. Empresa de software y productividad aumentada: developers elevados hacia roles de arquitectura/coordinación técnica, gestionando agentes especializados sobre una base de trabajo ordenada y gobernada.
+- `docs/contexto-excelencia.md`: contexto institucional de EXCELENCIA, FPNC y PNC, reinterpretado desde la preparación organizacional necesaria para incorporar IA.
+- `presentacion/estructura.md`: estructura principal de la charla, distribución de tiempos y slides sugeridas.
+- `presentacion/guion-30-min.md`: guion oral preliminar para exposición de 30 minutos.
+- `presentacion/narrativa-central.md`: hilo conductor de la presentación.
+- `presentacion/proximos-pasos.md`: tareas siguientes para convertir la estructura en material visual.
+- `presentacion/charla-excelencia-ia-organizacional.pptx`: presentación PowerPoint editable.
+
+## Caso incorporado
+
+### Caso único — Base documental, calidad, ISO y PNC
+
+El caso muestra cómo EXCELENCIA puede acompañar a una organización desde la construcción de una base documental analizable y trazable hasta el uso de agentes gobernados para acelerar tareas de evaluación y mejora.
+
+El caso se presenta en dos subejemplos:
+
+- **ISO:** cruce de documentación contra requisitos, ubicación de evidencia, evaluación de cobertura, brechas y acciones de cierre.
+- **PNC:** lectura del modelo de excelencia, ordenamiento de evidencias, identificación de fortalezas y oportunidades de mejora, y preparación de insumos para evaluación.
+
+El mensaje común es que la IA no reemplaza el criterio experto: lo potencia cuando trabaja sobre documentación confiable y bajo validación humana.

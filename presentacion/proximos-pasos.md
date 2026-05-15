@@ -2,34 +2,38 @@
 
 ## Cambio de alcance vigente
 
-A partir del feedback de Jorge Ferreiro, Director Ejecutivo de EXCELENCIA, la presentación debe replantearse completa.
+A partir del feedback de Jorge Ferreiro, Director Ejecutivo de EXCELENCIA, la presentación debe comenzar por la criticidad de tener repositorios documentales robustos, documentación fiel a la realidad y datos íntegros para cualquier uso serio de IA.
 
-El foco anterior estaba demasiado acotado a la venta de Agentes de IA. El nuevo foco debe ser más amplio:
+El ajuste posterior de enfoque define que la presentación debe trabajar con un solo caso de éxito:
 
-- comenzar por la criticidad de tener repositorios documentales robustos y fieles a la realidad;
-- incorporar la necesidad de datos íntegros para cualquier uso serio de IA;
-- posicionar a EXCELENCIA como socio para ayudar a las empresas en esa preparación;
-- presentar luego el desarrollo de Agentes de IA como proyecto superador a la incorporación genérica de IA.
+**Base documental, calidad, ISO y PNC.**
+
+Ese caso se divide en dos subejemplos:
+
+1. **ISO:** matriz de gaps, evidencia, cobertura, brechas y acciones.
+2. **PNC:** madurez de gestión, fortalezas, oportunidades de mejora e insumos para evaluación.
+
+Se elimina el ejemplo de desarrollo de software porque no se ajusta a la audiencia ni al posicionamiento institucional buscado.
 
 ## Material a desarrollar
 
-1. Convertir la nueva estructura en una presentación visual de 10 slides.
-2. Ajustar el diseño para que la charla no empiece vendiendo agentes, sino instalando la necesidad de base documental y datos confiables.
-3. Preparar una slide clara sobre “Antes de IA: documentación fiel a la realidad”.
-4. Preparar una slide clara sobre “Datos íntegros: la otra mitad de la base”.
-5. Preparar una slide sobre riesgos de incorporar IA sobre documentación o datos débiles.
-6. Preparar una slide de rol de EXCELENCIA antes del agente: diagnóstico, repositorios, procesos, fuentes de verdad, trazabilidad y gobierno.
-7. Reubicar la explicación de agentes como evolución posterior, no como punto de partida.
-8. Desarrollar visualmente el Caso 1 mostrando primero base documental y luego agente para ISO/calidad/PNC.
-9. Desarrollar visualmente el Caso 2 mostrando primero estándares/requerimientos/documentación técnica y luego agentes para productividad de software.
+1. Ajustar la presentación visual para que el único caso de éxito sea ISO + PNC.
+2. Desarrollar visualmente el subejemplo ISO mostrando matriz de gaps, evidencia, cobertura, brechas y acciones.
+3. Desarrollar visualmente el subejemplo PNC mostrando criterios del modelo, evidencias, fortalezas, oportunidades de mejora y diagnóstico.
+4. Mantener el diseño para que la charla no empiece vendiendo agentes, sino instalando la necesidad de base documental y datos confiables.
+5. Preparar una slide clara sobre “Antes de IA: documentación fiel a la realidad”.
+6. Preparar una slide clara sobre “Datos íntegros: la otra mitad de la base”.
+7. Preparar una slide sobre riesgos de incorporar IA sobre documentación o datos débiles.
+8. Preparar una slide de rol de EXCELENCIA antes del agente: diagnóstico, repositorios, procesos, fuentes de verdad, trazabilidad y gobierno.
+9. Reubicar la explicación de agentes como evolución posterior, no como punto de partida.
 10. Preparar una versión oral de 28 minutos para dejar margen a transición, preguntas o ajustes del evento.
-11. Definir qué métricas defendibles se pueden afirmar en ambos casos.
-12. Definir si los casos realizados por EXCELENCIA se presentan con empresa identificada o anonimizada.
+11. Definir métricas defendibles para el caso ISO + PNC.
+12. Definir si el caso realizado por EXCELENCIA se presenta con empresa identificada o anonimizada.
 13. Diseñar un cierre con llamado a la acción claro: preparar la base confiable para IA y luego avanzar hacia agentes gobernados.
 
 ## Reglas de diseño
 
-- Máximo 10 slides.
+- 10 a 12 slides.
 - Poco texto por slide.
 - Una idea central por slide.
 - Lenguaje de dirección, no de programación.
@@ -40,11 +44,11 @@ El foco anterior estaba demasiado acotado a la venta de Agentes de IA. El nuevo 
 - Presentar documentación y datos como habilitadores críticos de IA.
 - Mostrar que EXCELENCIA puede ayudar antes, durante y después de la incorporación de IA.
 - Mantener agentes de IA como proyecto superador, no como único producto.
-- Los casos deben demostrar resultados, pero también la importancia de la base documental/datos/criterios.
-- En los casos, dejar claro que el humano conserva criterio, validación y responsabilidad final.
+- Usar un único caso central, dividido en dos subejemplos: ISO y PNC.
+- Dejar claro que el humano conserva criterio, validación y responsabilidad final.
 - Generar necesidad sin alarmismo: el riesgo no es usar IA, sino usarla sin base confiable y sin gobierno.
 
-## Estructura visual recomendada de 10 slides
+## Estructura visual recomendada
 
 1. Título: IA organizacional: de información confiable a agentes gobernados.
 2. Antes de IA: documentación fiel a la realidad.
@@ -53,9 +57,11 @@ El foco anterior estaba demasiado acotado a la venta de Agentes de IA. El nuevo 
 5. Dónde puede ayudar EXCELENCIA antes del agente.
 6. De usar IA a diseñar Agentes de IA.
 7. Alcance potencial: procesos donde la IA agrega valor.
-8. Caso 1 EXCELENCIA: documentación, calidad, ISO y PNC.
-9. Caso 2 EXCELENCIA: software y productividad aumentada.
-10. Cierre: la secuencia de madurez.
+8. Alcance potencial: procesos donde la IA agrega valor.
+9. Caso único EXCELENCIA: documentación, calidad, ISO y PNC.
+10. Subejemplo ISO: matriz de gaps, evidencia y acciones.
+11. Subejemplo PNC: madurez de gestión y oportunidades de mejora.
+12. Cierre: la secuencia de madurez.
 
 ## Mensaje comercial explícito y no invasivo por slide
 
@@ -66,9 +72,11 @@ El foco anterior estaba demasiado acotado a la venta de Agentes de IA. El nuevo 
 5. EXCELENCIA antes del agente: posicionar el servicio de preparación organizacional.
 6. Agentes: presentar el desarrollo de agentes como etapa superadora.
 7. Alcance: ampliar oportunidad en toda la empresa, siempre con fuentes y controles.
-8. Caso 1: demostrar capacidad de EXCELENCIA en base documental, ISO, calidad y PNC.
-9. Caso 2: demostrar aplicabilidad en productividad tecnológica con método y estándares.
-10. Cierre: dejar claro que el próximo paso es conversar con EXCELENCIA para preparar la base y avanzar hacia agentes gobernados.
+8. Alcance: ampliar oportunidad en toda la empresa, siempre con fuentes y controles.
+9. Caso único: demostrar capacidad de EXCELENCIA en base documental, sistemas de gestión, calidad y PNC.
+10. ISO: mostrar aplicación concreta en requisitos, evidencia, brechas y acciones.
+11. PNC: mostrar aplicación concreta en madurez de gestión, fortalezas y oportunidades de mejora.
+12. Cierre: dejar claro que el próximo paso es conversar con EXCELENCIA para preparar la base y avanzar hacia agentes gobernados.
 
 ## Preguntas esperables de la audiencia
 
@@ -78,24 +86,24 @@ El foco anterior estaba demasiado acotado a la venta de Agentes de IA. El nuevo 
 - ¿Por dónde conviene empezar: documentación, datos, procesos o agentes?
 - ¿Cómo ayuda EXCELENCIA a diagnosticar la base documental y de datos?
 - ¿Qué diferencia hay entre usar IA y tener agentes gobernados?
-- ¿Qué procesos/tareas tienen mayor potencial de retorno?
+- ¿Cómo ayuda un agente en una matriz de gaps ISO?
+- ¿Cómo se evita que el agente invente cobertura normativa?
+- ¿Cómo puede la IA asistir una evaluación PNC sin reemplazar al evaluador?
+- ¿Cómo se identifican fortalezas y oportunidades de mejora con trazabilidad?
 - ¿Cómo evitamos que la IA use información desactualizada?
 - ¿Qué pasa con la confidencialidad y los permisos?
 - ¿Cómo se mide el ahorro de tiempo y costos?
 - ¿Qué perfil interno debe liderar esto?
 - ¿Qué decisiones no deberían delegarse en un agente?
-- ¿Los casos realizados por EXCELENCIA se presentarán con empresa identificada o anonimizada?
+- ¿El caso realizado por EXCELENCIA se presentará con empresa identificada o anonimizada?
 - ¿Cuánto tiempo lleva preparar una base documental útil para IA?
 - ¿Cuánto tiempo lleva construir un agente útil para una función concreta?
-- ¿Cómo se valida que el agente no invente o no tome criterios incorrectos?
-- ¿Cómo puede EXCELENCIA acompañar a mi empresa desde la base documental hasta agentes?
 
 ## Pendientes de validación con Luis
 
-- Confirmar si este replanteo responde al feedback de Jorge Ferreiro.
+- Confirmar si el nuevo enfoque de caso único ISO + PNC responde mejor a la audiencia.
 - Definir si el título final usa “IA organizacional”, “IA confiable” o “Agentes gobernados”.
-- Definir si los casos se presentan con empresa identificada o anonimizada.
-- Definir métricas defendibles para ambos casos.
-- Decidir si la presentación final será en PowerPoint, Google Slides, Canva u otro formato.
+- Definir si el caso se presenta con empresa identificada o anonimizada.
+- Definir métricas defendibles para el caso ISO + PNC.
 - Definir el nombre comercial del servicio ampliado: no solo agentes, sino preparación organizacional para IA + agentes gobernados.
 - Definir si el cierre incluye invitación explícita a diagnóstico inicial, revisión de madurez documental/datos o piloto de agente.

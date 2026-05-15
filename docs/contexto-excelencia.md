@@ -14,6 +14,19 @@ A partir del feedback de Jorge Ferreiro, Director Ejecutivo de EXCELENCIA, el en
 
 La audiencia debe reconocer primero que la IA no puede generar valor sostenible si trabaja sobre información desordenada, desactualizada, incompleta o poco confiable. En ese punto aparece el rol natural de EXCELENCIA: ayudar a las organizaciones a ordenar la base sobre la cual luego podrá incorporarse IA con sentido.
 
+## Ajuste vigente de casos
+
+El enfoque de casos queda concentrado en un solo caso de éxito directamente alineado con EXCELENCIA:
+
+**Base documental, calidad, ISO y PNC.**
+
+Ese caso debe abrirse en dos subejemplos:
+
+1. **ISO:** evaluación de cobertura documental frente a requisitos de sistemas de gestión, con búsqueda de evidencia, justificación técnica, brechas y acciones.
+2. **PNC:** evaluación de madurez de gestión frente al Modelo para una Gestión de Excelencia, con identificación de evidencias, fortalezas, oportunidades de mejora e insumos para evaluación.
+
+Se elimina el caso de desarrollo de software. Aunque era válido como ejemplo de productividad aumentada, no es el mejor vehículo para esta audiencia ni para el posicionamiento institucional de EXCELENCIA, que debe quedar más cerca de calidad, gestión, excelencia, evidencia, mejora continua y resultados.
+
 ## Nuevo hilo estratégico
 
 La narrativa debe avanzar en tres capas:
@@ -63,7 +76,7 @@ La creación de Agentes de IA sigue siendo un servicio relevante, pero debe pres
 2. Ordenamiento de repositorios documentales y procesos.
 3. Aseguramiento de fidelidad entre documentación y realidad operativa.
 4. Definición de criterios, fuentes de verdad y gobierno de información.
-5. Identificación de casos de uso de IA con valor real.
+5. Identificación de casos de uso de IA con valor real, especialmente en sistemas de gestión, excelencia y mejora continua.
 6. Diseño, creación, implementación y gobierno de Agentes de IA.
 
 Lectura comercial:
@@ -73,21 +86,35 @@ Lectura comercial:
 - Se ofrece una capacidad de transformación organizacional aplicada.
 - El diferencial de EXCELENCIA está en conectar IA con gestión, calidad, procesos, documentación, datos, innovación, personas, resultados y modelos de excelencia.
 
-## Casos de éxito como prueba de la secuencia
+## Caso de éxito como prueba de la secuencia
 
-La presentación debe incorporar dos casos aplicados para mostrar que los agentes no son una promesa abstracta, pero esos casos deben quedar apoyados sobre la idea de base documental/datos confiables.
+### Caso único — Base documental, calidad, ISO y PNC
 
-### Caso 1 — Base documental, calidad, ISO y PNC
-
-EXCELENCIA realizó un caso de aplicación donde el valor no empezó por el agente, sino por construir una base documental analizable: lectura, conversión, ordenamiento y trazabilidad de documentación. Sobre esa base, el agente pudo asistir la construcción de matrices de gaps de calidad y matrices PNC mediante cruce contra requisitos, búsqueda de evidencia, detección de brechas, justificación técnica y validación experta.
+EXCELENCIA realizó un caso de aplicación donde el valor no empezó por el agente, sino por construir una base documental analizable: lectura, conversión, ordenamiento y trazabilidad de documentación. Sobre esa base, el agente pudo asistir tareas de evaluación, cruce de requisitos, búsqueda de evidencia, detección de brechas, justificación técnica y validación experta.
 
 Este caso conecta directamente con el mundo de EXCELENCIA: sistemas de gestión, modelos de evaluación, mejora continua, evidencia, fortalezas, oportunidades de mejora y madurez organizacional.
 
-### Caso 2 — Productividad aumentada en software
+#### Subejemplo ISO
 
-EXCELENCIA realizó un caso de aplicación en una empresa de software limitada por disponibilidad de recursos humanos. El modelo permitió aumentar capacidad haciendo que cada developer gestione varios agentes especializados. Para que eso funcione, también se requiere una base ordenada: requerimientos claros, documentación técnica disponible, criterios de arquitectura, estándares de revisión, trazabilidad de cambios y validación humana.
+El subejemplo ISO muestra cómo la IA puede asistir el cruce de documentación contra requisitos normativos:
 
-Este caso muestra que la excelencia no se limita a calidad documental: también aplica a productividad, innovación, escalabilidad, gestión del talento y competitividad.
+- identificar qué documentos aportan evidencia;
+- ubicar secciones, citas o registros relevantes;
+- proponer cobertura, cobertura parcial o brecha;
+- justificar técnicamente el criterio;
+- ordenar acciones para cerrar brechas;
+- conservar trazabilidad y validación experta.
+
+#### Subejemplo PNC
+
+El subejemplo PNC muestra cómo la IA puede asistir una evaluación de madurez de gestión:
+
+- leer el Modelo para una Gestión de Excelencia;
+- ordenar evidencias por criterios y factores;
+- identificar fortalezas y oportunidades de mejora;
+- apoyar autoevaluaciones o diagnósticos;
+- preparar insumos para revisión experta;
+- sostener trazabilidad entre modelo, evidencia y conclusión.
 
 ## Implicancia para el tono de la charla
 
@@ -97,8 +124,8 @@ El tono debe ser ejecutivo, estratégico y práctico:
 - Primero repositorios, documentación y datos; después agentes.
 - Poco foco en hype técnico.
 - Mucho foco en gestión, gobernanza, competitividad, productividad y decisiones.
-- Ejemplos concretos y comprensibles para dirección.
-- Casos con resultados, no solo funcionalidades.
+- Un caso central, directamente relacionado con EXCELENCIA.
+- Dos subejemplos claros: ISO y PNC.
 - Mensaje comercial claro: EXCELENCIA puede acompañar desde la preparación de la base documental y de datos hasta el desarrollo de agentes gobernados.
 
 ## Fuentes consultadas

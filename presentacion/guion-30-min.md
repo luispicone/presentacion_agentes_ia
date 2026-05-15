@@ -14,7 +14,7 @@ Una política, un procedimiento o un proceso documentado solo sirve como fuente 
 
 Desde EXCELENCIA, esta conversación es natural. Porque hablar de IA en serio no es solo hablar de tecnología. Es hablar de sistema de gestión, información documentada, evidencia, procesos, trazabilidad, datos, gobierno y resultados.
 
-La tesis de esta presentación es simple: antes de escalar IA, la organización necesita una base confiable. Y sobre esa base, el desarrollo de Agentes de IA puede convertirse en un proyecto superador para mejorar gestión, productividad y resultados.
+La tesis de esta presentación es simple: antes de escalar IA, la organización necesita una base confiable. Y sobre esa base, el desarrollo de Agentes de IA puede convertirse en un proyecto superador para mejorar gestión, evaluación, productividad y resultados.
 
 ## 4:00-8:00 — Riesgo: IA sobre información débil
 
@@ -62,17 +62,15 @@ La diferencia central es esta: usar IA mejora una tarea aislada; diseñar un age
 
 Pero el agente no debe ser el primer paso. Es el proyecto superador cuando la organización ya sabe qué información, proceso y criterio quiere gobernar.
 
-Por ejemplo, un agente para calidad necesita documentos confiables, requisitos claros, criterios de cobertura, evidencias trazables y validación experta. Un agente para finanzas necesita datos consistentes, reglas de cálculo, controles y permisos. Un agente para recursos humanos necesita políticas vigentes, límites de confidencialidad y criterios de escalamiento. Un agente para software necesita requerimientos claros, estándares técnicos, repositorios, testing y revisión humana.
+Por ejemplo, un agente para calidad necesita documentos confiables, requisitos claros, criterios de cobertura, evidencias trazables y validación experta. Un agente para evaluación de excelencia necesita entender el modelo, ordenar evidencias por criterio, distinguir fortalezas y oportunidades de mejora, y dejar trazabilidad entre modelo, evidencia y conclusión.
 
 La pregunta no es simplemente “qué agente podemos hacer”. La pregunta correcta es: qué proceso queremos mejorar, con qué información confiable, con qué nivel de autonomía, con qué controles y con qué métrica de resultado.
 
-Bajo esas condiciones, prácticamente no hay función organizacional de gestión o trabajo de conocimiento donde la IA no pueda asistir, acelerar o mejorar tareas: dirección, estrategia, calidad, operaciones, comercial, finanzas, legales, recursos humanos, tecnología, compras, comunicación, sostenibilidad y gestión documental.
-
-## 18:00-22:00 — Caso aplicado 1: documentación, calidad, ISO y PNC
+## 18:00-22:00 — Caso aplicado único: base documental, calidad, ISO y PNC
 
 Tomemos un caso realizado por EXCELENCIA en el mundo de calidad, sistemas de gestión y modelos de excelencia.
 
-Una empresa necesitaba evaluar su sistema de gestión y su madurez organizacional. Ese trabajo exige leer mucha documentación, entender procesos, interpretar requisitos, cruzar evidencia, justificar cobertura, detectar brechas y construir matrices de análisis.
+Una empresa necesitaba evaluar su sistema de gestión y su madurez organizacional. Ese trabajo exige leer mucha documentación, entender procesos, interpretar requisitos, cruzar evidencia, justificar cobertura, detectar brechas, identificar fortalezas y oportunidades de mejora, y construir matrices de análisis.
 
 El valor no empezó por el agente. Empezó por construir una base documental utilizable: convertir documentación extensa en una base analizable, ordenarla, hacerla consultable y preservar trazabilidad.
 
@@ -80,29 +78,39 @@ Sobre esa base, el agente pudo asistir tareas de alto volumen: cruzar documentac
 
 El experto humano no desaparece. Al contrario: queda mejor ubicado. En lugar de consumir la mayor parte del tiempo en búsqueda, transcripción y comparación manual, puede concentrarse en validar, ajustar criterio, priorizar brechas y tomar decisiones.
 
-El resultado es una profundidad y velocidad difícil de sostener manualmente en el mismo plazo: análisis más completo, mayor consistencia entre requisitos y evidencias, mejor trazabilidad de fuentes y mayor capacidad de avanzar sobre matrices complejas.
+Este caso es el que conviene profundizar para esta audiencia, porque conecta directamente con EXCELENCIA: calidad, sistemas de gestión, modelos de excelencia, evidencia, mejora continua y resultados.
 
-La enseñanza del caso es importante: la IA potencia el criterio experto cuando trabaja sobre documentación confiable. Si la documentación no estuviera ordenada, vigente o trazable, el agente perdería valor.
+## 22:00-25:00 — Subejemplo ISO: matriz de gaps y evidencia
 
-## 22:00-26:00 — Caso aplicado 2: software y productividad aumentada
+En el subejemplo ISO, el agente trabaja sobre un problema muy concreto: cómo cruzar requisitos normativos con documentación real de la organización.
 
-El segundo caso muestra que esta lógica no se limita al mundo de calidad.
+El trabajo exige identificar el requisito, entender su alcance, buscar documentos vinculados, ubicar evidencia concreta, evaluar si la cobertura es suficiente, parcial o inexistente, justificar el criterio, detectar brechas y definir acciones para cerrarlas.
 
-EXCELENCIA acompañó a una empresa de software con demanda creciente y disponibilidad limitada de recursos humanos especializados. La empresa necesitaba producir más, responder más rápido, documentar mejor, revisar mejor, testear mejor y resolver incidentes con mayor capacidad.
+La IA aporta velocidad y consistencia porque puede leer mucha documentación, comparar requisitos equivalentes, ordenar citas, mantener una estructura homogénea y ayudar a no perder trazabilidad.
 
-Pero también acá la base importa. Para que un agente ayude en desarrollo de software, necesita requerimientos claros, documentación técnica, criterios de arquitectura, estándares de revisión, repositorios ordenados, trazabilidad de cambios y validación humana.
+Pero la validez no surge de la IA sola. Surge de la combinación entre evidencia documental, criterio técnico y validación experta. El agente propone, ordena y acelera; el experto valida, corrige, prioriza y decide.
 
-Cuando esa base existe, el modelo de trabajo cambia. Cada developer puede pasar de ejecutor individual a coordinador técnico de capacidad aumentada. Puede gestionar agentes especializados para análisis de requerimientos, documentación técnica, generación o revisión de código, testing, detección de bugs, análisis de logs, automatización o soporte a incidentes.
+La salida útil no es una respuesta suelta. Es una matriz trazable: requisito, documento, ubicación de evidencia, texto de evidencia, justificación, estado de cobertura, brecha, acción y prioridad.
 
-El humano conserva lo más valioso: criterio, arquitectura, validación, integración, priorización y responsabilidad final.
+Este subejemplo muestra algo importante para cualquier director: cuando la base documental está ordenada, la IA puede convertir un trabajo muy intensivo en lectura y comparación en un proceso más rápido, consistente y auditable.
 
-El resultado no es que el agente reemplace al talento crítico. El resultado es que lo eleva. El developer se acerca a un rol de arquitecto o coordinador técnico, mientras los agentes absorben tareas repetitivas, preparatorias y verificables.
+## 25:00-28:00 — Subejemplo PNC: madurez de gestión y oportunidades de mejora
 
-Para una empresa limitada por disponibilidad de talento, esto puede significar más capacidad de entrega, mejor aprovechamiento del equipo existente y una forma más escalable de responder a la demanda sin perder control técnico.
+El subejemplo PNC es distinto, porque el Premio Nacional a la Calidad no evalúa solo cumplimiento documental. Evalúa madurez de gestión.
 
-La enseñanza es la misma: los agentes funcionan mejor cuando hay método, estándares, documentación, datos y gobierno.
+El Modelo para una Gestión de Excelencia mira liderazgo, sistema de gestión, procesos, personas, recursos, responsabilidad social y resultados. Por eso la IA no debe usarse simplemente para buscar palabras en documentos. Debe ayudar a ordenar evidencia de gestión y relacionarla con criterios del modelo.
 
-## 26:00-30:00 — Implementación con gobierno y cierre
+Un agente gobernado puede asistir la lectura del modelo, separar criterios y factores, vincular evidencias disponibles, detectar fortalezas observables, identificar oportunidades de mejora y preparar insumos para una autoevaluación o diagnóstico.
+
+También puede ayudar a mantener consistencia: que una conclusión sobre liderazgo, procesos o resultados esté conectada con evidencia real y no con impresiones generales.
+
+Pero, de nuevo, la excelencia no la define el agente. La define el criterio experto y directivo: interpretar madurez, despliegue, integración, resultados y prioridades.
+
+La salida útil es un diagnóstico ordenado: criterio del modelo, evidencia disponible, fortaleza, oportunidad de mejora, brecha de madurez, recomendación y posible prioridad.
+
+Este subejemplo es especialmente potente para EXCELENCIA porque muestra que la IA puede acelerar un proceso de evaluación sin vaciarlo de criterio. Al contrario: libera tiempo para que el experto se concentre en lo más valioso.
+
+## 28:00-30:00 — Implementación con gobierno y cierre
 
 La secuencia que proponemos es clara.
 
@@ -126,4 +134,4 @@ Cierre:
 
 La pregunta directiva no es solamente qué IA vamos a usar. Es si tenemos la información, los datos y el gobierno necesarios para que la IA cree valor real.
 
-Ese es el espacio que EXCELENCIA propone trabajar con las empresas: preparar la base confiable para IA y, desde allí, diseñar agentes gobernados orientados a procesos reales, productividad y resultados.
+Ese es el espacio que EXCELENCIA propone trabajar con las empresas: preparar la base confiable para IA y, desde allí, diseñar agentes gobernados orientados a sistemas de gestión, excelencia, productividad y resultados.
