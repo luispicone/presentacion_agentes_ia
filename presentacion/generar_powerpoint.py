@@ -267,12 +267,14 @@ rows = [
 ]
 y0 = 3.82
 for i, (estado, detalle, color) in enumerate(rows):
-    y = y0 + i * 0.48
-    shp = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(0.95), Inches(y), Inches(1.45), Inches(0.34))
+    y = y0 + i * 0.44
+    shp = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(0.95), Inches(y), Inches(1.28), Inches(0.31))
     shp.fill.solid(); shp.fill.fore_color.rgb = color
     shp.line.fill.background()
-    add_textbox(slide, 1.02, y+0.08, 1.30, 0.13, estado, 8.8, WHITE, True, align=PP_ALIGN.CENTER)
-    add_textbox(slide, 2.65, y+0.05, 9.15, 0.22, detalle, 10.8, ANTH, False)
+    add_textbox(slide, 1.02, y+0.07, 1.14, 0.13, estado, 8.0, WHITE, True, align=PP_ALIGN.CENTER)
+    add_textbox(slide, 2.42, y+0.04, 4.05, 0.22, detalle, 9.2, ANTH, False)
+
+card(slide, 6.75, 3.72, 5.65, 1.72, 'Valor del agente', 'Identifica documentos y evidencia; ubica secciones, citas o registros; propone cobertura o brecha; justifica el criterio; ordena acciones de cierre y conserva trazabilidad para validación experta.', TEAL, 14.5, 10.2)
 
 quote(slide, 0.95, 5.95, 11.45, 0.62, 'Mensaje para la charla: el agente acelera lectura, cruce y trazabilidad; el experto conserva el criterio de cobertura y la decisión final.', TEAL)
 add_footer(slide, 10)
@@ -293,13 +295,15 @@ rows = [
 ]
 y0 = 3.82
 for i, (estado, detalle) in enumerate(rows):
-    y = y0 + i * 0.48
+    y = y0 + i * 0.44
     color = TEAL
-    shp = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(0.95), Inches(y), Inches(1.45), Inches(0.34))
+    shp = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(0.95), Inches(y), Inches(1.28), Inches(0.31))
     shp.fill.solid(); shp.fill.fore_color.rgb = color
     shp.line.fill.background()
-    add_textbox(slide, 1.02, y+0.08, 1.30, 0.13, estado, 8.8, WHITE, True, align=PP_ALIGN.CENTER)
-    add_textbox(slide, 2.65, y+0.05, 9.15, 0.22, detalle, 10.8, ANTH, False)
+    add_textbox(slide, 1.02, y+0.07, 1.14, 0.13, estado, 8.0, WHITE, True, align=PP_ALIGN.CENTER)
+    add_textbox(slide, 2.42, y+0.04, 4.05, 0.22, detalle, 9.2, ANTH, False)
+
+card(slide, 6.75, 3.72, 5.65, 1.72, 'Valor del agente', 'Lee el modelo; ordena evidencias por criterio, factor y aspecto; identifica cobertura documental, fuentes y trazabilidad; apoya diagnósticos y prepara insumos para revisión experta.', FUCHSIA, 14.5, 10.2)
 
 quote(slide, 0.95, 5.95, 11.45, 0.62, 'Mensaje para la charla: el agente ordena la cobertura PNC por aspecto; el experto conserva el juicio de madurez.', FUCHSIA)
 add_footer(slide, 11)

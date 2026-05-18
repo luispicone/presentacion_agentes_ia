@@ -197,6 +197,7 @@ Resultado a destacar:
 - La IA acelera lectura, comparación y trazabilidad.
 - La matriz separa evidencia suficiente de brechas documentales.
 - El experto conserva el criterio de cobertura y la decisión final.
+- Valor del agente: identifica documentos que aportan evidencia, ubica secciones/citas/registros relevantes, propone cobertura o brecha, justifica técnicamente el criterio, ordena acciones de cierre y conserva trazabilidad para validación experta.
 
 Mensaje central:
 
@@ -229,6 +230,7 @@ Resultado a destacar:
 - La IA permite presentar el análisis PNC con lógica de matriz: aspecto, estado, evidencia y fuente.
 - La matriz separa ordenamiento documental de juicio experto de madurez.
 - El experto conserva la evaluación final sobre metodología, despliegue, integración y resultados.
+- Valor del agente: lee el modelo, ordena evidencias por criterios, factores y aspectos, identifica cobertura documental, fuentes y trazabilidad, apoya autoevaluaciones o diagnósticos y prepara insumos para revisión experta.
 
 Mensaje central:
 
