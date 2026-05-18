@@ -113,7 +113,22 @@ Mensaje central:
 
 > Antes de diseñar agentes, hay que preparar el terreno: documentación, datos, procesos, criterios y gobierno.
 
-### Slide 6 — De usar IA a diseñar Agentes de IA
+### Slide 6 — La propuesta completa de EXCELENCIA
+
+Proceso de acompañamiento:
+
+1. Diagnóstico de madurez documental y de datos.
+2. Ordenamiento de repositorios documentales y procesos.
+3. Aseguramiento de fidelidad entre documentación y realidad operativa.
+4. Definición de criterios, fuentes de verdad y gobierno de información.
+5. Identificación de casos de uso de IA con valor real, especialmente en sistemas de gestión, excelencia y mejora continua.
+6. Diseño, creación, implementación y gobierno de Agentes de IA.
+
+Mensaje central:
+
+> La propuesta no empieza ni termina en el agente: EXCELENCIA acompaña el proceso completo, desde la base confiable hasta agentes gobernados con valor real.
+
+### Slide 7 — De usar IA a diseñar Agentes de IA
 
 Comparación simple:
 
@@ -125,7 +140,7 @@ Frase central:
 
 > El agente no es el primer paso. Es el paso superador cuando la organización ya sabe qué información, proceso y criterio quiere gobernar.
 
-### Slide 7 — Alcance potencial: procesos donde la IA agrega valor
+### Slide 8 — Alcance potencial: procesos donde la IA agrega valor
 
 Ámbitos posibles:
 
@@ -146,7 +161,7 @@ Matiz obligatorio:
 
 Bajo gobierno, fuentes confiables y validación humana cuando corresponda, prácticamente no hay función de gestión o trabajo de conocimiento donde la IA no pueda asistir, acelerar o mejorar tareas. La pregunta relevante no es si puede aportar valor, sino qué información necesita, qué tarea conviene delegar, con qué nivel de autonomía y con qué controles.
 
-### Slide 8 — Caso único: documentación, calidad, ISO y PNC
+### Slide 9 — Caso único: documentación, calidad, ISO y PNC
 
 Caso realizado por EXCELENCIA:
 
@@ -165,7 +180,7 @@ Mensaje central:
 
 > La IA no reemplaza el criterio experto; lo potencia cuando trabaja sobre documentación confiable.
 
-### Slide 9 — Dos subejemplos del mismo caso
+### Slide 10 — Dos subejemplos del mismo caso
 
 El caso se abre en dos aplicaciones complementarias:
 
@@ -176,7 +191,7 @@ Mensaje central:
 
 > Es un solo caso de éxito: una base documental confiable habilita dos usos de alto valor para EXCELENCIA, ISO y PNC.
 
-### Slide 10 — Subejemplo ISO: matriz de gaps VMOS
+### Slide 11 — Subejemplo ISO: matriz de gaps VMOS
 
 Fuente específica:
 
@@ -203,7 +218,7 @@ Mensaje central:
 
 > En ISO, el agente ordena requisito, evidencia, brecha y acción; la validez depende de evidencia trazable y revisión experta.
 
-### Slide 11 — Subejemplo PNC: matriz de gaps VMOS
+### Slide 12 — Subejemplo PNC: matriz de gaps VMOS
 
 Fuente específica:
 
@@ -236,7 +251,7 @@ Mensaje central:
 
 > En PNC, el agente ordena la cobertura por aspecto; el experto conserva el juicio de madurez.
 
-### Slide 12 — Cierre: la secuencia de madurez
+### Slide 13 — Cierre: la secuencia de madurez
 
 Tres mensajes finales:
 
@@ -248,7 +263,7 @@ Frase de cierre sugerida:
 
 > La pregunta directiva no es solamente qué IA vamos a usar. Es si tenemos la información, los datos y el gobierno necesarios para que la IA cree valor real.
 
-### Slide 13 — Beneficios esperables en ISO y PNC
+### Slide 14 — Beneficios esperables en ISO y PNC
 
 Beneficios vinculados al eje actual de la presentación:
 

@@ -214,14 +214,36 @@ quote(slide, 1.05, 5.05, 11.1, 0.9, 'Antes de diseñar agentes, hay que preparar
 add_footer(slide, 6)
 
 # 7
+slide = blank(); set_bg(slide); add_title(slide, 'La propuesta completa de EXCELENCIA', 'Proceso de acompañamiento')
+process = [
+    ('1', 'Diagnosticar', 'madurez documental y de datos'),
+    ('2', 'Ordenar', 'repositorios documentales y procesos'),
+    ('3', 'Asegurar', 'fidelidad entre documentación y realidad operativa'),
+    ('4', 'Definir', 'criterios, fuentes de verdad y gobierno de información'),
+    ('5', 'Identificar', 'casos de uso de IA con valor real en gestión y excelencia'),
+    ('6', 'Diseñar y gobernar', 'Agentes de IA implementados con controles y métricas'),
+]
+for i, (n, title, body) in enumerate(process):
+    x = 0.85 + (i % 3) * 4.05
+    y = 2.02 + (i // 3) * 1.62
+    color = COLORS[i % 4]
+    circ = slide.shapes.add_shape(MSO_SHAPE.OVAL, Inches(x), Inches(y), Inches(0.52), Inches(0.52))
+    circ.fill.solid(); circ.fill.fore_color.rgb = color
+    circ.line.fill.background()
+    add_textbox(slide, x+0.14, y+0.12, 0.24, 0.16, n, 11, WHITE, True, align=PP_ALIGN.CENTER)
+    card(slide, x+0.62, y-0.02, 3.1, 1.08, title, body, color, 13.2, 10.4)
+quote(slide, 1.0, 5.55, 11.25, 0.72, 'La propuesta no empieza ni termina en el agente: EXCELENCIA acompaña desde la base confiable hasta agentes gobernados con valor real.', FUCHSIA)
+add_footer(slide, 7)
+
+# 8
 slide = blank(); set_bg(slide); add_title(slide, 'De usar IA a diseñar Agentes de IA', 'Madurez')
 card(slide, 0.9, 2.05, 3.55, 2.65, 'Uso puntual de IA', 'Una persona pregunta, obtiene una respuesta y resuelve una tarea aislada.', YELLOW, 16, 13.2)
 card(slide, 4.9, 2.05, 3.55, 2.65, 'IA asistida con buena base', 'La organización usa fuentes confiables y criterios comunes.', ORANGE, 16, 13.2)
 card(slide, 8.9, 2.05, 3.55, 2.65, 'Agente de IA gobernado', 'Sistema diseñado para una tarea o proceso, con propósito, fuentes, reglas, herramientas, límites, trazabilidad, validación y métricas.', TEAL, 16, 12.3)
 quote(slide, 1.25, 5.35, 10.45, 0.82, 'El agente no es el primer paso. Es el paso superador cuando la organización ya sabe qué información, proceso y criterio quiere gobernar.', FUCHSIA)
-add_footer(slide, 7)
+add_footer(slide, 8)
 
-# 8
+# 9
 slide = blank(); set_bg(slide); add_title(slide, 'Procesos donde la IA puede agregar valor', 'Alcance potencial')
 areas = ['Dirección y gobierno', 'Estrategia y planeamiento', 'Calidad y sistemas de gestión', 'Operaciones y seguridad', 'Comercial y clientes', 'Finanzas y control', 'Legales y compliance', 'Personas y cultura', 'Tecnología y sistemas', 'Compras y proveedores', 'Comunicación y sostenibilidad', 'Gestión documental']
 for i, a in enumerate(areas):
@@ -233,9 +255,9 @@ for i, a in enumerate(areas):
     shp.line.color.rgb = LINE
     add_textbox(slide, x+0.12, y+0.15, 2.44, 0.22, a, 10.5, ANTH, True, align=PP_ALIGN.CENTER)
 quote(slide, 1.05, 5.2, 11.1, 0.92, 'La pregunta relevante no es si la IA puede aportar valor, sino qué información necesita, qué tarea conviene delegar, con qué autonomía y con qué controles.', TEAL)
-add_footer(slide, 8)
+add_footer(slide, 9)
 
-# 9
+# 10
 slide = blank(); set_bg(slide); add_title(slide, 'Caso único · Documentación, calidad, ISO y PNC', 'Caso aplicado')
 flow = [('1', 'Base documental\nanalizable'), ('2', 'Cruce contra\nISO y PNC'), ('3', 'Evidencias, brechas\ny oportunidades'), ('4', 'Validación\nexperta')]
 for i,(n,t) in enumerate(flow):
@@ -249,9 +271,9 @@ for i,(n,t) in enumerate(flow):
 card(slide, 1.0, 3.45, 5.15, 1.35, 'Subejemplo ISO', 'Requisitos, evidencia, cobertura, brechas y acciones de cierre.', TEAL, 15.5, 12.8)
 card(slide, 6.75, 3.45, 5.15, 1.35, 'Subejemplo PNC', 'Modelo de excelencia, fortalezas, oportunidades de mejora e insumos de evaluación.', FUCHSIA, 15.5, 12.8)
 quote(slide, 1.05, 5.35, 11.1, 0.82, 'La IA no reemplaza el criterio experto; lo potencia cuando trabaja sobre documentación confiable.', FUCHSIA)
-add_footer(slide, 9)
+add_footer(slide, 10)
 
-# 10
+# 11
 slide = blank(); set_bg(slide); add_title(slide, 'Subejemplo ISO · Matriz de gaps VMOS', 'Caso aplicado')
 add_textbox(slide, 0.86, 1.78, 10.6, 0.28, 'Muestra real tomada de matriz-gaps-iso-vmos.xlsx · filas Excel 14 a 23 · ids 13 a 22 · cláusula 6', 11.5, GREY, False)
 card(slide, 0.85, 2.18, 2.75, 1.28, 'Alcance', '10 requisitos ISO de planificación: riesgos, ambiente, SST, legales, objetivos y cambios.', TEAL, 15, 11.6)
@@ -277,9 +299,9 @@ for i, (estado, detalle, color) in enumerate(rows):
 card(slide, 6.75, 3.72, 5.65, 1.72, 'Valor del agente', 'Identifica documentos y evidencia; ubica secciones, citas o registros; propone cobertura o brecha; justifica el criterio; ordena acciones de cierre y conserva trazabilidad para validación experta.', TEAL, 14.5, 10.2)
 
 quote(slide, 0.95, 5.95, 11.45, 0.62, 'Mensaje para la charla: el agente acelera lectura, cruce y trazabilidad; el experto conserva el criterio de cobertura y la decisión final.', TEAL)
-add_footer(slide, 10)
+add_footer(slide, 11)
 
-# 11
+# 12
 slide = blank(); set_bg(slide); add_title(slide, 'Subejemplo PNC · Matriz de gaps VMOS', 'Caso aplicado')
 add_textbox(slide, 0.86, 1.78, 10.9, 0.28, 'Muestra real tomada de matriz-gaps-pnc-vmos.xlsx · filas Excel 14 a 22 · ids 13 a 21 · Liderazgo / Factor 1.3', 11.0, GREY, False)
 card(slide, 0.85, 2.18, 2.75, 1.28, 'Alcance', '9 aspectos del factor 1.3: planeamiento estratégico y operativo.', TEAL, 15, 11.6)
@@ -306,9 +328,9 @@ for i, (estado, detalle) in enumerate(rows):
 card(slide, 6.75, 3.72, 5.65, 1.72, 'Valor del agente', 'Lee el modelo; ordena evidencias por criterio, factor y aspecto; identifica cobertura documental, fuentes y trazabilidad; apoya diagnósticos y prepara insumos para revisión experta.', FUCHSIA, 14.5, 10.2)
 
 quote(slide, 0.95, 5.95, 11.45, 0.62, 'Mensaje para la charla: el agente ordena la cobertura PNC por aspecto; el experto conserva el juicio de madurez.', FUCHSIA)
-add_footer(slide, 11)
+add_footer(slide, 12)
 
-# 12
+# 13
 slide = blank(); set_bg(slide); add_title(slide, 'Cierre: la secuencia de madurez', 'Síntesis ejecutiva')
 sequence = [('Información confiable', 'documentación vigente + datos íntegros'), ('IA con gobierno', 'fuentes, permisos, validación y trazabilidad'), ('Agentes gobernados', 'tareas/procesos con métricas y resultados')]
 for i,(t,b) in enumerate(sequence):
@@ -317,9 +339,9 @@ for i,(t,b) in enumerate(sequence):
     if i < 2: add_textbox(slide, x+3.35, 2.68, 0.35, 0.22, '→', 22, GREY, True)
 quote(slide, 1.0, 4.55, 11.2, 1.0, 'La pregunta directiva no es solamente qué IA vamos a usar. Es si tenemos la información, los datos y el gobierno necesarios para que la IA cree valor real.', FUCHSIA)
 add_textbox(slide, 1.15, 6.05, 10.9, 0.35, 'EXCELENCIA prepara la base confiable para IA y diseña agentes gobernados orientados a resultados.', 16, ANTH, True, align=PP_ALIGN.CENTER)
-add_footer(slide, 12)
+add_footer(slide, 13)
 
-# 13
+# 14
 slide = blank(); set_bg(slide); add_title(slide, 'Beneficios esperables en ISO y PNC', 'Valor tangible e intangible')
 card(slide, 0.85, 2.05, 2.75, 2.15, 'Tiempo experto', 'Menos tiempo en búsqueda documental, lectura repetitiva, comparación y armado de matrices.', TEAL, 15, 12.2)
 card(slide, 3.85, 2.05, 2.75, 2.15, 'Consistencia', 'Mismo criterio entre filas, menor variabilidad y estructura homogénea de análisis.', ORANGE, 15, 12.2)
@@ -327,9 +349,9 @@ card(slide, 6.85, 2.05, 2.75, 2.15, 'Trazabilidad', 'Requisito o criterio → ev
 card(slide, 9.85, 2.05, 2.75, 2.15, 'Foco directivo', 'Más tiempo para validar, priorizar brechas, decidir y orientar planes de mejora.', YELLOW, 15, 12.2)
 quote(slide, 0.95, 5.1, 11.45, 0.92, 'El beneficio no es reemplazar al experto: es devolverle tiempo y foco para decidir mejor.', TEAL)
 add_textbox(slide, 1.05, 6.25, 11.2, 0.28, 'Aplicado a ISO y PNC: acelerar el ordenamiento de evidencia sin resignar criterio, trazabilidad ni validación humana.', 12.8, GREY, False, align=PP_ALIGN.CENTER)
-add_footer(slide, 13)
+add_footer(slide, 14)
 
-# 14
+# 15
 slide = blank(); set_bg(slide)
 diagonal_band(slide, 9.45, -0.15, 0.65, 7.95, YELLOW, 10)
 diagonal_band(slide, 10.05, -0.15, 0.65, 7.95, ORANGE, 10)
@@ -340,7 +362,7 @@ add_textbox(slide, 0.82, 0.85, 4.5, 0.3, 'PREGUNTA FINAL', 11, TEAL, True)
 add_textbox(slide, 0.82, 1.55, 8.0, 2.0, 'Si mañana incorporáramos IA en nuestros procesos críticos, ¿trabajaría sobre la mejor versión de nuestra organización o sobre nuestro desorden documental?', 30, ANTH, True, line_spacing=0.95)
 quote(slide, 0.88, 4.65, 7.6, 0.82, 'Empezar por un diagnóstico: información confiable, datos íntegros, procesos claros y gobierno suficiente para que la IA cree valor real.', FUCHSIA)
 add_textbox(slide, 0.95, 6.18, 7.5, 0.36, 'EXCELENCIA · Preparar la base confiable para IA y diseñar agentes gobernados orientados a resultados.', 13.5, GREY, False)
-add_footer(slide, 14)
+add_footer(slide, 15)
 
 prs.save(OUT)
 print(OUT)
